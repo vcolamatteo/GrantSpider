@@ -17,23 +17,22 @@
 
 ### ✨ Key Features
 
-🤖 **Multi-Agent Architecture** - Designed with LangGraphs 
-🔍 **Dense+Sparse Embeddings** - HuggingFace transformers for semantic and textual understanding  
-🌐 **Dual Interface** - Choose between a Gradio web UI or the command-line interface  
+🤖 **Multi-Agent Architecture** - Designed with LangGraphs
+
+🔍 **Dense+Sparse Embeddings** - HF local models for semantic and textual understanding
+
+🌐 **Dual Interface** - Choose between a Gradio web UI or the command-line interface
+
 ⚡ **Free to use** - Powered by Groq API for a free testing
-🎨 **Web UI** - Gradio interface  
-📊 
-🔧 **Easy Setup** - UV pacage   
+
+🎨 **Web UI** - Gradio interface
+
+🔧 **Easy Setup** - UV pacage
+
 
 ---
 
 ## 🚀 Quick Start
-
-### Prerequisites
-
-- Python 3.10 or higher
-- Git
-- UV package manager (recommended)
 
 ### 🛠️ Installation
 
@@ -101,12 +100,14 @@ In `rag_cmd.py`, set the setup flag:
 run_initial_setup = True
 ```
 
-<img src="https://github.com/user-attachments/assets/5baf6112-a907-444c-9399-8269c6ef3a50" alt="CMD Setup" width="600"/>
+![Screenshot from 2025-06-22 13-27-40](https://github.com/user-attachments/assets/d1092164-697b-4674-9e3b-ed4c9c1734c2)
 
 ### 🖱️ GUI Setup
 Use the convenient setup toggle in the web interface:
 
-<video src="https://github.com/user-attachments/assets/42f974e4-8b89-4902-8787-9c9acc9f7c4e" width="600" controls></video>
+
+https://github.com/user-attachments/assets/c4d8be7a-b14f-442c-91f6-0fd0abd51cfc
+
 
 ---
 
@@ -114,7 +115,8 @@ Use the convenient setup toggle in the web interface:
 
 The full graph of the RAG
 
-![image](https://github.com/user-attachments/assets/69e4e87d-d613-4839-b6c3-ec2d1be3f76f)
+![image](https://github.com/user-attachments/assets/62e049bd-9d77-4682-a46c-564abf6fd22c)
+
 
 ---
 
