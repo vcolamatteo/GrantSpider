@@ -46,7 +46,7 @@ This repository is divided into two key modules:
 
 ## 📋 Project Documentation
 
-📄 **Detailed project documentation is available in [`assignment.pdf`](assignment.pdf)** - This comprehensive document includes:
+📄 **Detailed project documentation is available in [`assignment.pdf`](assignment.pdf)** 
 - Complete system architecture and design decisions
 - Layout document analysis methodology
 - Multi-agent RAG system implementation details
