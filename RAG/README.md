@@ -129,8 +129,8 @@ GrantSpyder uses a comprehensive configuration system that controls all aspects 
 
 | Parameter | Default Value | Description |
 |-----------|---------------|-------------|
-| `source_path` | `"../preprocessing/cropsAll/"` | Root folder containing grant documents for processing |
-| `chunk_dst` | `"chunks_grants/multi_doc/"` | Output folder for processed embeddings and chunks |
+| `source_path` | `"../preprocessing/cropsAll/"` | Folder path containing preprocessing output (pargraphs text) |
+| `chunk_dst` | `"chunks_grants/multi_doc/"` | Folder path containing embeddings (.pkl). Used when `run_initial_setup` is True |
 
 ### 🗄️ Index Configuration
 
@@ -143,18 +143,18 @@ GrantSpyder uses a comprehensive configuration system that controls all aspects 
 
 | Parameter | Default Value | Description |
 |-----------|---------------|-------------|
-| `processing_batch_size` | `1` | Batch size for document processing (lower = less memory) |
-| `upsert_batch_size` | `10` | Batch size for vector uploads (higher = faster uploads) |
+| `processing_batch_size` | `1` | Batch size for document processing |
+| `upsert_batch_size` | `10` | Batch size for vector uploads on the DB |
 
 ### 🔍 Search & Retrieval
 
 | Parameter | Default Value | Description |
 |-----------|---------------|-------------|
-| `sparse_top_k` | `1000` | Initial sparse search results retrieved |
+| `sparse_top_k` | `1000` | Sparse dimensionality |
 | `dense_search_top_k` | `5` | Dense vector search results (semantic similarity) |
-| `sparse_search_top_k` | `5` | Sparse keyword search results (exact matches) |
+| `sparse_search_top_k` | `5` | Sparse keyword search results (SPLADE matches) |
 | `rerank_top_k` | `3` | Final reranked results presented to user |
-| `use_reranker` | `False` | Enable/disable the reranking step for better results |
+| `use_reranker` | `False` | Enable/disable the reranking. NOt active by default |
 
 ### 🔀 Fusion & Ranking
 
@@ -169,14 +169,14 @@ GrantSpyder uses a comprehensive configuration system that controls all aspects 
 | Parameter | Default Value | Description |
 |-----------|---------------|-------------|
 | `create_new_embeddings` | `False` | Set to `True` to force recreation of all embeddings |
-| `run_initial_setup` | `True` | Set to `True` for first-time setup or index rebuild |
+| `run_initial_setup` | `False` | Set to `True` for first-time setup or index rebuild. It creates the DBs on Pinecone |
 
 ### 💬 Chat Configuration
 
 | Parameter | Default Value | Description |
 |-----------|---------------|-------------|
 | `max_chat_history` | `20` | Maximum conversation turns stored in memory |
-| `max_iterations` | `15` | Maximum agent iterations per query |
+| `max_iterations` | `15` | Maximum node to be explorable per query |
 | `max_time_seconds` | `60.0` | Timeout for query processing (prevents hanging) |
 
 ---
