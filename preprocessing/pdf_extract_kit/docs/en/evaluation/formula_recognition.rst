@@ -1,5 +1,0 @@
-=====================
-Formula Recognition Evaluation
-=====================
-
-XXX

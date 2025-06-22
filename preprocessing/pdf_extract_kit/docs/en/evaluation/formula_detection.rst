@@ -1,5 +1,0 @@
-=====================
-Formula Detection Evaluation
-=====================
-
-XXX

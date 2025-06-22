@@ -1,1 +1,0 @@
-from .registry import TASK_REGISTRY, MODEL_REGISTRY

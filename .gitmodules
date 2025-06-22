@@ -4,3 +4,6 @@
 [submodule "preprocessing/scripts/pdf_extract_kit"]
 	path = preprocessing/scripts/pdf_extract_kit
 	url = https://github.com/opendatalab/PDF-Extract-Kit.git
+[submodule "preprocessing/pdf_extract_kit"]
+	path = preprocessing/pdf_extract_kit
+	url = https://github.com/opendatalab/PDF-Extract-Kit.git

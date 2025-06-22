@@ -1,5 +1,0 @@
-=====================
-Table Recognition Evaluation
-=====================
-
-XXX

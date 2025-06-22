@@ -1,5 +1,0 @@
-=====================
-Layout Detection Evaluation
-=====================
-
-XXX
