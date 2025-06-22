@@ -1,0 +1,11 @@
+“ Print-outs from the ID electronic chip — Cannot be accepted either.
+
+Signatures
+
+The LEAR documents must be signed by persons who are legal representatives of the participant.
+
+The names of both legal representative and LEAR in the LEAR documents must correspond to those indicated in their official identity documents. LEAR documents signed with acronyms/nick names/etc that do not correspond to the names indicated in the identity documents will not be accepted.
+
+Signatures can be either handwritten signatures or qualified electronic signatures
+
+within the meaning of Article 3(12) of Regulation 910/2014°. For the latter, the Central Validation Service will verify that the signature is based on a valid qualified certificate and was created by a secure creation device. See here for the list of accepted trust service providers: eIDAS Dashboard (europa.eu).

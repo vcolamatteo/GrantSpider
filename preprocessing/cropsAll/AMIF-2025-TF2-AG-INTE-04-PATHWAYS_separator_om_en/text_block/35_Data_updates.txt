@@ -1,0 +1,10 @@
+Data updates
+
+Updates to the registered organisation data must be requested via the Participant Register (My Organisations > Actions > Modify Organisation):
+
+ • by the LEAR (or Account Administrators) for validated entities
+
+ • by the Self-registrant if your organisation has not been validated yet.
+
+If your organisation has already a validated PIC and a new one is created by mistake, your LEAR or Account Administrator should contact the Central Validation Service via the Portal Messaging Facility (My Organisations > Actions > Modify Organisation). The information will be transferred from the duplicate PIC to the correct PIC and the duplicate flagged.
+

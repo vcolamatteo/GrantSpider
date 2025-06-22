@@ -1,0 +1,28 @@
+How to nominate/revoke someone
+
+To grant a role, the LEAR (or other authorised person) must enter the user's e-mail address. It must be the same as the address the person used to open their EU Login account.
+
+If the person does not already have an EU Login account, they will automatically receive an invitation to create one.
+
+Organisation roles — to grant/revoke, go to My Organisations > Actions > Edit Organisation Roles > Add Roles.
+
+Project/contract roles — to grant/revoke, go to My Projects > Actions > Manage Consortium > Edit Roles.
+
+How many different roles are needed in a consortium?
+
+A user's EU Login account can carry any combination of roles, this depends on the participants. Thus, a user can acquire a differentiated set of access rights to different functions for managing projects, contracts or organisation data.
+
+4\ For small organisations or beneficiaries who are individuals (natural persons), this means that one single person can combine all the access rights needed to manage their projects/contracts (i.e. LEAR, CoCo/PaCo, PLSIGN and PFSIGN).
+
+The minimum configuration for a consortium in any given project is:
+
+ • 1 Primary Coordinator Contact (PCoCo)
+
+ • 1 Participant Contact (PaCo) per beneficiary  • 1 LEAR per organisation  • 1 Project Legal Signatory (PLSIGN) per organisation  • 1 Project Financial Signatory (PFSIGN) per organisation.
+
+One person can have several roles at the same time.
+
+44 Organisations that participate as Affiliated Entities (or other type of participant — Associated Partner, Subcontractor, etc) do NOT need any access roles in the Portal, since they are not allowed to use it. All actions in the Portal are handled for them by the Coordinator/Beneficiary they are linked to.
+
+ • FAQ onusers' roles and access rights
+

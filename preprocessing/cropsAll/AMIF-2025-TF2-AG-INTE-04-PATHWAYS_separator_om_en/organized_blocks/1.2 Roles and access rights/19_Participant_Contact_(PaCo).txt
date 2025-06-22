@@ -1,0 +1,8 @@
+Participant Contact (PaCo)
+
+The PaCo is a representative of an organisation in the consortium that is not the coordinating organisation.
+
+An organisation can have an unlimited number of PaCos per project, and each will be able to:
+
+ • nominate/revoke other PaCos in their organisation  • assign Legal and Financial Signatories in their organisation to their projects/contracts  • submit their work to the Coordinator  • nominate/revoke Task Managers and Team Members in their own organisation  • make changes specifically to the participant-related sections of the project documents on the Portal  • submit information directly to the EU services (if required under the Grant Agreement)
+

@@ -1,0 +1,58 @@
+3.2.3 Special procedures: Ethics review, security scrutiny,
+Ownership control check
+Ethics review
+In order to avoid funding of ethically problematic activities, some funding programmes require
+an ethics review procedure to clear the projects (e.g. Horizon Europe, Digital Europe, EU4H,
+AMIF).
+The details and the scope of the ethics review depend on each programme. Most programmes
+simply check whether projects raise ethics issues and, if so, whether these are adequately
+addressed. Some programmes, such as Horizon Europe, have a more elaborated review
+procedure which includes several steps depending on the complexity of the issues (see Horizon
+Europe Programme Guide).
+The participants will be informed (through the coordinating organisation) of the ethics review
+result and it will be posted in their Portal library (My Projects > Actions > Manage Project >
+Document Library).
+If the ethics review leads to requirements to be implemented before grant signature, you will
+need to take immediate action to comply (and may also have to adapt the description of the
+action (DoA Part B) to reflect this). If the review leads to additional requirements to be fulfilled
+during the project, they are automatically added as ethics deliverables into the system and DoA
+Part A and will be placed in an automatically generated work package called ethics
+requirements. If the review shows that there are serious ethics issues that cannot be solved,
+funding may have to be refused.
+You may be asked to provide additional information if this is needed to complete the ethics
+review (e.g. in case of serious or complex ethics issues or missing information).
+Links
+• How to complete your ethics self-assessment
+Security scrutiny
+In order to ensure that classified information (for EU classified information (EUCI), see Decision
+2015/444) is protected from unauthorised disclosure and that security issues emerging from
+project activities are appropriately addressed, some EU programmes systematically provide for
+a security review procedure for applications that operate in security relevant contexts (e.g.
+European Defence Fund, Horizon Europe, Digital Europe).
+The details and the scope of the security review depend on each programme. Some
+programmes, such as Horizon Europe and Digital Europe, have a more elaborated security
+review procedure which includes several steps depending on whether the topic under which a
+proposal is submitted is flagged by the Commission as security sensitive or not (see Horizon
+Europe Programme Guide).
+The security scrutiny (which is the final step of the more elaborated security review) is
+essentially the same for all programmes: proposals must be cleared by the Security Scrutiny
+Group (composed of national security experts nominated in agreement with their national
+security authorities (NSAs)). The Security Scrutiny Group will determine the level of sensitivity
+of the application and check whether all security aspects are being handled appropriately. You
+will be informed about the result through your coordinator.
+If the security scrutiny leads to requirements to be implemented before grant signature, you
+will need to take immediate action to comply. If the scrutiny leads to classification and additional
+requirements to be fulfilled during the project, this will be automatically reflected in the system
+(classification of existing deliverables, limited dissemination of existing deliverables due to
+security reasons, security aspect letter (SAL), security classification guide (SCG), appointment
+of project security officer, establishment of security advisory board, etc.). If the scrutiny shows
+that the project is too security sensitive, funding may have to be refused.
+Links
+• How to handle security-sensitive projects
+Third country control
+Some programmes (or calls) limit the participation of entities which are controlled by third
+countries (e.g. European Defence Fund, Digital Europe, Horizon Europe, CEF). In this case, a
+special procedure is needed to verify ownership control of participants.
+Links
+• Guidance on participation in DEP, HE, EDF and CEF-DIG restricted calls
+• Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment

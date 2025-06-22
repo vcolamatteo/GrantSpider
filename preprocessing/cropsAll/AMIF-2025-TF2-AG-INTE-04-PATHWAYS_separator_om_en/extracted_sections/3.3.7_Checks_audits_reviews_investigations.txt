@@ -1,0 +1,58 @@
+3.3.7 Checks, audits, reviews & investigations
+In order to ensure sound financial management and compliance with the Grant Agreement
+rules, the Granting Authority will perform project reviews and financial audits on participants.
+For lump sum grants, since they do not use actual costs, there will be no financial audits focusing
+on costs. Reviews will focus on the technical implementation of the action or other aspects of
+the Grant Agreement.
+Project reviews
+The Granting Authority will regularly monitor the project implementation and check the proper
+implementation of the action and compliance with the Grant Agreement obligations, including
+assessing deliverables and reports.
+In addition, the Granting Authority may also carry out in-depth project reviews. Those reviews
+focus typically on the technical implementation of the project, but may also cover financial and
+budgetary aspects or compliance with other obligations under the GA.
+Audits
+In addition, most programmes perform financial audits of participants in EU projects (often with
+the help of outside audit firms).
+Such audits will be performed in accordance with International Standards on Auditing. The
+auditors comply with ethical requirements and will plan and perform relevant procedures in line
+with the EU Grants Indicative Audit Programme, in order to obtain reasonable assurance that
+the Financial Statements are free of material misstatement.
+You will receive a draft audit report on which you will be able to provide your observations.
+If systemic errors are found, the Granting Authority may extend the findings of the audit
+results to non-audited Grant Agreements or non-audited periods.
+Anti-fraud strategy — OLAF investigations
+In case of fraud suspicions, the Granting Authority will inform the European Anti-fraud Office
+(OLAF), who may conduct more in-depth investigations.
+OLAF also cooperates with national authorities (through information exchange, on-the-spot
+checks, coordination of forensic audits etc).
+Related Certifications
+Certificate on the methodology for unit cost (CoMUC)
+The CoMUC is a factual report produced by an independent auditor (using the template available
+on Portal Reference Documents). Its purpose is to enable the granting authority to:
+• identify your usual cost accounting practices
+• check that you have used a suitable unit cost accounting methodology.
+Submitting a CoMUC methodology certificate is voluntary. Doing so will help prevent problems
+later on, if your grant is audited. If the certificate is approved, costs declared in line with this
+methodology will not be challenged, unless you have concealed information for the purpose of
+the approval.
+For the MFF 2021-2027, only CEF and Digital Europe will be using this certification. For Horizon
+Europe it has been replaced by the SPA (systems and process audit; see AGA — Annotated
+Grant Agreement, art 24).
+The certificate may be requested at any time during the implementation of the programme.
+As a minimum, one project should have been started and the data available must give the
+auditor enough of a basis to carry out the necessary procedures. Ideally, we would recommend
+submitting the methodology after at least one reporting period has passed.
+In case of subsequent changes to your methodology you should notify the Granting Authority.
+You may also submit a new certificate reflecting the changes.
+Links
+• AGA — Annotated Grant Agreement, art 25
+• EU Grants Indicative Audit Programme
+• Commission Anti-fraud Strategy
+• European Anti-fraud Office (OLAF) website
+• Horizon Europe Coordinators' Day 2022 event page (including recording of the event
+and presentations)
+• Communication to Horizon 2020 Beneficiaries: How to avoid errors when claiming costs
+in H2020 grants
+FAQ
+• FAQ on Audit and Certificates FAQ

@@ -1,0 +1,19 @@
+& Enter the other grant data into the system
+
+a) Set the project starting date
+
+Set the date on which the project is to start (starting date of the action) on the Project Summary screen.
+
+The options may vary depending on programme and type of action (see call conditions), but generally there are 2 options:
+
+ • the first day of the month after entry into force (signature by EU) — default option
+
+ • if needed, a fixed starting date may be agreed — this should be the first day of a month and normally after grant signature (unless authorised otherwise by the Granting Authority).
+
+4\ If you enter a fixed starting date, you will be asked to justify your choice. If you chose a starting date before grant signature, you must explain why your project requires this. Please note that the starting date can normally NOT be before the date on which your application was submitted (unless explicitly allowed in the call conditions). Please also note that any project activities taking place before grant signature bear the risk that the grant may finally not be signed.
+
+b) Check the project reporting periods
+
+The reporting periods will be pre-filled for each call on the Reporting Periods screen.
+
+To minimise administrative burden for you, we will choose the smallest possible number of reporting periods. On average, most programmes tend to have reporting periods between 12 and 18 months.

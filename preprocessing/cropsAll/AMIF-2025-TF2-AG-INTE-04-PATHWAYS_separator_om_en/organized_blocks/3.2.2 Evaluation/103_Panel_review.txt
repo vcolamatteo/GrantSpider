@@ -1,0 +1,6 @@
+Panel review
+
+After the consensus phase, the evaluation committee (panel) will take over and discuss the proposals to:
+
+ • reach an agreement on the scores and comments for all proposals evaluated together, checking consistency across the evaluations  • if necessary, propose a new set of marks or revise comments, and resolve cases where evaluators were unable to agree  • rank the above-threshold proposals and give a priority order for proposals with the same score.
+

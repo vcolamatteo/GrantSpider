@@ -1,0 +1,14 @@
+Coordinator signs & submits the amendment request
+
+Once the request for an amendment is complete and ready to be submitted, the system generates the 2 documents (amendment request letter and amendment core) for signature (PDF document, digitally signed to guarantee its security, reliability and authenticity).
+
+The Coordinator’s PLSIGN logs into My Projects > Actions > Manage Project > Amendment > Sign & Submit (Same procedure as for Grant Agreement; see Signing the Grant Agreement).
+
+The amendment can be previewed, downloaded or printed (before or after signature) from the Documents screen if desired.
+
+G\ As Coordinator, you cannot alter a request for an amendment once it has been signed and submitted. There are 2 options:
+
+ • You withdraw it.
+
+ • The Granting Authority rejects it (amendment rejection letter).
+

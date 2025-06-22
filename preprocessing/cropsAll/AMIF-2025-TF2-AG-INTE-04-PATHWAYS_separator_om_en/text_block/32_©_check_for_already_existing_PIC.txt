@@ -1,0 +1,16 @@
+© check for already existing PIC
+
+In order to avoid creating duplicate PICs, you should first check whether your organisation (or another department) is already registered in the Portal and use that PIC.
+
+Go to How to Participate > Participant Register > Search a PIC > Search a PIC and put in your organisation data. 4\ Check several variants to make sure there is really no entry.
+
+|f no PIC is registered, start registration
+
+Go to How to Participate > Participant Register > Register your organisation. The Registration wizard will guide you step-by-step through the process.
+
+Detailed explanations are available in the S47 ~—.
+
+You do not need to complete the registration process in a single session. You can enter some information, save it and continue later on. To resume your registration, go to My Organisations > Continue Registration. Incomplete draft registrations are automatically deleted after one year.
+
+If you create by mistake a new PIC, see below Data updates.
+

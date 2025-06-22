@@ -1,0 +1,10 @@
+2. Participant Register — Register your organisation
+If you want to submit a proposal, your organisation needs to be registered in the Portal
+Participant Register and have a 9-digit Participant Identification Code (PIC).
+If your proposal is successful, you will receive a notification and be asked to:
+• provide supporting documents to confirm the administrative and legal information
+declared during the registration (legal entity validation)
+• appoint a Legal Entity Appointed Representative (LEAR appointment)
+• provide supporting documents to verify the financial capacity of your organisation
+(financial capacity assessment, if applicable)
+• validate the bank account for payments (bank account validation, only for coordinators).

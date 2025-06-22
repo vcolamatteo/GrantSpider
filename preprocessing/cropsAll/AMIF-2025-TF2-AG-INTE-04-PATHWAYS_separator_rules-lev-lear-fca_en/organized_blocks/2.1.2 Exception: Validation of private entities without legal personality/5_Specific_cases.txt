@@ -1,0 +1,10 @@
+Specific cases
+
+¢« Natural persons (including self-employed persons; see below) — Are by default considered as being legal entities. However, the Central Validation Service will refuse validation of persons that cannot legally enter into contractual relations with the EU (e.g. persons under age).
+
+“+ Branches — Are not regarded as legal entities, since they do not have legal personality distinct from that of their mother-company. The fact that they are registered in national official registers is not relevant. It will be their mother-company that will be considered as legal entity for the purposes of the legal entity validation in the Participant Register. The same applies to branches established in a different country or branches of entities such as non-profit organisations, NGOs, etc.
+
+“+ Foreign companies (company establishments which are registered with a special status in the official register, e.g. ‘société de droit étranger’) — Will not be regarded as legal entities, since they do not have legal personality distinct from that of their mother-company. It will be their mother-company that will be considered as legal entity for the purposes of the legal entity validation in the Participant Register (the one registered in the country of incorporation).
+
+“+ Entities set-up within (or under) a parent organisation (such as departments/centers/offices, without legal personality, despite having administrative or budgetary autonomy, own VAT number/fiscal code/number of registration, etc) — Cannot be regarded as legal entities and are considered as belonging to their parent- organisation. It will be their parent organisation that will be considered as legal entity for the purposes of the legal entity validation in the Participant Register.
+

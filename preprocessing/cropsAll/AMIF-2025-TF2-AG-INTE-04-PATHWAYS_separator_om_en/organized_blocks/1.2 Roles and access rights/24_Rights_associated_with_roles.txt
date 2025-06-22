@@ -1,0 +1,9 @@
+Rights associated with roles
+
+Nomination process
+
+Some roles are automatically given based on the information in your application:
+
+ • The proposal initiator will become the Primary Coordinator Contact (PCoCo).  • The main contact persons in the participating organisations will become Participant Contacts (PaCos).  • Percone with read-only accece to the nronocal will hecome Team Mamberc (TeMec).
+
+4\ Once your organisation is validated by the Central Validation Service, it is important that you appoint a LEAR to make sure that you can manage the access rights to the Portal.

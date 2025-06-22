@@ -1,0 +1,32 @@
+3.2 Selection — From evaluation to grant signature
+
+3.2.1 Admissibility and eligibility check
+Once you have submitted a proposal, the Granting Authority will check:
+• admissibility (complete and properly put together) and
+• eligibility (fulfills eligibility conditions)
+and then
+• ask an independent evaluation committee to evaluate it.
+Admissibility criteria
+The admissibility conditions are set out in the call conditions on the Topic page.
+They are generally the same across all EU programmes. The proposal must:
+• be submitted through the online Submission System before the call deadline
+• be complete — application form correctly filled out, all sections of Parts A and B
+completed, all annexes and supporting documents provided
+• be readable, accessible and printable.
+Furthermore, the proposal should respect the page limit set out in the application form. Excess
+pages will be automatically made illegible, and will not be taken into consideration by the
+evaluators.
+Eligibility criteria
+The eligibility criteria are also set out in the call conditions on the Topic page.
+The basic eligibility check involves for most EU programmes if the content of the proposal is in
+line with the topic description and if it involves participants coming from the right countries.
+Additional criteria depend on the programme or specific topic (i.e. minimum consortium
+composition, type of participant, geographic location of the project activities, coordinator from
+an EU country, etc.).
+For more information on participation of non-EU participants, see Who can apply section.
+Outcome of the admissibility and eligibility check
+If a proposal is inadmissible or ineligible, the participants will be informed (through the
+coordinating organisation) and the rejection letter will be posted in their Portal library (My
+Proposals > Actions > Follow-up > Proposal Management & Grant Preparation > Documents).
+For complaints procedures against such rejections, see section Complaints about proposal
+rejection.

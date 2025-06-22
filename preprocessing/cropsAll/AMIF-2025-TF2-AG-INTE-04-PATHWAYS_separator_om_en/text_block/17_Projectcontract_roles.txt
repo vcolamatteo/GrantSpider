@@ -1,0 +1,4 @@
+Project/contract roles
+
+Depending on your project roles you can have read-only, read-write or read-write-submit rights to information, documents and online forms.
+

@@ -1,0 +1,8 @@
+Managing roles in the organisation
+
+If organisation roles need to be changed, your LEAR should immediately update them in the system (My Organisations > Actions > Edit Organisation Roles)
+
+If project/contract roles need to be changed, your CoCo/PaCo should immediately update them in the system (My Projects > Actions > Project Consortium).
+
+4\ If grants/contracts or cost claims/invoices are signed in the system by persons whose access rights should have been revoked, this will be your responsibility and you will have to bear the consequences. Their signatures and other actions will be considered valid by the EU services.
+

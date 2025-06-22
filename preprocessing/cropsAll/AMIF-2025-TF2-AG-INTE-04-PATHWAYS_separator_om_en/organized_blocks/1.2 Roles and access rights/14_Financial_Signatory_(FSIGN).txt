@@ -1,0 +1,30 @@
+Financial Signatory (FSIGN)
+
+FSIGNs must be nominated for an organisation by the LEAR or an Account Administrator (see Figure 3).
+
+FSIGNs are assigned to a particular project by a Coordinator or Participant Contact (see Figure 3). An organisation can have an unlimited number of FSIGNs.
+
+Primary Audit Contact (PAuCo) and Audit Contact (AuCo)
+
+Audit roles can be assigned in the Portal only when the organisation is audited.
+
+The LEAR is automatically assigned the Primary Audit Contact (PAuCo), and can nominate other PAuCos in the organisation.
+
+The PAuCo(s) must also nominate at least one Audit Contact (AuCo) as main contact for audits on the organisation, and additionally, assign both the AuCo and the audit to an audit team within the organisation.
+
+PAuCos have the following system rights for their organisation:
+
+ • nominate other PAuCo(s) for the organisation and the AuCo(s) for an audit (My Organisations > Actions > View Roles, click the Roles tab). Detailed explanations are HOW TO available in the @  • manage the teams in the organisation to assign the audits and the audit contacts to them (My Organisations > Actions > View Roles, click the Teams tab). Detailed HOW TO explanations are available in the
+
+ • revoke other roles
+
+AuCos can nominate other AuCos for the teams to which they are assigned. They can also revoke other AuCos in their team.
+
+An AuCo assigned to a team has the following system rights for those audits:
+
+ • perform the audit tasks for their organisation  • communicate with the EU auditors (receive and send formal notifications, submit audit documents, etc)
+
+Summary organisation roles
+
+When nominating FSIGNs or LSIGNs, the LEAR can add comments that can help the Participant Contacts to select the right LSIGN/FSIGN for their project (e.g. "Mr Smith can sign for projects run by Department X from 1 February 2014.")._ Such comments can be useful for defining the scope of responsibilities or duration of FSIGNs or LSIGNs in large organisations with different departments.
+

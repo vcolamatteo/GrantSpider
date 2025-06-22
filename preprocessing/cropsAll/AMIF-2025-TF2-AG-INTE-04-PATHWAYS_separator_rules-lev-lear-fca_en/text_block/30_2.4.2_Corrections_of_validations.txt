@@ -1,0 +1,8 @@
+2.4.2 Corrections of validations
+
+If a validation turns out to beincorrect (through an audit, ex-post check, investigation or other means), it will be corrected by the Central Validation Service. The correction will be registered with effect back to the effective date of the initial validation.
+
+If the error is attributable to the Central Validation Service and its correction implies disadvantages for the participant, the retroactive effect may exceptionally be waived, if duly justified and in line with the principles of sound financial management and proportionality.
+
+If the error was the fault of the participant (intentional or unintentional), its participation in on-going grants, procurements, prizes, contribution agreements, etc may be terminated and undue amounts paid may be recovered. Moreover, the participant may be fined and excluded from future EU funding (grants, procurements, prizes, contribution agreements, etc; see Articles 135 to 145 of the Financial Regulation). In addition, the European Anti-Fraud Office (OLAF) may be informed.
+

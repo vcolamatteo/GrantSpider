@@ -1,0 +1,6 @@
+Beneficiary termination reporting
+
+If one of the Beneficiaries has to leave the consortium, the the Coordinator has to prepare a termination report (Technical Report Part B and Financial Report) and a report on the distribution of payments to this Beneficiary in the Grant Management System.
+
+Details on the steps to follow are explained inthe N¥ —.
+

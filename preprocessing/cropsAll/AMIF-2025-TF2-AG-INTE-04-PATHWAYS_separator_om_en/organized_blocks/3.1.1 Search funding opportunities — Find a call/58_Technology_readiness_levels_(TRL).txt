@@ -1,0 +1,6 @@
+Technology readiness levels (TRL)
+
+Calls in the field of innovation (close to market) often use the notion of technology readiness level to specify also the level of technology readiness that is expected from the projects. There are 9 technology readiness levels:
+
+ • TRL 1 — basic principles observed  • TRL 2 — technology concept formulated  • TRL 3— experimental proof of concept  • TRL 4 — technology validated in lab  • TRL 5 — technology validated in relevant environment  • TRL 6 — technology demonstrated in relevant environment  • TRL 7 — system prototype demonstration in operational environment  • TRL 8 — system complete and qualified  • TRL 9 -— actual system proven in operational environment.
+

@@ -1,0 +1,7 @@
+3.3.8 Communicating with the Granting Authority
+
+Formal notification
+
+The formal notification channel (My Projects > Actions > Manage Project > Launch new interaction with the EU > Formal Notification) can be used ONLY for correspondence requiring acknowledgement of receipt, i.e.
+
+ • to dispatch replies to formal notifications received from the Granting Authority and  • for communications under Article 19 of the Grant Agreement o information requests o information about events and circumstances which impact the action and  • whenever it is clearly stipulated in the Grant Agreement (e.g. declare conflict of interest, force majeure).

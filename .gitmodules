@@ -1,0 +1,6 @@
+[submodule "RAG/splade"]
+	path = RAG/splade
+	url = https://github.com/naver/splade.git
+[submodule "preprocessing/scripts/pdf_extract_kit"]
+	path = preprocessing/scripts/pdf_extract_kit
+	url = https://github.com/opendatalab/PDF-Extract-Kit.git

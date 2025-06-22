@@ -1,0 +1,13 @@
+Team Member (TeMe)
+
+TeMes have limited access rights: search and read-only functions.
+
+Project Legal Signatory (PLSIGN)
+
+The PLSIGN has the right to sign the grant/contract (and amendments) for a specific project on behalf of the organisation.
+
+The LEAR (or Account Administrators) must first appoint LSIGNs; the Coordinator and each participant (PCoCo/CoCos/PaCos) can then assign PLSIGNs for a given project to act as legal signatory for the participant in the project.
+
+An organisation can have can have an unlimited number PLSIGNs per project.
+
+They have the same rights as CoCos/PaCos for project/contract information. Cannot assign/revoke any roles.

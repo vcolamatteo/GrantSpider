@@ -1,0 +1,264 @@
+1.2 Roles and access rights
+Roles and access rights restrict the information a user can view and the tasks they can perform
+(for instance, only a person with the coordinator role can delete a draft application).
+Access rights are linked to a user's roles in the Portal personalised area (My Area), which are
+in turn linked to their functions within their organisation or in relation to a particular
+project/contract and their nomination by the organisation’s LEAR (or other authorised person).
+How are access rights managed?
+Roles are divided into 2 main sections:
+• Organisation roles are linked to the whole organisation and its data (but without any
+access to the projects/contracts)
+• Project/contract roles are defined first in the proposal, and then transferred to the
+project/contract when you have been invited to sign with the EU. They are managed
+application by application and project by project, covering all types of access
+(read/write/submit).
+One user can have several roles at the same time.
+How are the roles assigned?
+Most of these roles can be freely assigned and managed by you or your organisation, according
+to your needs:
+• you can start creating an application yourself
+• you can be invited by other users who have created an application to join their
+application
+• persons in your organisation can give you (and revoke) access to roles of your
+organisation
+• the initiator of an application (or persons in your organisation involved in an on-going
+application) can give you (and revoke) access to roles in the application
+• persons involved in on-going projects/contracts can give you (and revoke) access to
+roles in their projects/contracts.
+All access rights are linked to the user's EU Login account.
+Exceptions
+The EU services intervene in the assignment of the following 2 key roles:
+LEAR (Legal Entity Appointed Representative) — organisation role
+The LEAR is the person that is officially nominated by an organisation to manage rights and
+obligations related to the use of the Portal and to act as main administrative and legal contact
+in case of issues. Usually, LEARs are staff members in the central administration of the
+organisation. The LEAR handles all the organisation-related data on the Portal and appoints the
+persons within their organisation that are allowed to electronically sign grants/contracts and
+cost claims.
+There can only be one LEAR per organisation.
+LEARs are validated by the Central Validation Service as part of the registration in the
+Participant Register. Learn more about the detailed procedure for appointing the LEAR.
+Primary Coordinator Contact — project role
+The Main Contact/Contact Point of the Coordinator/Group Leader in the application will become
+the PCoCo (Primary Coordinator Contact). This person is by default the one creating the
+application in the Portal and thereby becomes the main person responsible for the application.
+As such, they can submit requests, reports and notifications to the EU on behalf of the
+consortium.
+There can only be one PCoCo per project/contract.
+During the application phase and before call deadline, the PCoCo may transfer this role to
+someone else in the application.
+Afterwards (i.e. after call submission is closed), a new PCoCo can be assigned only by the EU
+Project/Procurement Officer. If such a replacement becomes necessary, the Coordinator should
+send a request to the Officer via the Portal Messaging Service (My Projects/My Contracts >
+Actions > Manage Project/Contract).
+Exceptionally — and only until a LEAR has been appointed — self-registrants have certain
+roles (that were not assigned to any of the other users listed above).
+Roles — Overview
+The picture below shows all the roles involved in managing organisations and projects/contracts
+in the Portal.
+For some funding programmes (e.g. Horizon Europe ERC and MSCA grants), additional roles
+are used. See the for more details.
+Organisation roles
+Legal Entity Appointed Representative (LEAR)
+The LEAR is the formally nominated main responsible for an organisation’s use of the Portal and
+thus bears the final responsibilty for all the organisation’s actions in the Portal.
+LEARs have system rights to:
+• update their organisation's data
+• nominate/revoke representatives of their organisation to electronically sign
+grant/contracts
+• nominate/revoke representatives of their organisation to electronically sign cost
+claims/invoices
+• nominate/revoke Account Administrators within their organisation to help them with
+their work.
+The LEAR does NOT assign the Legal Signatories and Financial Signatories for a particular
+project/contract. This is done by the Coordinator Contact (CoCo) or Participant Contact (PaCo)
+of that project/contract.
+Self-registrant
+The Self-registrant is the person who first registers an organisation in the Portal Participant
+Register.
+Before the LEAR is validated, Self-registrants can provide the EU with requested information
+and documents about their organisation.
+Once the LEAR has been formally validated (normally after the organisation has been validated
+by the Central Validation Service), the role of Self-registrant is revoked and replaced by the
+LEAR.
+Account Administrator
+The LEAR may delegate tasks to one or more Account Administrators. Though the LEAR keeps
+the full responsibility, Account Administrators can fulfil tasks for their LEAR. An organisation
+can have an unlimited number of Account Administrators.
+If the organisation nominates a new person as their LEAR, the existing Account Administrators
+remain, but can be revoked by the new LEAR.
+Legal Signatory (LSIGN)
+LSIGNs must be nominated for an organisation by the LEAR or an Account Administrator (see
+Figure 3).
+LSIGNs are assigned to a particular project by a Coordinator or Participant Contact (see Figure
+3). An organisation can have an unlimited number of LSIGNs.
+Financial Signatory (FSIGN)
+FSIGNs must be nominated for an organisation by the LEAR or an Account Administrator (see
+Figure 3).
+FSIGNs are assigned to a particular project by a Coordinator or Participant Contact (see Figure
+3). An organisation can have an unlimited number of FSIGNs.
+Primary Audit Contact (PAuCo) and Audit Contact (AuCo)
+Audit roles can be assigned in the Portal only when the organisation is audited.
+The LEAR is automatically assigned the Primary Audit Contact (PAuCo), and can nominate other
+PAuCos in the organisation.
+The PAuCo(s) must also nominate at least one Audit Contact (AuCo) as main contact for audits
+on the organisation, and additionally, assign both the AuCo and the audit to an audit team
+within the organisation.
+PAuCos have the following system rights for their organisation:
+• nominate other PAuCo(s) for the organisation and the AuCo(s) for an audit (My
+Organisations > Actions > View Roles, click the Roles tab). Detailed explanations are
+available in the
+• manage the teams in the organisation to assign the audits and the audit contacts to
+them (My Organisations > Actions > View Roles, click the Teams tab). Detailed
+explanations are available in the
+• revoke other roles
+AuCos can nominate other AuCos for the teams to which they are assigned. They can also
+revoke other AuCos in their team.
+An AuCo assigned to a team has the following system rights for those audits:
+• perform the audit tasks for their organisation
+• communicate with the EU auditors (receive and send formal notifications, submit audit
+documents, etc)
+Summary organisation roles
+When nominating FSIGNs or LSIGNs, the LEAR can add comments that can help the
+Participant Contacts to select the right LSIGN/FSIGN for their project (e.g. "Mr Smith can sign
+for projects run by Department X from 1 February 2014."). Such comments can be useful for
+defining the scope of responsibilities or duration of FSIGNs or LSIGNs in large organisations
+with different departments.
+Proposal roles
+When preparing your proposal, you will need to define the participating organisations and the
+organisation/proposal contact(s). Both are set in the application online form.
+For grants and prizes: The proposal will contain the following types of participating
+organisations:
+• Coordinator. A proposal can have only one, and you may submit an application with just
+one Coordinator and no other participating organisations. You need to name a
+Coordinator immediately to launch your application, but you can change it later on,
+before submission.
+• Partner. A proposal can have none, one or more. The number of Partners in an
+application (and other aspects such as the country where they are registered, etc) are
+subject to the call conditions (i.e. the specific requirements for each call for proposals).
+• Partners can also have Affiliated Entities linked to them (through a permanent legal or
+capital link or as members of an association; former Linked Third Parties). Affiliated
+Entities are allowed to fully participate in the grant and claim costs. They must comply
+with all eligibility conditions (same as a Partner).
+• Associated Partners. This kind of participating organisation contributes to the project
+but cannot claim costs. They are normally not linked to any Partner and do not need to
+comply with the eligibility conditions.
+Then, you will need to define the contact persons for each participating organisation. There are
+two possible types of contacts:
+• Main Contact. You need to define one per participating organisation.
+• Contact Person. You may define one or more Contact Persons for each Partner. You may
+further define their kind of access as Coordinator/Participant Contact (full access) or
+Team Member (read-only access).
+The roles in your proposal will afterwards become project roles:
+• The Main Contact of the Coordinator will become the Primary Coordinator Contact
+(PCoCo). This role is automatically assigned to the initiator of the application who
+submits the proposal to the EU.
+• The Main Contacts of the Partners will become Participant Contacts (PaCo).
+• The Contact Persons of the Coordinator/Partners will become Team Members (TeMe) if
+they had read-only access in the application form or Participating Contacts (PaCo) if
+they had full access.
+For tenders:
+The tender will contain the following types of participating organisations:
+• Group Leader. A submission can have only one, and you may submit a tender with just
+one Group Leader and no more participating organisations.
+• Group Member. A submission can have none, one or more (often none).
+In a call for tenders, you need to provide one single contact: Contact Point. One per application.
+This Contact is always linked to the Group Leader.
+During the submission phase, this is the only role which will be defined. The Contact Point will
+then become the Primary Coordinator Contact (PCoCo).
+Project/contract roles
+Depending on your project roles you can have read-only, read-write or read-write-submit rights
+to information, documents and online forms.
+(Primary) Coordinator Contact (PCoCo/CoCo)
+The Primary Coordinator Contact is for each project the main contact between the consortium
+and the EU for a particular project/contract. By default, it is the person that creates the
+application in the Portal.
+The PCoCo can nominate/revoke a Coordinator Contact (CoCo) for the project/contract
+(unlimited number possible), who will then have the same rights — except the right to revoke
+the PCoCo.
+All Coordinator Contacts can:
+• nominate/revoke Participant Contacts for other organisations in the consortium
+• nominate/revoke Task Managers and Team Members in their own organisation
+• assign Legal and Financial Signatories in their organisation to their projects
+• make changes to project documents on the Portal
+• communicate with the EU services and submit applications and project documents to
+the EU.
+It is important to list your partner organisations (and their contact persons) relatively early
+on in the application process, because this will give them access to the application and allow
+them to appoint other roles for their organisation.
+Participant Contact (PaCo)
+The PaCo is a representative of an organisation in the consortium that is not the coordinating
+organisation.
+An organisation can have an unlimited number of PaCos per project, and each will be able to:
+• nominate/revoke other PaCos in their organisation
+• assign Legal and Financial Signatories in their organisation to their projects/contracts
+• submit their work to the Coordinator
+• nominate/revoke Task Managers and Team Members in their own organisation
+• make changes specifically to the participant-related sections of the project documents
+on the Portal
+• submit information directly to the EU services (if required under the Grant Agreement)
+Task Manager (TaMa)
+TaMas can perform some restricted actions: creating, updating and uploading documents about
+their organisation's participation and completing, modifying or deleting project/contract
+information.
+An organisation can have an unlimited number of TaMas per project. They cannot nominate or
+revoke anybody, nor submit information to the Coordinator or EU.
+This role is not used during the application phase.
+Team Member (TeMe)
+TeMes have limited access rights: search and read-only functions.
+Project Legal Signatory (PLSIGN)
+The PLSIGN has the right to sign the grant/contract (and amendments) for a specific project on
+behalf of the organisation.
+The LEAR (or Account Administrators) must first appoint LSIGNs; the Coordinator and each
+participant (PCoCo/CoCos/PaCos) can then assign PLSIGNs for a given project to act as legal
+signatory for the participant in the project.
+An organisation can have can have an unlimited number PLSIGNs per project.
+They have the same rights as CoCos/PaCos for project/contract information. Cannot
+assign/revoke any roles.
+Project Financial Signatory (PFSIGN)
+The PFSIGN has the right to sign cost claims/invoices on behalf of the organisation.
+The LEAR (or Account Administrators) must first appoint FSIGNs; the Coordinator and each
+participant (PCoCo/CoCos/PaCos) can then assign PFSIGNs for a given project to act as legal
+signatory for the participant in the project.
+An organisation can have an unlimited number of PFSIGNs per project.
+They have the same rights as CoCos/PaCos for project/contract information. Cannot
+assign/revoke any roles.
+Summary project/contract roles
+Rights associated with roles
+Nomination process
+Some roles are automatically given based on the information in your application:
+• The proposal initiator will become the Primary Coordinator Contact (PCoCo).
+• The main contact persons in the participating organisations will become Participant
+Contacts (PaCos).
+• Persons with read-only access to the proposal will become Team Members (TeMes).
+Once your organisation is validated by the Central Validation Service, it is important that
+you appoint a LEAR to make sure that you can manage the access rights to the Portal.
+How to nominate/revoke someone
+To grant a role, the LEAR (or other authorised person) must enter the user's e-mail address. It
+must be the same as the address the person used to open their EU Login account.
+If the person does not already have an EU Login account, they will automatically receive an
+invitation to create one.
+Organisation roles — to grant/revoke, go to My Organisations > Actions > Edit Organisation
+Roles > Add Roles.
+Project/contract roles — to grant/revoke, go to My Projects > Actions > Manage Consortium
+> Edit Roles.
+How many different roles are needed in a consortium?
+A user's EU Login account can carry any combination of roles, this depends on the participants.
+Thus, a user can acquire a differentiated set of access rights to different functions for managing
+projects, contracts or organisation data.
+For small organisations or beneficiaries who are individuals (natural persons), this means
+that one single person can combine all the access rights needed to manage their
+projects/contracts (i.e. LEAR, CoCo/PaCo, PLSIGN and PFSIGN).
+The minimum configuration for a consortium in any given project is:
+• 1 Primary Coordinator Contact (PCoCo)
+• 1 Participant Contact (PaCo) per beneficiary
+• 1 LEAR per organisation
+• 1 Project Legal Signatory (PLSIGN) per organisation
+• 1 Project Financial Signatory (PFSIGN) per organisation.
+One person can have several roles at the same time.
+Organisations that participate as Affiliated Entities (or other type of participant — Associated
+Partner, Subcontractor, etc) do NOT need any access roles in the Portal, since they are not
+allowed to use it. All actions in the Portal are handled for them by the Coordinator/Beneficiary
+they are linked to.
+FAQ
+• FAQ on users' roles and access rights

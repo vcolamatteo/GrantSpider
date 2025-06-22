@@ -1,0 +1,48 @@
+5.3.2 Amendments
+
+If there are any changes to the Grant Agreement (e.g. data or options specific to that agreement) or its annexes, they must be done through a formal amendment directly in the Portal (electronic signature).
+
+Where? Access to the Grant Management System is available through My Projects > Actions > Manage Project > Launch new interaction with the EU > Request for Amendment.
+
+Who? Amendments can be prepared by the consortium participants together, but only the Coordinator can launch, sign and submit them.
+
+The EU Granting Authority can also propose amendments, but for practical reasons we will often as you to initiate the procedure.
+
+When? Amendments must normally be done before the end of the project, but some amendment clauses are also open afterwards (addition of Beneficiary/Affiliated Entity/Associated Partner, change of Coordinator, change of Annex 1, change of Annex 2, change of bank account, error amendments, etc).
+
+What? Cases requiring a formal amendment are listed in the AGA — Annotated Grant HOW TO Agreement, art 39. See also How to prepare an amendment in the @) 5
+
+Amendments are normally NOT necessary for:
+
+ • budget transfers covered by the budget flexibility
+
+ • mame or address changes of a participant — done directly in the Participant Register
+
+ • universal takeovers (merger/acquisition) of a participant — done directly in the Participant Register
+
+ • changes of the banking details — done directly in the Participant Register.
+
+4\ The signed amendment is the legal document containing the changes to the Grant Agreement. It is legally binding and will be incorporated into the Agreement. The consolidated version is only for information.
+
+Amendment process
+
+Get ready > Launch amendment > Amendment preparation > Consult Commission > Sign&Submit > Assessment > Countersign
+
+Amendment request
+
+The amendment request consists of:
+
+ • updated structured information on the Grant Management System screens
+
+ • amendment request letter: the letter with the request and reasons for the amendment
+
+ • amendment core (including new version of GA Annexes 1 and 2, if needed): the legal document with the list of amendment clauses
+
+ • supporting documents: documents uploaded by the consortium, consolidated Grant Agreement, etc
+
+All participants can contribute to the amendment, but it is the Coordinator who will have to launch, finalise, submit and sign the request.
+
+Tasks of the Coordinator:
+
+ • Check that the updated information Grant Management System screens is correct.  • Quality check: Check that the Amendment documents are correct and all supporting documents attached.
+

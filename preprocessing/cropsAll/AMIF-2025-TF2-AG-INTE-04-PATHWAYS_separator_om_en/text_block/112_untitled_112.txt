@@ -1,0 +1,15 @@
+
+
+RTS pO
+
+ • How to handle security-sensitive projects
+
+Third country control
+
+Some programmes (or calls) limit the participation of entities which are controlled by third countries (e.g. European Defence Fund, Digital Europe, Horizon Europe, CEF). In this case, a special procedure is needed to verify ownership control of participants.
+
+ee Links rr
+
+ • Guidance on participation in DEP, HE, EDF and CEF-DIG restricted calls
+
+ • Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment

@@ -1,0 +1,47 @@
+[project]
+name = "scripts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "common>=0.1.2",
+    "data>=0.4",
+    "detectron2",
+    "doclayout-yolo>=0.0.3",
+    "dotenv>=0.9.9",
+    "dual>=0.3.2",
+    "einops>=0.8.1",
+    "groq>=0.28.0",
+    "img2table>=1.4.1",
+    "opencv-python>=4.11.0.86",
+    "cython==3.1.2",
+    "fire==0.7.0",
+    "imageio==2.37.0",
+    "lazy-loader==0.4",
+    "lmdb==1.6.2",
+    "paddleocr==2.10.0",
+    "python-docx==1.2.0",
+    "scikit-image==0.25.2",
+    "tifffile==2025.6.11",
+    "paddleocr==2.10.0",
+    "paddlepaddle>=3.0.0",
+    "pdfplumber>=0.11.7",
+    "pillow>=11.2.1",
+    "prox>=0.0.17",
+    "pycocotools>=2.0.10",
+    "pymupdf>=1.26.0",
+    "pypdf2>=3.0.1",
+    "pytesseract>=0.3.13",
+    "scikit-learn>=1.7.0",
+    "struct-eqtable>=0.3.3",
+    "tight>=0.1.0",
+    "torch>=2.7.1",
+    "torchaudio>=2.7.1",
+    "torchvision>=0.22.1",
+    "ultralytics>=8.3.152",
+    "unimernet[full]>=0.1.6",
+]
+
+[tool.uv.sources]
+detectron2 = { git = "https://github.com/facebookresearch/detectron2.git" }

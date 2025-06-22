@@ -1,0 +1,12 @@
+(Primary) Coordinator Contact (PCoCo/CoCo)
+
+The Primary Coordinator Contact is for each project the main contact between the consortium and the EU for a particular project/contract. By default, it is the person that creates the application in the Portal.
+
+The PCoCo can nominate/revoke a Coordinator Contact (CoCo) for the project/contract (unlimited number possible), who will then have the same rights — except the right to revoke the PCoCo.
+
+All Coordinator Contacts can:
+
+ • nominate/revoke Participant Contacts for other organisations in the consortium  • nominate/revoke Task Managers and Team Members in their own organisation  • assign Legal and Financial Signatories in their organisation to their projects  • make changes to project documents on the Portal  • communicate with the EU services and submit applications and project documents to the EU.
+
+& It is important to list your partner organisations (and their contact persons) relatively early on in the application process, because this will give them access to the application and allow them to appoint other roles for their organisation.
+

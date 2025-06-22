@@ -1,0 +1,26 @@
+& |aunch the amendment
+
+Go to My Projects > Actions > Manage Project > Launch new interaction with the EU > Request for Amendment
+
+Amendment reference number (ID) — Once you have launched the request, the amendment is automatically assigned a reference number. Please use this unique identifier in all contacts with the Granting Authority during the amendment process.
+
+™ Change the grant data in the system
+
+Go to My Projects > Actions > Manage Project > Amendment > Amendment preparation.
+
+Once the amendment is been launched, you can amend the grant data in the same way as as you did when preparing the Grant Agreement.
+
+Enter the amendment information into the system
+
+a) Justification
+
+Fill out the field to justify the request on the Amendment Information screen.
+
+b) Amendment clauses
+
+On the basis of the changes to the grant data, the system will automatically select the relevant amendment types (automatic clauses) on the Amendment Information screen.
+
+Other types of amendment have to be selected manually by the EU Project Officer, (change of Annex 1, change in the maximum grant amount, resuming the action after suspension, etc). Contact the Project Officer to activate the clause.
+
+4\ In case a change triggers the need for another change, a prompt will appear.
+

@@ -1,0 +1,4 @@
+2.1.1 Legal entity validation
+
+‘Legal entity’ means a natural person or an entity created and recognised by law as a legal person. It must have legal personality and, acting on its own account and in its own name, be able to exercise rights and be subject to obligations.
+

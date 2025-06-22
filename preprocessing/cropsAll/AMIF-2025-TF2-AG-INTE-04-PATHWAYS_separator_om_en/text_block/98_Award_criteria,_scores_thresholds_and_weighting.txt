@@ -1,0 +1,14 @@
+Award criteria, scores thresholds and weighting
+
+Proposals are evaluated and scored against award criteria set out in the call conditions on the Topic page.
+
+The award criteria, scores, thresholds and weightings depend on each programme and type of action.
+
+Globally speaking most programmes evaluate the following quality parameters: project relevance, quality/implementation and impact. But in practice the labels vary and the parameters are broken down into different aspects and focal points (see call conditions and, for some programmes, the Programme Guides, e.g. Horizon Europe Programme Guide, Erasmus+ Programme Guide, AGRIP Programme Guide).
+
+To be considered for funding, your proposal must score above a certain threshold for each individual award criterion, and above an overall threshold for all of them together.
+
+Moreover, in order to receive funding, your proposal must be ranked sufficiently to be above the budget-threshold (relative positioning in the list of all proposals, compared to the other proposals). For calls which provide for weightings, this ranking will also depend on the weighting.
+
+4S Your proposals will be evaluated on its own merit, and not its potential should certain changes be made. Proposals with an inflated budget are likely to receive a lower score.
+

@@ -1,0 +1,14 @@
+International organisation (IO)
+
+‘International organisation’ means an intergovernmental organisation (other than the EU) established under international public law, including specialised entities — with or without legal personality — set up by international organisations.
+
+This status is systematically checked against supporting documents and validated by the Central Validation Service.
+
+For some EU funding programmes there are moreover specific subtypes of international organisations:
+
+— ‘international organisations of European interest for H2020 (H2020 IOEI)’, i.e. international organisations with a majority of members that are EU Member States or H2020 associated countries and whose main objective is promoting scientific and technological cooperation in Europe — ‘international European research organisations for Horizon Europe (HE IERO)’, i.e. international organisations with a majority of members that are EU Member States or Horizon Europe associated countries and whose main objective is promoting scientific and technological cooperation in Europe — ‘international organisations of European interest for Digital Europe (DEP IOEI)’, i.e. international organisations with a majority of members that are EU Member States or whose headquarters are in an EU Member State.
+
+The H2020 IOEI subtype status is systematically checked against supporting documents and validated by the Central Validation Service.
+
+The HE IERO and DEP IOEI subtype statuses are self-declared. In the future, for calls where the HE IERO and DEP IOEI statuses have an impact on eligibility or funding, participants will also be asked to go through a self-assessment wizard.
+

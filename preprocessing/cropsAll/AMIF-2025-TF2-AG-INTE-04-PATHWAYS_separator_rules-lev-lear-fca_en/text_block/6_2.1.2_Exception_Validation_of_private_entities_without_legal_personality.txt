@@ -1,0 +1,18 @@
+2.1.2 Exception: Validation of private entities without legal personality
+
+By way of exception, the Financial Regulation allows for certain ‘entities without legal personality’ to be eligible for EU grants. Such entities can therefore be validated in the Participant Register, provided they meet the conditions set out in Article 197(2)(c) of this Regulation:
+
+— their representatives have the capacity to undertake legal obligations on behalf of the entity
+
+and
+
+— the entity offers equivalent guarantees for the protection of the EU financial interests as a legal person, in particular equivalent financial and operational capacity (— both conditions must be fulfilled).
+
+This exception aims at private entities, i.e. associations or similar entities with permanent structures (secretariat, management board, assembly, etc.) that have their own activities, but just lack formal legal personality.
+
+Concerning the first condition, the entity must prove its representatives’ capacity to undertake legal obligations on its behalf. This condition is not met when the obligations are assumed on behalf of the representatives themselves or on behalf of the owner(s) of the entity.
+
+Concerning the second condition, the entity must prove the following elements:
+
+— existence of patrimony/assets/capital separated and different from those of its members/owners
+

@@ -1,0 +1,108 @@
+2.1 Registration and validation of your organisation
+Before submitting an application, all participants involved in the proposal must first be
+registered in the Portal Participant Register and have their 9-digit Participant Identification Code
+(PIC number).
+You can verify directly on the Portal whether your organisation is already registered and has a
+PIC. If not, please proceed with the registration following the instructions on the same page
+(the Registration wizard will help you through the process). Once completed, you get the PIC
+to be used in your online application form and further correspondence with the EU services.
+If you do not have an user account (EU Login), you will first need to create one, before starting
+the registration process. If you already have a user account (EU Login), you can log in and
+directly start registration.
+Please note that the Participant Register is primarily directed at organisations and that not
+all of the labels fit for individuals (natural persons). Enter your information as appropriate (e.g.
+country of residence instead of country of registration, passport number instead of registration
+number, etc).
+What you need to register your organisation
+To register your organisation, you will need to provide basic administrative and legal
+information, in addition to contact details.
+Get ready
+Since the declared information will be verified against supporting documents later on, it is
+useful to have the relevant documents at hand when you complete the registration, to
+make sure you fill in everything correctly (legal form, non-profit, public/private, etc).
+Check for already existing PIC
+In order to avoid creating duplicate PICs, you should first check whether your organisation
+(or another department) is already registered in the Portal and use that PIC.
+Go to How to Participate > Participant Register > Search a PIC > Search a PIC and put in
+your organisation data. Check several variants to make sure there is really no entry.
+If no PIC is registered, start registration
+Go to How to Participate > Participant Register > Register your organisation. The
+Registration wizard will guide you step-by-step through the process.
+Detailed explanations are available in the .
+You do not need to complete the registration process in a single session. You can enter some
+information, save it and continue later on. To resume your registration, go to My Organisations
+> Continue Registration. Incomplete draft registrations are automatically deleted after one
+year.
+If you create by mistake a new PIC, see below Data updates.
+PIC number
+After completing a new registration, you will receive the 9-digit Participant Identification
+Code (PIC) — to be used in your online application form and further correspondence with the
+EU services.
+The newly created PIC will be provisional (declared/non-valid status) until it is formally validated
+at a later stage.
+Nothing else is expected from you after the PIC has been generated, the Central Validation
+Service will contact you later, to initiate the validation process.
+Validation of your organisation
+If your proposal is successful, you will be contacted for the validation of your PIC
+registration data.
+Validation is needed only for certain types of participants (grants: Beneficiaries and Affiliated
+Entities; procurement: Contractors). It is not needed for Associated Partners, Subcontractors
+or other participants.
+It will be done by the Central Validation Service which carries out the validation for all EU
+services using the Portal.
+The Central Validation Service will contact the person who registered the organisation (Self-
+registrant) and ask them to:
+• upload official supporting documents (via the My Organisations page)
+• clarify any details.
+The documents that are required will be listed in the notification you receive. You will need to
+fill out a legal entity identification form and provide us with an official VAT document,
+registration extract, statutes or act of establishment, etc. The detailed list of documents is also
+explained in the Rules on Legal Entity Validation, LEAR appointment and Financial Capacity
+Assessment.
+The Central Validation Service will check that your organisation is legally recognised (has legal
+personality). If this is not the case (exceptionally this is allowed), you will have to prove that
+the representatives have the capacity to undertake legal obligations on the organisation’s behalf
+and that the organisation has financial and operational capacity equivalent to that of legal
+persons.
+The Central Validation Service will also check whether your organisation qualifies for some of
+the special legal statuses that are required for some funding programmes (private or public
+body, non-profit, international organisation).
+The outcome of this process is the validation of your organisation (validated PIC). The Central
+Validation Service will send a confirmation message once the process is completed and the PIC
+is validated.
+Please don’t forget that all communications with the Central Validation Service must take
+place through the Participant Register (My Organisations page). Emails and other
+communications will NOT be accepted.
+Please also note that if you apply for a call with specific eligibility criteria that are not validated
+by the Central Validation Service, these will be checked by the responsible EU service managing
+the call — in addition to the validation, which means that they may come back to you with
+additional questions.
+Validation of the organisation is a prerequisite for the LEAR appointment.
+Data updates
+Updates to the registered organisation data must be requested via the Participant Register (My
+Organisations > Actions > Modify Organisation):
+• by the LEAR (or Account Administrators) for validated entities
+• by the Self-registrant if your organisation has not been validated yet.
+If your organisation has already a validated PIC and a new one is created by mistake, your
+LEAR or Account Administrator should contact the Central Validation Service via the Portal
+Messaging Facility (My Organisations > Actions > Modify Organisation). The information will be
+transferred from the duplicate PIC to the correct PIC and the duplicate flagged.
+SME self-assessment
+In addition to the standard validation, a SME self-assessment is needed if you apply for a call
+where SME status is an eligibility criterion (or allows for a higher funding rate or other
+advantages).
+If there is no recent (not older than 2 years) SME self-assessment information available in the
+Participant Register, the Portal Submission System will automatically prompt you to go through
+the SME self-assessment wizard to establish your SME status. You will need to enter the
+financial figures of the last approved accounting period of your organisation and of any other
+organisation that might be directly or indirectly related to you. If the result confirms your SME
+status, you will be able to proceed with the application process.
+Please note that the SME self-assessment is only needed if the SME-status is an eligibility
+criterion (or gives special advantages); otherwise, you will simply self-declare your SME status
+in the Legal Information tab and proceed with the registration.Detailed rules are explained in
+the Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment.
+Links
+• Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment
+• Participant Register: User Guide
+FAQ
+• FAQ on Participant Register, organisation data management and SME-self-assessment

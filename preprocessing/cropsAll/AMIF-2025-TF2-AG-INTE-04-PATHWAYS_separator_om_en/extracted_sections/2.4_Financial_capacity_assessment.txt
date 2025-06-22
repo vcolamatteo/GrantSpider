@@ -1,0 +1,43 @@
+2.4 Financial capacity assessment
+Assessment of your financial capacity
+For some participants, we will also have to check the financial capacity before awarding
+grants/contracts.
+For grants, the criteria for checking financial capacity are set out in the call conditions.
+Normally, the financial capacity assessment will be done for all Beneficiaries and Affiliated
+Entities, except:
+− public bodies (entities established as public body under national law, including local,
+regional or national authorities) or international organisations
+− if the individual requested grant amount is EUR 60 000 or below.
+Specific rules apply for some programmes (i.e. only for coordinators; only for grants above a
+certain threshold; State guarantee; see Horizon Europe Programme Guide, Erasmus+
+Programme Guide).
+The Central Validation Service will contact you during grant preparation to upload the necessary
+financial documents (My Organisations > Actions > Modify Organisation).
+The documents required will be listed in the notification you receive. In general, you will need
+to provide documents showing your financial situation for the last two closed financial years
+(profit and loss account and balance sheet, business plan, audit report produced by an approved
+external auditor, certifying the accounts for the last closed financial year, etc).
+The analysis is based on neutral financial indicators (liquidity, financial autonomy, solvency and
+profitability), but will also take into account other aspects, such as dependency on EU funding
+and deficit and revenue in previous years. The results of your financial capacity assessment will
+be taken into account when evaluating your ability to implement the project (and to take on
+the Coordinator role, if it is the case).
+If we consider that your financial capacity is not satisfactory, we may require:
+– an enhanced financial responsibility regime, i.e. joint and several liabiliy for all
+Beneficiaries or joint and several liability of Affiliated Entities
+– prefinancing paid in instalments (multiple/additional prefinancing)
+– (one or more) prefinancing guarantees
+or
+– propose no prefinancing or
+– request that you are replaced or, if needed, reject the entire application.
+Specific rules apply to programmes with Mutual Insurance Mechanism (MIM, former Participant
+Guarantee Fund; e.g. Horizon Europe). For these programmes, prefinancing guarantees and
+joint and several liability of Beneficiaries are normally excluded.
+Financial capacity self-check
+You can check your financial capacity yourself by using the Financial capacity self-check
+simulator.
+The self-check is not available for all programmes (because of the algorithms used).
+Moreover, it is only a simulation. If a formal financial capacity assessment is required, you will
+have to go through the formal procedure.
+Links
+• Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment

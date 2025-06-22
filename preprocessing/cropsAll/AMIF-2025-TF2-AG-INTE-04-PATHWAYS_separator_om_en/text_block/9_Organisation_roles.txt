@@ -1,0 +1,17 @@
+Organisation roles
+
+Legal Entity Appointed Representative (LEAR)
+
+The LEAR is the formally nominated main responsible for an organisation’s use of the Portal and thus bears the final responsibilty for all the organisation’s actions in the Portal.
+
+LEARs have system rights to:
+
+ • update their organisation's data
+
+ • nominate/revoke representatives of their organisation to electronically sign grant/contracts
+
+ • nominate/revoke representatives of their organisation to electronically sign cost claims/invoices
+
+ • nominate/revoke Account Administrators within their organisation to help them with their work.
+
+a\ The LEAR does NOT assign the Legal Signatories and Financial Signatories for a particular project/contract. This is done by the Coordinator Contact (CoCo) or Participant Contact (PaCo) of that project/contract.

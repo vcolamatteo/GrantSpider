@@ -1,0 +1,16 @@
+& Grant agreement ready for signature
+
+The system prepares the Grant Agreement for signing (PDF document, digitally sealed to guarantee its security, reliability and authenticity).
+
+Coordinator signs the Grant Agreement
+
+The Coordinator's PLSIGN logs into the Portal My Projects > Actions > Manage Project > Proposal Management & Grant Preparation > Sign.
+
+During signature, a pop-up explains that this means the signatory is preparing to sign. It then asks the PLSIGN to confirm that they wish to sign and a second prompt asks the PLSIGN to enter their EU Login password.
+
+After signature, the system creates a new version of the PDF document (with a digital seal, a time stamp, and the signatory's EU Login credentials on the signature placeholder). The validity of the signature can be verified by opening it in a compatible PDF reader and clicking on the image of the digital signature.
+
+The Grant Agreement can be previewed, downloaded or printed (before or after signature) from the Documents screen if desired.
+
+The LEAR of the Coordinator and the other Beneficiaries are informed that the Coordinator has signed the Grant Agreement.
+

@@ -1,0 +1,6 @@
+After the call deadline
+
+Once the call deadline has passed, no further corrections or re-submissions are possible. However, you can have read-only access to the submitted proposal (My Proposals > View Submitted).
+
+Proposals that were never submitted (remain in draft status) are accessible for 90 days after the call deadline (My Proposals > View Draft).
+

@@ -1,0 +1,20 @@
+3.1.4.2 Electronic proposal submission
+
+Electronic proposal submission: Get an EU Login account > Get a PIC number (Participant Register) > Launch Submission wizard > Pre-register your draft proposal > List participants, contact persons > Fill in Administrative Forms (Part A) > Upload Technical Description (Part B) > Submit your proposal > Acknowledgement of receipt
+
+Proposals must be submitted online using the Portal Submission System and before the call deadline.
+
+Details are explained inthe S47 ~—s,
+
+Create your user account to login to the Portal
+
+To be able to submit a proposal, you must first register on the Portal for an EU Login account.
+
+© Make sure all participants are registered (PIC)
+
+All participants (Beneficiaries, Affiliated Entities and Associated Partners) must be registered in the Participant Register and have their 9-digit Participant Identification Code (PIC). The Coordinator has to be identified with its PIC number at Step 3 of the Submission wizard, while other participants at Step 4.
+
+Read more about registration and PIC search in the Registration and validation of your organisation section.
+
+The Submission wizard will guide you step-by-step through the process.
+

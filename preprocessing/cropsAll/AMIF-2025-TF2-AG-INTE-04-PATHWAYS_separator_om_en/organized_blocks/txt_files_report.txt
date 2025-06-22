@@ -1,0 +1,199 @@
+1_1._My_Area_—_User_account_and_roles.txt | 1. My Area — User account and roles
+3_1.1_EU_Login.txt | 1.1 EU Login
+11_Self-registrant.txt | 1.2 Roles and access rights
+12_Account_Administrator.txt | 1.2 Roles and access rights
+13_Legal_Signatory_(LSIGN).txt | 1.2 Roles and access rights
+14_Financial_Signatory_(FSIGN).txt | 1.2 Roles and access rights
+15_Proposal_roles.txt | 1.2 Roles and access rights
+16_For_tenders.txt | 1.2 Roles and access rights
+17_Projectcontract_roles.txt | 1.2 Roles and access rights
+18_(Primary)_Coordinator_Contact_(PCoCoCoCo).txt | 1.2 Roles and access rights
+19_Participant_Contact_(PaCo).txt | 1.2 Roles and access rights
+20_Task_Manager_(TaMa).txt | 1.2 Roles and access rights
+21_Team_Member_(TeMe).txt | 1.2 Roles and access rights
+23_Project_Financial_Signatory_(PFSIGN).txt | 1.2 Roles and access rights
+24_Rights_associated_with_roles.txt | 1.2 Roles and access rights
+26_How_to_nominaterevoke_someone.txt | 1.2 Roles and access rights
+4_1.2_Roles_and_access_rights.txt | 1.2 Roles and access rights
+5_How_are_access_rights_managed.txt | 1.2 Roles and access rights
+6_How_are_the_roles_assigned.txt | 1.2 Roles and access rights
+7_Exceptions.txt | 1.2 Roles and access rights
+8_Roles_—_Overview.txt | 1.2 Roles and access rights
+9_Organisation_roles.txt | 1.2 Roles and access rights
+27_1.5_Accepting_the_Terms_and_Conditions_of_Use.txt | 2. Participant Register — Register your organisation
+28_2._Participant_Register_—_Register_your_organisation.txt | 2. Participant Register — Register your organisation
+29_2.1_Registration_and_validation_of_your_organisation.txt | 2.1 Registration and validation of your organisation
+30_What_you_need_to_register_your_organisation.txt | 2.1 Registration and validation of your organisation
+31_U_cet_ready.txt | 2.1 Registration and validation of your organisation
+32_©_check_for_already_existing_PIC.txt | 2.1 Registration and validation of your organisation
+33_PIC_number.txt | 2.1 Registration and validation of your organisation
+34_Validation_of_your_organisation.txt | 2.1 Registration and validation of your organisation
+35_Data_updates.txt | 2.1 Registration and validation of your organisation
+36_SME_self-assessment.txt | 2.1 Registration and validation of your organisation
+37_2.2_LEAR_appointment_and_validation.txt | 2.2 LEAR appointment and validation
+38_7_Activate_the_LEAR's_online_user_account.txt | 2.3 Bank account registration and validation
+39_Data_updates_—_Changing_the_LEAR.txt | 2.3 Bank account registration and validation
+40_How_can_you_contact_the_LEAR.txt | 2.3 Bank account registration and validation
+42_Data_updates.txt | 2.4 Financial capacity assessment
+43_2.4_Financial_capacity_assessment.txt | 2.4 Financial capacity assessment
+41_2.5_Bank_account_registration_and_validation.txt | 2.5 Data updates
+44_2.5_Data_updates.txt | 2.5 Data updates
+46_Changes_of_legal_status.txt | 2.5 Data updates
+47_Managing_roles_in_the_organisation.txt | 2.5 Data updates
+48_2.6_Complaints_about_validation.txt | 2.6 Complaints about validation
+51_Humanitarian_Aid_(HA).txt | 3.1.1 Search funding opportunities — Find a call
+53_Renewable_Energy_Financing_Mechanism.txt | 3.1.1 Search funding opportunities — Find a call
+54_Technical_Support_(TSI).txt | 3.1.1 Search funding opportunities — Find a call
+56_Deadline_models.txt | 3.1.1 Search funding opportunities — Find a call
+57_Types_of_action.txt | 3.1.1 Search funding opportunities — Find a call
+58_Technology_readiness_levels_(TRL).txt | 3.1.1 Search funding opportunities — Find a call
+59_3.1.2_Projects_that_can_be_funded_—_Conditions_for_funding.txt | 3.1.3 Apply with partners or as individual
+60_3.1.3_Apply_with_partners_or_as_individual.txt | 3.1.3 Apply with partners or as individual
+62_Multi-participant_or_mono-participant_actions.txt | 3.1.3 Apply with partners or as individual
+63_Portal_Partner_Search_NF.txt | 3.1.3 Apply with partners or as individual
+64_Consortium_roles_and_responsibilities.txt | 3.1.3 Apply with partners or as individual
+65_Beneficiaries_—_Affiliated_Entities_—_Associated_Partners_—_Subcontractors.txt | 3.1.4 Submit a proposal — Portal Submission System
+66_Coordinator_—_Other_Beneficiaries.txt | 3.1.4 Submit a proposal — Portal Submission System
+67_3.1.4_Submit_a_proposal_—_Portal_Submission_System.txt | 3.1.4 Submit a proposal — Portal Submission System
+68_Submission_process.txt | 3.1.4 Submit a proposal — Portal Submission System
+69_Confidentiality.txt | 3.1.4 Submit a proposal — Portal Submission System
+70_Security,_data_protection_and_document_retention.txt | 3.1.4 Submit a proposal — Portal Submission System
+71_Access_to_proposals.txt | 3.1.4 Submit a proposal — Portal Submission System
+72_5.1.4.1_Get_prepared.txt | 3.1.4 Submit a proposal — Portal Submission System
+73_WY_Study_the_call_documentation.txt | 3.1.4 Submit a proposal — Portal Submission System
+74_Work_packages.txt | 3.1.4 Submit a proposal — Portal Submission System
+75_1._Distinguish_between_milestones_and_deliverables.txt | 3.1.4 Submit a proposal — Portal Submission System
+76_Budget.txt | 3.1.4 Submit a proposal — Portal Submission System
+77_Annexes_&_supporting_documents.txt | 3.1.4 Submit a proposal — Portal Submission System
+78_Detailed_budget_table_(if_required).txt | 3.1.4 Submit a proposal — Portal Submission System
+79_CVs_(if_required).txt | 3.1.4 Submit a proposal — Portal Submission System
+80_3.1.4.2_Electronic_proposal_submission.txt | 3.1.4 Submit a proposal — Portal Submission System
+81_Natailad_avnianatinncec_area_availabla_in_tha_@)_row_TO.txt | 3.1.4 Submit a proposal — Portal Submission System
+82_Tips.txt | 3.1.4 Submit a proposal — Portal Submission System
+83_Affiliated_entities.txt | 3.1.4 Submit a proposal — Portal Submission System
+84_Checklist_for_submission.txt | 3.1.4 Submit a proposal — Portal Submission System
+85_Mock_evaluation.txt | 3.1.4 Submit a proposal — Portal Submission System
+86_Multiple_versions_of_proposal.txt | 3.1.4 Submit a proposal — Portal Submission System
+87_Multiple_proposals.txt | 3.1.4 Submit a proposal — Portal Submission System
+88_Specific_submission_schemes.txt | 3.1.4 Submit a proposal — Portal Submission System
+89_After_submission.txt | 3.1.4 Submit a proposal — Portal Submission System
+93_3.2_Selection_—_From_evaluation_to_grant_signature.txt | 3.2 Selection — From evaluation to grant signature
+90_Withdrawal_of_submitted_proposals.txt | 3.2.1 Admissibility and eligibility check
+91_After_the_call_deadline.txt | 3.2.1 Admissibility and eligibility check
+92_5.1.5_Complaints_about_failed_submission.txt | 3.2.1 Admissibility and eligibility check
+101_Individual_evaluation.txt | 3.2.2 Evaluation
+102_Consensus_group.txt | 3.2.2 Evaluation
+103_Panel_review.txt | 3.2.2 Evaluation
+104_Proposals_with_the_same_score.txt | 3.2.2 Evaluation
+105_Interviewshearings.txt | 3.2.2 Evaluation
+106_Final_ranking_—_Reserve_list_—_Rejections.txt | 3.2.2 Evaluation
+107_Evaluation_result_letters_—_Evaluation_summary_report.txt | 3.2.2 Evaluation
+94_Admissibility_criteria.txt | 3.2.2 Evaluation
+95_Eligibility_criteria.txt | 3.2.2 Evaluation
+96_Outcome_of_the_admissibility_and_eligibility_check.txt | 3.2.2 Evaluation
+97_4.2.2_Evaluation.txt | 3.2.2 Evaluation
+98_Award_criteria,_scores_thresholds_and_weighting.txt | 3.2.2 Evaluation
+99_5.2.2.2_Evaluation_and_evaluation_results.txt | 3.2.2 Evaluation
+108_3.2.5_Special_procedures_Ethics_review,_security_scrutiny,_Ownership_control_check.txt | 3.2.3 Special procedures: Ethics review, security scrutiny, Ownership control check
+110_RTS_PO.txt | 3.2.3 Special procedures: Ethics review, security scrutiny, Ownership control check
+112_untitled_112.txt | 3.2.4 Grant preparation
+114_3.2.4_Grant_preparation.txt | 3.2.4 Grant preparation
+115_Grant_preparation_process.txt | 3.2.4 Grant preparation
+116_Signing_the_Grant_Agreement.txt | 3.2.4 Grant preparation
+117_Termination_of_grant_preparation.txt | 3.2.4 Grant preparation
+118_TTS_pO.txt | 3.2.4 Grant preparation
+119_5.2.4.1_Enter_&_submit_grant_data.txt | 3.2.4 Grant preparation
+121_Enter_legal,_administrative_&_financial_data.txt | 3.2.4 Grant preparation
+122_Nataile_ara_ayniained_in_tha_@)_row_TO.txt | 3.2.4 Grant preparation
+123_&_Enter_the_other_grant_data_into_the_system.txt | 3.2.4 Grant preparation
+125_c)_Check_the_prefinancing_for_the_project.txt | 3.2.4 Grant preparation
+126_&_Upload_Part_B_of_the_description_of_the_action_(DoA).txt | 3.2.4 Grant preparation
+127_Sign_the_declarations_of_honour_(DoH).txt | 3.2.4 Grant preparation
+128_Joint_and_several_liability_of_Affiliated_Entities_(if_required).txt | 3.2.4 Grant preparation
+129_&_Prefinancing_guarantee_(if_required).txt | 3.2.4 Grant preparation
+130_Deadlines.txt | 3.2.4 Grant preparation
+131_5.2.4.2_Final_legal_checks.txt | 3.2.4 Grant preparation
+132_5.2.5_Grant_signature.txt | 3.2.5 Grant signature
+133_O_Lear.txt | 3.2.5 Grant signature
+134_&_LEAR_appoints_all_LSIGNs_and_FSIGNs_for_the_organisation.txt | 3.2.5 Grant signature
+135_&_Paco_selects_LSIGN_and_FSIGN_for_project.txt | 3.2.5 Grant signature
+136_Signing_the_Grant_Agreement.txt | 3.2.5 Grant signature
+137_&_Grant_agreement_ready_for_signature.txt | 3.2.5 Grant signature
+138_Granting_authority_signs_the_Grant_Agreement.txt | 3.2.5 Grant signature
+139_Participants_sign_the_Accession_forms.txt | 3.2.5 Grant signature
+140_Grant_Agreement_is_finalised.txt | 3.2.5 Grant signature
+142_Project_starting_cate.txt | 3.2.5 Grant signature
+143_Prefinancing.txt | 3.2.6 Complaints about proposal rejection
+144_3.2.6_Complaints_about_proposal_rejection.txt | 3.2.6 Complaints about proposal rejection
+145_5.5_Grant_management.txt | 3.3.2 Amendments
+147_5.3.2_Amendments.txt | 3.3.2 Amendments
+148_Actions_to_be_completed_before_amendment.txt | 3.3.2 Amendments
+150_Submitting_an_amendment.txt | 3.3.2 Amendments
+151_Y_Get_ready.txt | 3.3.2 Amendments
+152_&_aunch_the_amendment.txt | 3.3.2 Amendments
+153_Upload_annexes_and_supporting_documents.txt | 3.3.2 Amendments
+154_Consult_Granting_Authority.txt | 3.3.2 Amendments
+155_&_nformal_assessment_by_the_Granting_Authority.txt | 3.3.2 Amendments
+156_Coordinator_signs_&_submits_the_amendment_request.txt | 3.3.2 Amendments
+157_&_Formal_assessment_by_the_Granting_Authority.txt | 3.3.2 Amendments
+158_WY_Granting_authority_signs_the_amendment.txt | 3.3.2 Amendments
+159_Entry_into_force_&_taking_effect.txt | 3.3.2 Amendments
+160_Coordinator_change_without_their_agreement.txt | 3.3.2 Amendments
+161_Amendments_initiated_by_the_Granting_Authority.txt | 3.3.2 Amendments
+162_3.3.5_Continuous_reporting_on_milestones_&_deliverables.txt | 3.3.3 Continuous reporting on milestones & deliverables
+163_oh__lbaclata_tan_celal_pees_kl_aw_(U@)How_To.txt | 3.3.4 Reports & payment requests
+165_5.3.4_Reports_&_payment_requests.txt | 3.3.4 Reports & payment requests
+166_Certificate_on_the_Financial_Statements_(CFS).txt | 3.3.4 Reports & payment requests
+167_Submitting_the_periodic_reports.txt | 3.3.4 Reports & payment requests
+168_©_LInload_Part_B_of_the_technical_renort_@p_ow_to.txt | 3.3.4 Reports & payment requests
+169_Coordinator_approves_Partners’_financial_reports.txt | 3.3.4 Reports & payment requests
+170_Missing_statements.txt | 3.3.4 Reports & payment requests
+171_7_Submit_the_report_to_the_Granting_Authority.txt | 3.3.4 Reports & payment requests
+172_Acceptance_or_rejection_by_the_Granting_Authority.txt | 3.3.4 Reports & payment requests
+173_YW_Payment.txt | 3.3.5 Communicating your project — Acknowledgement of EU funding
+174_Final_report.txt | 3.3.5 Communicating your project — Acknowledgement of EU funding
+175_Beneficiary_termination_reporting.txt | 3.3.5 Communicating your project — Acknowledgement of EU funding
+176_eee_Links_pO.txt | 3.3.5 Communicating your project — Acknowledgement of EU funding
+177_3.3.5_Communicating_your_project_—_Acknowledgement_of_EU_funding.txt | 3.3.5 Communicating your project — Acknowledgement of EU funding
+178_What_does_communication_involve.txt | 3.3.5 Communicating your project — Acknowledgement of EU funding
+179_Good_communication.txt | 3.3.5 Communicating your project — Acknowledgement of EU funding
+180_Acknowledgement_of_EU_funding.txt | 3.3.5 Communicating your project — Acknowledgement of EU funding
+181_3.5.6_Dissemination_&_exploitation_of_project_results.txt | 3.3.7 Checks, audits, reviews & investigations
+182_5.3.7_Checks,_audits,_reviews_&_investigations.txt | 3.3.7 Checks, audits, reviews & investigations
+183_Project_reviews_row_0.txt | 3.3.7 Checks, audits, reviews & investigations
+184_Audits_@row_10.txt | 3.3.7 Checks, audits, reviews & investigations
+185_Anti-fraud_strategy_—_OLAF_investigations.txt | 3.3.7 Checks, audits, reviews & investigations
+186_Related_Certifications.txt | 3.3.7 Checks, audits, reviews & investigations
+188_TTS_po.txt | 3.3.7 Checks, audits, reviews & investigations
+192_4._Procurement.txt | 4. Procurement
+193_5._Prizes.txt | 5. Prizes
+49_5._Grants.txt | 5. Prizes
+189_3.3.8_Communicating_with_the_Granting_Authority.txt | 7. Working as an expert
+191_Portal_Messaging_Facility.txt | 7. Working as an expert
+195_7._Working_as_an_expert.txt | 7. Working as an expert
+197_In_depth_-_working_as_an_expert.txt | 7. Working as an expert
+198_TRS_pO.txt | 7.1 Expert registration
+199_7.1_Expert_registration.txt | 7.1 Expert registration
+200_Privacy.txt | 7.1 Expert registration
+201_Selection_of_experts.txt | 7.1 Expert registration
+202_7.2_Signing_a_contract_and_payment.txt | 7.2 Signing a contract and payment
+204_Your_correspondence_with_the_EU_services.txt | 7.2 Signing a contract and payment
+205_Signing_the_contract.txt | 7.2 Signing a contract and payment
+206_Code_of_conduct.txt | 7.2 Signing a contract and payment
+207_Conflicts_of_interest.txt | 7.2 Signing a contract and payment
+208_Conflict_of_Interest_impact.txt | 7.2 Signing a contract and payment
+209_Confidentiality.txt | 7.2 Signing a contract and payment
+210_Amount_of_the_payment.txt | 7.2 Signing a contract and payment
+211__•_accommodation_allowance_is_EUR_100_per_night.txt | 7.2 Signing a contract and payment
+212_Other_expenses.txt | 7.2 Signing a contract and payment
+213_Taxation_issues.txt | 7.2 Signing a contract and payment
+214_Disabilities.txt | 7.2 Signing a contract and payment
+215_Keeping_supporting_documents.txt | 7.2 Signing a contract and payment
+216_7.3_Experts_roles_and_tasks.txt | 7.3 Experts roles and tasks
+217_Roles_and_tasks_assigned_to_experts.txt | 7.3 Experts roles and tasks
+218_Proposal-evaluation_process.txt | 7.3 Experts roles and tasks
+219_Award_criteria.txt | 7.3 Experts roles and tasks
+220_Monitoring_projects_(Technical_review).txt | 7.3 Experts roles and tasks
+221_Types_of_project_monitoring.txt | 7.3 Experts roles and tasks
+222_Monitoring_process.txt | 8. Help
+223_8._Help.txt | 8. Help

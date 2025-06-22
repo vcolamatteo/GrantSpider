@@ -1,0 +1,17 @@
+2.4.1 Validation updates
+In case of a change in the participant’s legal situation (identity/legal form, name,
+address, status, etc), the participant must request an update of the validation.
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+Requests to update a validation will be accepted, if submitted by the participant’s
+LEAR and accompanied by the relevant supporting documents. If no LEAR has
+been appointed yet in the Participant Register, requests for modification should be
+submitted after the LEAR appointment has been validated.
+The ‘effective date of the change’ will be the date on which the act establishing the
+change enters into force (unless the terms of the act stipulate another date).
+For SMEs and mid-caps, the effective date is the closure date of the accounting period
+on which the change of status is based. For cases of mergers and acquisitions that
+lead to the loss of the SME or mid-cap status, the effective date of change will be the
+date when the ownership structure changed.
+The impact and practical consequences of the changes depend on each funding
+programme.

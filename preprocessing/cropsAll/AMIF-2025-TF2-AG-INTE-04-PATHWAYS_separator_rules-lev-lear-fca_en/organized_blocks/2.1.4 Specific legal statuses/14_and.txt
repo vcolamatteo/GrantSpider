@@ -1,0 +1,22 @@
+and
+
+— employing fewer than 250 persons (expressed in ‘annual working units’ as defined in Article 5 of the SME Recommendation) and which have an annual turnover not exceeding EUR 50 million and/or an annual balance sheet total not exceeding EUR 43 million.*
+
+An entity is considered to be engaged in an ‘economic activity’, if it proves to be involved in any form of trade or activity done for remuneration or pecuniary interest on the market. Thus, in general, any activity consisting in (directly or indirectly) offering goods or services on a given market is an economic activity.
+
+The following will NOT be considered economic activities:
+
+— activities which do not entail (directly or indirectly) some sort of pecuniary offset or
+
+— activities which do not entail (directly or indirectly) some sort of pecuniary offset or — activities for which there is no given/direct (or indirect) market or — activities for which the income generated is not distinct from the personal income of the entity’s members or shareholders.
+
+This status is self-declared. For calls where the SME status has an impact on eligibility or funding (higher funding rate, etc), participants must go through a self-assessment wizard.
+
+Two-year rule — In accordance with Article 4.2 of the SME Recommendation, the SME status depends on the ceilings for two consecutive accounting periods. Headcount and turnover must stay below the ceilings for two accounting periods to obtain the SME status; conversely, the status will be lost if they rise above the ceilings for two consecutive periods.
+
+4\ Since the SME self-assessment looks at the information for only one accounting period (the last one), the SME self-assessment result may be flawed. Participants that were below the ceiling the year before, must contact the Central Validation Service via the Participant Register in order to request a formal validation. This validation will then take into account the two accounting periods.
+
+The two-year rule does not apply for changes due to a merger or acquisition. Enterprises that are subject to a change in ownership need to be assessed on the basis of their shareholder structure at the time of the transaction. If the aggregated headcount and financial data of the new structure exceed the SME ceilings, the SME status is lost immediately from the date of the transaction?.
+
+Participants whose SME status changes after registration must update their data in the Participant Register. This is important not only for eligibility checks in grant applications, but also for statistical purposes.
+

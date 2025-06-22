@@ -1,0 +1,308 @@
+3.1.4 Submit a proposal — Portal Submission System
+Proposal submission
+Proposals must be submitted electronically using the Portal Submission System.
+Where? Access to the Submission System is available through the Topic page on the Portal>
+Start Submission.
+Who? Proposals must be created and submitted by a contact person of the coordinating
+organisation. Exceptions exist for some programmes/types of action which are fully focused on
+individuals (e.g. the Principal Investigator in Horizon Europe ERC grants or the Fellow in Horizon
+Europe MSCA grants).
+How? The Submission wizard will guide you step-by-step through the process. You will need
+to use the online forms and templates available in the Submission System. The application form
+is described below.
+Submission process
+Get prepared: Finding your topic > Find partners > Plan your work and budget
+Electronic proposal submission: Get an EU Login account > Get a PIC number (Participant
+Register) > Launch Submission wizard > Pre-register your draft proposal > List participants,
+contact persons > Fill in Administrative Forms (Part A) > Upload Technical Description (Part B)
+> Submit your proposal > Acknowledgement of receipt
+Application form (Part A and B)
+Proposals are submitted using the application forms available in the Submission System. The
+application form is structured in into two parts, Parts A and B:
+• Part A: contains the structured Administrative Forms with data on the participants, legal
+declarations and contact persons (retrieved from the Submission System screens). It
+may also include some programme-specific questions.
+• Part B (the narrative part): Technical Description of the project with the planned
+activities, work packages, costs, etc (must be uploaded as PDF).
+Part A is generated while entering the data into the Submission System; Part B needs to be
+prepared in advance (using the template downloaded from the system; do NOT use the standard
+template from the Topic page).
+Part B will also include annexes and supporting documents if required by the call conditions
+(detailed budget table, declarations from national authorities, CVs, annual activity reports, etc).
+All participants can contribute to the parts, but it is the person from the coordinating
+organisation who created the application who must finalise and submit the application.
+For programmes with specific security requirements, special instructions may apply (e.g. for
+EDF, documents must be uploaded through a password-word protected zip file). For such
+programmes, detailed instructions will be available in the call documentation.
+Tasks of the Coordinator:
+• Mandate: Make sure that you have the mandate of all participants to submit the
+application (explicit agreement to participate).
+• Quality check:
+Check that the application is coherent and that Part A and B are consistent (especially
+budgetary information).
+Make sure that the template has been followed and all sections are completed; make
+sure that no annexes are missing.
+Confidentiality
+EU services will treat your proposal confidentially, as well as any related information, data
+and documents received.
+Our evaluators (both in-house and outside experts, if any) are also bound by an obligation of
+confidentiality.
+Please do NOT discuss your proposal with persons that might act as expert evaluator for us
+or be otherwise involved in the evaluation, since this could lead to a conflict of interest with
+adverse consequences both for you and the concerned person.
+Security, data protection and document retention
+Your proposal and all the information received from you will be stored under secure conditions
+at all times. The Portal is a closed, secured platform with multiple safeguards.
+After the evaluation, we will keep the proposals for audit trail purposes (at least 5 years for
+unsuccessful proposals and 10 years after project end for successful proposals and, possibly,
+longer if needed for controls, checks and audit purposes).
+Personal data will be handled according to the standards set out in Regulation No 2018/1725
+and in line with the Portal Privacy Statement.
+Please be aware that your proposal MUST NOT contain any classified information (Decision
+2015/444 or national rules).
+Access to proposals
+The proposals will remain sealed and closed until after the call deadline.
+However, in order to plan the evaluation process (organise translations, evaluation capacities,
+evaluators with specialist knowledge, etc) we will ask you for permission to access to certain
+information already before:
+• call title and topic for which the proposal is submitted
+• title of your application, proposal abstract, keywords
+• PICs of the participating organisations
+• relevant panel (for proposals submitted to specific panels, e.g. Horizon Europe MSCA,
+UCPM).
+A warning will inform you that the Granting Authority will be accessing this information and
+will give you the opportunity to refuse access.
+Links
+• Proposal Submission Service: User Manual
+FAQ
+• FAQ on Proposal submission and evaluation
+3.1.4.1 Get prepared
+Before you can start completing your application, you should study the call documentation,
+select partners and plan your project.
+Study the call documentation
+Choose your topic, and then read carefully the related documents and standard
+templates that are available on the Topic page.
+The Submission System will check some basic admissibility and eligibility requirements,
+but NOT all of them. It is therefore very important that you carefully read the call
+conditions. Please note that whenever there is a contradiction between the IT checks in
+place and the call documentation, the call documentation prevails.
+Select your partners for the project
+Most calls require several participants in the proposal (see call conditions on the Topic
+page).
+You can use the Portal Partner Search to find partners. Other partner search tools are
+explained in the Helpdesk & Support Services page.
+Plan your project and prepare the Technical Description (Part B)
+Planning of the work (work packages, deliverables, milestones)
+Look at the call conditions, award criteria and standard application form (Technical
+Description (Part B)) on the Topic page.
+For most types of action the Technical Description must give a detailed description of the
+project idea and work plan (work packages, milestones and deliverables, division of
+responsibilities and resources, time schedule, project management structure,
+dissemination and communication activities).
+Work packages
+All project activities should be grouped in a logical, consistent and structured way into
+separate work packages. All work packages must present a clear, logical link to the
+project objectives and to the other work packages. Ideally, each work package should
+constitute a sub-part of the project, a step leading to the achievement of the project’s
+overall goals.
+Projects should normally have at least 2 work packages:
+− work package 1 — management and coordination activities
+− work package 2 — outputs related to the project goals.
+Beyond that, create only as many as you need (as many as necessary, as few as
+possible).
+Work package 1 should normally cover all activities related to the general management
+and coordination of the project and any activities that do not relate to any of the work
+packages leading to a specific result, but which are directly linked to the project as a whole.
+For the other work packages, describe the:
+• objective(s)
+• activities to be implemented — in specific terms
+• (tangible and intangible) outputs to be produced.
+Milestones & deliverables (if required)
+Concerning the outputs:
+1. Distinguish between milestones and deliverables:
+− milestones: control points in the project that help to chart progress (kick-
+off meetings, steering committes, first-draft of a survey, prototype, etc)
+− deliverables: outputs to be submitted to the EU (publication, leaflet,
+progress report, brochure, list, etc)
+2. Be as specific as possible, e.g.:
+− events — the number of events, title, content, duration, number of
+participants, etc.
+− publications — number of pages, language, format (printed/electronic),
+number of printed copies (in each language), etc.
+3. Be realistic about what you can achieve within the project duration. The scope of
+your project should be large enough to make a difference, but it doesn't need to produce
+an excessively high number of outputs.
+4. Refer only to major outputs. Do NOT include minor sub-items, internal working
+papers, meeting minutes, etc. Adapt the number of deliverables to the size of your
+project and work packages (use as many as necessary, as few as possible). You may
+be asked to reduce or increase the number during grant preparation.
+Budget
+Look at the budget table in the Administrative Forms (Part A) in the Submission System.
+Only the white cells need to be filled in (the grey cells are not applicable or automatically
+filled by the system).
+Cross-check with Part B to see if you will also need to submit a detailed budget table or
+outline budgetary details also in Part B.
+The budget categories to be used for the call are set out in the call conditions and explained
+in the AGA — Annotated Grant Agreement.
+The budgeted costs should be based on a detailed and accurate estimation of your
+estimated project costs (based on the cost eligibility rules set out in the Grant Agreement).
+They should include all your estimated costs (those of your Affiliated Entities should be
+presented separately, for each participating entity).
+Keep your estimates on file — you may be required to produce them later on.
+Annexes & supporting documents
+If required by the call conditions, you will need to prepare additional annexes and
+supporting documents (consortium description, declarations by the national authorities,
+CVs, annual activity reports, etc).
+Use the templates provided inside the Submission System (NOT the ones on the Topic
+page).
+Detailed budget table (if required)
+Many programmes require the submission of a detailed budget table (templates are usually
+in format .xlsx or .xlxm).
+Simple .xlsx files can simply be filled-in, merged and uploaded. For .xlsm files, you can
+usually — after the table has been filled-in and completed using the macro-support — save
+a copy as .xlsx and use that copy for merging and uploading the file.
+If you are asked to merge and upload a table as PDF (usually for needed for GAP), please
+proceed as follows:
+Sheets per participant must be filled in for each Beneficiary/Affiliated Entity; sheets for
+the entire project must be filled in by the Coordinator — after having received all the
+information by the other participants.
+Combine into a single PDF:
+1. Save participant sheets into one PDF per Beneficiary/Affiliated Entity (choose
+sheets via ‘Options’ when saving as PDF)
+2. Save participant sheets and project sheets into a PDF for the Coordinator.
+3. Combine into a single PDF for upload (using Adobe Acrobat or the Preview App
+on Apple Macs).
+4. Upload in the system.
+CVs (if required)
+Provide CVs for the core project team (these are the key staff you have listed in part B and
+may include outside experts, if key to your proposal).
+You can submit CVs in any format. If standard CVs are required in the call conditions we
+strongly recommend you to use the Europass format. If short outlines are requested, there
+are no specific formatting requirements (but please keep the information on each person
+to name, birthdate and 1-2 paragraphs describing studies and most relevant work
+experience).
+As far as possible, upload them in a single PDF file, rather than individually.
+If you are still recruiting, please provide the job profile.
+Activity report of last year (if required)
+This report should describe your organisation's activities for the last year.
+It should be detailed enough to allow us to check your organisation’s aims and activities
+and its operational and professional capacity.
+No finalised annual report yet? Submit the draft version, certified by your organisation's
+legal representative.
+No report of this type available? Create one for this application and have it certified by your
+legal representative.
+Online versions — If your report is available on your website, you can just provide a link
+(directly to the document(s), not simply to the homepage) and indicate the link on a
+separate sheet and upload it as annex (PDF format).
+3.1.4.2 Electronic proposal submission
+Electronic proposal submission: Get an EU Login account > Get a PIC number (Participant
+Register) > Launch Submission wizard > Pre-register your draft proposal > List participants,
+contact persons > Fill in Administrative Forms (Part A) > Upload Technical Description (Part B)
+> Submit your proposal > Acknowledgement of receipt
+Proposals must be submitted online using the Portal Submission System and before the call
+deadline.
+Details are explained in the .
+Actions to be completed before submission
+Create your user account to login to the Portal
+To be able to submit a proposal, you must first register on the Portal for an EU Login account.
+Make sure all participants are registered (PIC)
+All participants (Beneficiaries, Affiliated Entities and Associated Partners) must be
+registered in the Participant Register and have their 9-digit Participant Identification Code
+(PIC). The Coordinator has to be identified with its PIC number at Step 3 of the Submission
+wizard, while other participants at Step 4.
+Read more about registration and PIC search in the Registration and validation of your
+organisation section.
+Submitting the application
+The Submission wizard will guide you step-by-step through the process.
+Detailed explanations are available in the .
+Do not forget to check the system requirements for using the Submission System.
+Launch the Submission wizard and enter information for the Administrative
+Forms (application form (Part A))
+Go to the topic on the Search funding & tenders page > Start Submission.
+Upload Part B (Technical Description) and annexes and supporting documents
+Part B (and the annexes and supporting documents) can be uploaded in Step 5 of the
+wizard. Detailed instructions for preparing these documents are available in the section Get
+prepared.
+Tips
+Do not wait until the end to submit
+It is highly recommended to submit your proposalas early as possible and at least 48 hours
+before the deadline. This will avoid technical problems (system requirements, local
+configuration settings, system congestion, etc).
+Please note that you can submit the proposal as many times as you want. Every submitted
+version will replace the previous one. Your proposal is sealed and closed. It will not be accessed
+before the deadline of the call. There is no reason to delay submission for fear of disclosure.
+Affiliated entities
+In Step 4 of the wizard you specify the organisations participating in the consortium. As from
+2021, this will include Affiliated Entities and Associated Partners. They will therefore need to
+have registered beforehand and have their PIC. Their budget will also have to be individualised
+already at application stage (separate row in the budget table).
+Access rights of individual contact persons
+In Step 4 of the wizard you also specify the contact persons for the organisations. To read more
+about the levels of access rights, see the Roles and access rights section.
+Changes to organisation-related data during proposal preparation
+If your organisation is already registered, but organisation-related data has changed during
+proposal preparation, you cannot update it directly in the Submission System.
+The update must first be requested via the Participant Register (My Organisations > Actions >
+Modify Organisation):
+• by the LEAR (or Account Administrators) for validated entities
+• by the Self-registrant if your organisation has not been validated yet.
+Page limits and formatting requirements for the Technical Description (Part B)
+Don’t forget that applications may have mandatory page limits and formatting requirements
+(indicated at the beginning of the application form). Excess pages will be automatically made
+invisible, and will not be taken into consideration by the evaluators.
+Checklist for submission
+Before submitting the proposal, check that:
+• your proposal fulfils the call conditions
+• the proposal (both the Administrative Forms (Part A) and Technical Description (Part
+B)) is complete, readable, accessible and printable
+• the requested declarations have been made
+• all consortium members have:
+obtained a user account to log in to the Portal
+o
+registered in the Participant Register.
+o
+Mock evaluation
+For some programmes, you can find standard evaluation forms similar to those used by our
+evaluators on Portal Reference Documents. Try them out. Ideally, ask a disinterested colleague
+to carry out a mock evaluation.
+Multiple versions of proposal
+You can submit your proposal several times before the deadline, to make updates or changes.
+To view or change your submitted proposal, go to My Proposals > View Submitted > Re-edit
+proposal. As long as the call has not been closed, the newly submitted version will overwrite
+the previous one.
+Please note that the re-edit functionality is not available for continuously open calls.
+Multiple proposals
+If the Coordinator submits a number of similar proposals, the Granting Authority may ask them
+to choose one or more of them to be withdrawn.
+Specific submission schemes
+Two-stage submission schemes — You must submit a short outline proposal for stage 1 and will
+be invited to submit a full application only if you pass to stage 2. The full application must be
+consistent with the short outline proposal (no substantial differences allowed).
+Calls with multiple cut-off dates — The call has a final closure date (usually the end of the
+funding programme) and several cut-off dates that trigger evaluation. There is an evaluation
+session after each cut-off date and the final closure date (normally within a month). After each
+cut-off date, the submitted proposals are grouped, reviewed and ranked together. Evaluation
+results are made available and proposals invited for grant preparation. If you miss a cut-off
+date, the proposal will be evaluated with the next batch in the next evaluation session.
+After submission
+At submission, the application package is combined into one document, sealed and an e-receipt
+is generated (with date and time of submission).
+All contact persons of the coordinating organisation will receive an e-mail (after each submission
+if several). If you have not received this e-mail, the application has not been submitted.
+Please try again or contact the IT Helpdesk.
+After the submission, there is normally no further contact between you and us until after the
+end of the evaluation. The competent EU service will contact you only if there is a need to clarify
+issues or request additional information or if the call foresees a hearing/interview as part of the
+evaluation procedure.
+Withdrawal of submitted proposals
+Before the call deadline, a proposal can be withdrawn at Step 6 of the wizard (My Proposals >
+View Submitted > Withdraw proposal). After the call deadline, withdrawal has to be requested
+via the IT Helpdesk.
+Once withdrawn, the new status will be shown on the My Proposals page (and you can delete
+the application with the Delete button).
+After the call deadline
+Once the call deadline has passed, no further corrections or re-submissions are possible.
+However, you can have read-only access to the submitted proposal (My Proposals > View
+Submitted).
+Proposals that were never submitted (remain in draft status) are accessible for 90 days after
+the call deadline (My Proposals > View Draft).

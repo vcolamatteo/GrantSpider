@@ -1,0 +1,4 @@
+Missing statements
+
+Sometimes you may decide to submit the report without Financial Statements from certain Partners (e.g. if a Beneficiary cannot submit its individual Financial Statement on time). If this happens, you will be asked to confirm that you are aware of this and that therefore these costs will not be considered for the current payment. The participant's costs will be considered zero for this reporting period, but they will be able to declare their costs in the next financial report (next reporting period).
+

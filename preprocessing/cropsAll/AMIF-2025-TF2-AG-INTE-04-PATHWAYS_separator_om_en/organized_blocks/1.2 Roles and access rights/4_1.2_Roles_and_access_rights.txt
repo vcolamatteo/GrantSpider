@@ -1,0 +1,6 @@
+1.2 Roles and access rights
+
+Roles and access rights restrict the information a user can view and the tasks they can perform (for instance, only a person with the coordinator role can delete a draft application).
+
+Access rights are linked to a user's roles in the Portal personalised area (My Area), which are in turn linked to their functions within their organisation or in relation to a particular project/contract and their nomination by the organisation’s LEAR (or other authorised person).
+

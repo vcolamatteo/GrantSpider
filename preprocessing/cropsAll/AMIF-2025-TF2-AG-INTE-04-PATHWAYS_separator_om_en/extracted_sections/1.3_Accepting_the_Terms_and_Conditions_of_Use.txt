@@ -1,0 +1,12 @@
+1.3 Accepting the Terms and Conditions of Use
+The Portal is part of the Single Electronic Data Exchange Area set up under Articles 147 and
+128 of the EU Financial Regulation.
+On the first login to My Area, users must agree to the Portal Terms and Conditions and the
+Portal Privacy Statement.
+Organisations will be asked to agree to the Terms and Conditions when they appoint their LEAR
+(declaration of consent). Every time you access to My Area, you are implicitly reaffirming
+your acceptance of the Terms and Conditions valid at that time.
+Personal data will be kept and processed for the purposes of the Single Electronic Data Exchange
+Area, i.e. for the management and implementation of your EU grants, contracts, prizes and
+other transactions managed through the Portal. The detailed conditions for the processing of
+your personal data are set out in the Portal Privacy Statement.

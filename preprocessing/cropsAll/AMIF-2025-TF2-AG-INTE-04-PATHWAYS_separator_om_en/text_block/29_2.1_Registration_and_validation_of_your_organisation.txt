@@ -1,0 +1,10 @@
+2.1 Registration and validation of your organisation
+
+Before submitting an application, all participants involved in the proposal must first be registered in the Portal Participant Register and have their 9-digit Participant Identification Code (PIC number).
+
+You can verify directly on the Portal whether your organisation is already registered and has a PIC. If not, please proceed with the registration following the instructions on the same page (the Registration wizard will help you through the process). Once completed, you get the PIC to be used in your online application form and further correspondence with the EU services.
+
+If you do not have an user account (EU Login), you will first need to create one, before starting the registration process. If you already have a user account (EU Login), you can log in and directly start registration.
+
+4\ Please note that the Participant Register is primarily directed at organisations and that not all of the labels fit for individuals (natural persons). Enter your information as appropriate (e.g. country of residence instead of country of registration, passport number instead of registration number, etc).
+

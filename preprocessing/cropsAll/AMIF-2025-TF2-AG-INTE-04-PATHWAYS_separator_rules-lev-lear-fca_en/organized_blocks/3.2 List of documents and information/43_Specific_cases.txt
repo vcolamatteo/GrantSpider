@@ -1,0 +1,6 @@
+Specific cases
+
+* Internal requirements (e.g. joint signature of more than one person required to legally engage the entity, foreseen by law, act of establishment, statutes, internal rules, etc) — In case of internal requirements, the participant is fully responsible for ensuring compliance (e.g. through an internal process ensuring that the single signature on the LEAR documents is made only after all the internal requirements on joint signature are fulfilled).
+
+“ Limitations — The Central Validation Service will take into account limitations to represent the entity only if these limitations are explicitly mentioned in the documents submitted to prove the empowerment of the legal representative (e.g. limitation in the excerpts of the company registry).
+

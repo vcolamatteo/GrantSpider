@@ -1,0 +1,6 @@
+Legal Signatory (LSIGN)
+
+LSIGNs must be nominated for an organisation by the LEAR or an Account Administrator (see Figure 3).
+
+LSIGNs are assigned to a particular project by a Coordinator or Participant Contact (see Figure 3). An organisation can have an unlimited number of LSIGNs.
+

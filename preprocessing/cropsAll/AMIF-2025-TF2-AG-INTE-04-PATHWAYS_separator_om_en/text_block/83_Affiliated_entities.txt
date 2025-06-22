@@ -1,0 +1,22 @@
+Affiliated entities
+
+In Step 4 of the wizard you specify the organisations participating in the consortium. As from 2021, this will include Affiliated Entities and Associated Partners. They will therefore need to have registered beforehand and have their PIC. Their budget will also have to be individualised already at application stage (separate row in the budget table).
+
+Access rights of individual contact persons
+
+In Step 4 of the wizard you also specify the contact persons for the organisations. To read more about the levels of access rights, see the Roles and access rights section.
+
+Changes to organisation-related data during proposal preparation
+
+If your organisation is already registered, but organisation-related data has changed during proposal preparation, you cannot update it directly in the Submission System.
+
+The update must first be requested via the Participant Register (My Organisations > Actions > Modify Organisation):
+
+ • by the LEAR (or Account Administrators) for validated entities
+
+ • by the Self-registrant if your organisation has not been validated yet.
+
+Page limits and formatting requirements for the Technical Description (Part B)
+
+Don’t forget that applications may have mandatory page limits and formatting requirements (indicated at the beginning of the application form). Excess pages will be automatically made invisible, and will not be taken into consideration by the evaluators.
+

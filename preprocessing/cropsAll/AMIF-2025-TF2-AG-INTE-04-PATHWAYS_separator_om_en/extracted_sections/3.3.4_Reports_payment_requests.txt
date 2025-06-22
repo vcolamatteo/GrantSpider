@@ -1,0 +1,140 @@
+3.3.4 Reports & payment requests
+In order to receive payments, the consortium must submit periodic reports (following the
+schedule set out in the Grant Agreement). When these are due, they must be submitted directly
+in the Periodic Reporting Module of the Portal Grant Management System.
+Where? Access to the Grant Management System is available through My Projects > Actions
+> Manage Project > Periodic Reporting > Technical Part contribution/Financial Statement
+drafting.
+Who? The periodic report should be prepared by the consortium participants together and
+submitted by the Coordinator.
+How? You will be prompted by e-mail for all the actions that you need to carry out for the
+periodic reporting.
+What? In the periodic report, you should report on the progress of the work and costs claimed
+(see below Periodic Report). When the Coordinator submits the periodic report, the IT tool will
+capture the information from the Continuous Reporting Module in order to generate the Part A
+of the Technical Report. The system will also consolidate the Individual Financial Statements
+and it will generate the use of resources report (if required) and the Summary Financial
+Statements (for the consortium).
+Reporting process
+Continuous reporting > Preparing your periodic report > Approving Partners' reports >
+Submitting the report to the Commission > Acceptance or rejection by the Commission >
+Interim payment
+Periodic report: Technical Report (Part A and B) and Financial Report
+The periodic report consists of two parts, the Technical Report and Financial Report.
+The Technical Report is itself also divided in two parts, Parts A and B:
+Part A: contains the structured tables with project information (retrieved from the Grant
+Management System).
+Part B (the narrative part): mirrors the application form and requires the participants to report
+on differences (delays, work not implemented, new subcontracts, budget overruns etc). It must
+be uploaded as PDF document.
+The Financial Report consists of the structured individual and consolidated Financial
+Statements (retrieved from the Grant Management System). In addition, most programmes
+require either a detailed cost reporting table (excel table) or the use of resources report (online
+wizard) and, for payments above a certain thresholds, a certificate on the financial statements
+(CFS).
+The technical report Part A and the financial report is generated automatically on the basis of
+the data in the Grant Management System; Part B needs to be prepared outside the tools (using
+the template downloaded from the system) and then uploaded as PDF (together with Annexes,
+if any).
+All participants should contribute to the parts, but it is the Coordinator who will have to submit
+them as a single report.
+Tasks of the Coordinator:
+• Check that the Continuous Reporting Module is updated in time (before the Periodic
+Report is Locked for review).
+• Check that all participants have submitted their Financial Statements (and CFS, if
+needed)
+• Quality checks:
+Check that the Report is coherent and that information in Part A and B is consistent.
+Make sure that the template has been followed and all sections are completed and no
+annexes are missing.
+Certificate on the Financial Statements (CFS)
+The CFS is a report produced by an independent auditor (or, for public bodies, public officer)
+using the template available on Portal Reference Documents. Its purpose is to give assurance
+to the Granting Authority about the regularity of the costs claimed.
+The thresholds depend on the EU programme and type of action (see call conditions on the
+Topic page). For the MFF 2021-2027, there is usually a single threshold of EUR 325 000
+requested EU contribution.
+Please note that costs already audited by the Granting Authority do not have to be covered
+again by the CFS (the EU contribution covered by the audit can therefore be excluded from the
+calculation of the threshold).
+The CFS must be uploaded as a scanned copy (PDF) together with the Financial Statement. The
+originals must be kept in the your files.
+Submitting the periodic reports
+You should start preparing the periodic report in the Grant Management System right after the
+periodic reporting is opened at the end of each reporting period (— deadline for submission is
+normally 60 days).
+Details on how to submit are available in the .
+Make sure that the information in the Continuous Reporting Module is updated
+This must be done before the Technical Report (both parts) is first Locked for review by
+the Coordinator. Any entries into the Continuous Reporting Module made afterwards will
+NOT be included in this periodic report.
+Complete your Financial Statements
+Go to My Projects > Actions > Manage Project > Periodic Reporting > Financial Statement
+drafting and complete the Financial Statements for each participant on their Financial
+Statement screen.
+Make sure the cost details match the use of resources or detailed budget table (if required).
+To sign and submit to the Coordinator, the Beneficiary’s PFSIGN must log into My Projects
+> Actions > Manage Project > Periodic Reporting > Sign & Submit (same procedure as for
+Grant Agreement; see Signing the Grant Agreement).
+Affiliated Entities must supply their Beneficiary with a signed paper Financial Statement;
+the Beneficiary must then fill in the information in the system and sign and submit.
+If you fail to submit a Financial Statement, your costs will be considered zero for this
+reporting period (but you can declare them in the next reporting period).
+Upload Part B of the technical report
+Upload Part B on the Technical Report Part B screen (as a single PDF). Use the template
+available inside the system. This can be done by any Beneficiary (not only the Coordinator).
+If any changes to Part B are needed, you must delete the pdf file and upload a new one.
+When both Parts A and B are ready to submit, the Technical Report can be finalised by the
+Coordinator (My Projects > Actions > Manage Project > Periodic Reporting > Accept &
+Include).
+Coordinator approves Partners' financial reports
+The Coordinator must review and explicitly approve the periodic report. If needed, you can
+send back a Financial Statement to a Partner for further changes, or unlock the Technical
+Report for editing.
+Before submitting, all the accepted Partners' Financial Statements must be included (My
+Projects > Actions > Manage Project > Periodic Reporting > Include).
+Missing statements
+Sometimes you may decide to submit the report without Financial Statements from certain
+Partners (e.g. if a Beneficiary cannot submit its individual Financial Statement on time). If
+this happens, you will be asked to confirm that you are aware of this and that therefore
+these costs will not be considered for the current payment. The participant's costs will be
+considered zero for this reporting period, but they will be able to declare their costs in the
+next financial report (next reporting period).
+Submit the report to the Granting Authority
+The Coordinator must submit all parts of the periodc report together (all the individual
+Financial Statements and Part B of the Technical Report): My Projects > Actions > Manage
+Project > Periodic Reporting > Submit to EU. The system will automatically generate the
+report with explanations of the use of resources and the periodic Summary Financial
+Statements, which includes the request for payment.
+Acceptance or rejection by the Granting Authority
+The Granting Authority will either:
+• accept the report and start preparing the payment or
+• ask for changes to it — which means that the process described above starts
+again.
+Payment
+When the Granting Authority approves the payment, the amount due will be paid out to
+the Coordinator (within 90 days of receiving the report)
+If the amount due is above the interim payment ceiling (90% of the maximum grant
+amount), the amount due will be lowered.
+The Granting Authority will send a letter to inform about the payment. After receiving the
+letter, the Coordinator has 30 days to submit observations, if needed. In case of
+observations, the Granting Authority will send a confirmation letter to state its final
+position.
+Final report
+The Periodic Reporting Module (and periodic reports) are also used for the final report (report
+for the last reporting period, to close the grant). The system behaviour, screens and documents
+used are the same.
+Beneficiary termination reporting
+If one of the Beneficiaries has to leave the consortium, the the Coordinator has to prepare a
+termination report (Technical Report Part B and Financial Report) and a report on the
+distribution of payments to this Beneficiary in the Grant Management System.
+Details on the steps to follow are explained in the .
+Links
+• AGA — Annotated Grant Agreement, art 6, 21, 22
+• Detailed description of the Portal Grant Management System in the
+• Horizon Europe Coordinators' Day 2022 event page (including recording of the event
+and presentations)
+• Communication to Horizon 2020 Beneficiaries: How to avoid errors when claiming costs
+in H2020 grants
+FAQ
+• FAQ on Audit and Certificates

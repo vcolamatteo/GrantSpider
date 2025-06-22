@@ -1,0 +1,16 @@
+1. Introduction
+
+In order to receive EU funding/tenders (i.e. grants, procurements, prizes, contribution agreements, etc), applicants need to fulfill a certain number of conditions which must be checked before any funding can be awarded to them.
+
+Some of these checks are done centrally by the EU Central Validation Service through the Funding & Tenders Portal Participant Register, set up in accordance with Articles 128 and 147 of the EU Financial Regulation 2018/1046! as central repository and electronic data interchange area for participants.
+
+This guidance sets out the rules that the Central Validation Service will use for these checks. They currently cover:
+
+— legal entity validation (also called ‘PIC validation’) — LEAR appointment — collecting the financial information for the financial capacity assessment (also called ‘FCA’) — ownership control assessment (also called ‘OCA’).
+
+For these checks, the participants will be contacted directly by the Central Validation Service and asked to submit the necessary information and supporting documents via the Participant Register. This happens normally during preparation of the first grant, procurement, prize or contribution agreement that successfully passed the evaluation stage, but can also occur later during subsequent applications or in case of changes.
+
+All data and documents will be treated as confidential.
+
+Personal data will be handled in accordance with Regulation 2018/1725 to ensure compliance with the principles of transparency, proportionality, impartiality and legality. For the details, please refer to the Funding & Tenders Portal Privacy Statement (available on Portal > Legal Notices).
+

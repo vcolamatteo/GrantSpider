@@ -1,0 +1,48 @@
+5.2.2 List of documents and information
+The participants will be asked to submit the following documents and information:
+1. Graph visualising the complete ownership structure/chain of control, including
+all ownership layers/chain of control until the ultimate owners.
+2. Proof of the direct and indirect shareholders/owners and their respective
+percentage of interest and voting rights, for instance commercial registry
+extracts, articles of association/incorporation documents/memorandum of
+association/company’s shareholders/members/partners book/registry extract,
+etc with the exact distribution of shares/voting rights, i.e. name of
+shareholders/members/partners and their percentage of interest andvoting
+rights, as well as information on their place of establishment (in case of legal
+entity) or nationality (in case of natural persons).
+3. Statutes, articles of association, shareholders’/partnership agreements,
+memorandum of understanding among shareholders, investment agreements
+between shareholders and other relevant documents regarding the decision-
+making procedures within the legal entity and the related rights of the
+shareholders/members/partners.
+4. Documents establishing/describing the decision-making bodies, rules regarding
+election, appointment, nomination, dismissal and tenure of members, and
+decision-making procedures (e.g. articles of association, bylaws, reports on
+corporate governance, internal corporate governance rules, minutes of board
+meetings, etc).
+5. For participants that are listed companies, subsidiaries or controlled by a listed
+company: report/minutes of the last three shareholders meetings, together
+with the attendance list identifying the present/represented shareholders and
+their respective votes.
+6. Cooperation agreements with customers or suppliers, when they could confer
+control over the participant — if expressly requested by the Central Validation
+Service.
+7. For shareholders/owners that provide financial contributions: supporting
+documents (loans, by-laws, etc) that justify the financial contribution;
+documents showing the link between the shareholder/owner and the entity
+providing the financing — if expressly requested by the Central Validation
+Service.
+8. Information about any other means, process or links that could ultimately
+confer control to a non-EU country or non-EU country entity.
+9. Copy of ID card(s) or passport(s) indicating the nationality of the ultimate
+owner(s).
+The same documents and information must be provided for each intermediate
+controlling entity, up to the ultimate owners. The supporting documents must
+demonstrate the complete ownership structure, including all layers of ownership and
+non-controlling entities.
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+Guarantees for non-EU controlled entities (if allowed by the call conditions and
+required by the EU service in charge) are not part of the ownership control
+assessment and must therefore be submitted directly to the EU service in charge of
+the grant/tender, in accordance with the specific programme rules.

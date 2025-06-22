@@ -1,0 +1,10 @@
+Nataile ara ayniained in tha @) row TO
+
+Details are explained inthe SY ~—sS
+
+® Enter the structured information into the system (Part A of the DoA)
+
+Go to My Projects > Actions > Manage Project > Proposal Management & Grant Preparation > Grant agreement data preparation and transfer the information from your application form (Part B) to the Work Packages, Deliverables, Milestones and Critical Risks screens.
+
+You can move work packages up and down by drag & drop to position them in the order of your preference. When a work package is moved to a new position, the numbering of WPs (and also the relative numbering of deliverables) is automatically adapted.
+

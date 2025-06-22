@@ -1,0 +1,49 @@
+5.2.4.1 Enter & submit grant data
+
+Actions to be completed before grant preparation
+
+© Organise access rights and roles
+
+All Beneficiaries need access rights in order to prepare their grant data in the system and sign the legal documents (declarations of honour, Grant Agreements and Accession Forms).
+
+The contact persons of each organisation indicated in the proposal will automatically receive access rights during grant preparation:
+
+
+
+Table content:
++-------------------------------+-------------------------------------------------------+
+|            Proposal          |                 Grant preparation                     |
++-------------------------------+-------------------------------------------------------+
+| Person who created the application ou submit the proposal? |                         PCoCo                        |
+| Contact persons with full access rights | CoCos (for Coordinator) + PaCos (for other Beneficiaries) |
++-------------------------------+-------------------------------------------------------+
+
+
+Table content:
++-------------------------------------+---------------+
+| Contact persons with read-only rights | Team Members  |
+|                                      | (TeMes)       |
++-------------------------------------+---------------+
+In addition, if your organisation has already been validated, the LEAR will normally also already have been appointed.
+
+Other persons and roles (especially LSIGNs and FSIGNs) will have to be appointed first by the LEAR (My Organisations > Actions > Edit Organisation Roles > Add Roles) and then assigned to the project by the CoCos and PaCos (My Projects > Actions > Project Consortium > Edit Roles),
+
+The minimum setup of roles that you need to prepare and conclude the Grant Agreement are the following:
+
+ • for the Coordinator: o Primary Coordinator Contact (PCoCo) — already appointed o Legal Entity Appointed Representative (LEAR) o Project Legal Signatory (PLSIGN)  • for other Beneficiaries: o Participant Contact (PaCo) o Legal Entity Appointed Representative (LEAR) o Project Legal Signatory (PLSIGN).
+
+The same person can fulfil several or all of the above roles.
+
+4) Our system allows for only one signature on your side. If your internal rules require several signatories, you must give an internal mandate to one of them and ensure that the electronic signature in our system is executed only after all the necessary internal authorisations were given. These authorisations must be collected, stored and kept by you in line with your usual management practices (usually paper-based) so that they can be provided to us in case of EU controls, checks or audits.
+
+More details about nomination are in the Roles and access rights section.
+
+Make sure all participants are registered and validated (PIC)
+
+All Beneficiaries and Affiliated Entities must be registered and validated in time for grant signature (see section on Registration and validation of your organisation).
+
+Associated Partners need to be only registered (have a PIC); no validation is needed, because they will not receive any grant money.
+
+™ Prepare and sign a consortium agreement (always recommended; in many cases mandatory)
+
+Consortium agreements are mandatory for many EU programmes. But even if they are not, it is highly recommended to have arrangements in place to cover consortium-internal issues that may arise during the project (e.g. decision-making procedures, resolve conflicts, safeguard intellectual property rights, etc). The consortium agreement should be signed before the Grant Agreement. For details, see AGA — Annotated Grant Agreement, art 7 and the How to establish your H2020 consortium agreement.

@@ -1,0 +1,6 @@
+Coordinator approves Partners’ financial reports
+
+The Coordinator must review and explicitly approve the periodic report. If needed, you can send back a Financial Statement to a Partner for further changes, or unlock the Technical Report for editing.
+
+Before submitting, all the accepted Partners' Financial Statements must be included (My Projects > Actions > Manage Project > Periodic Reporting > Include).
+

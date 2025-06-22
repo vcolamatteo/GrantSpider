@@ -1,0 +1,6 @@
+3.1.4 Timing of the LEAR appointment
+
+The process for appointment of the LEAR in the Participant Register can run in parallel to the validation of the entity, but can only be finalised once the participant (PIC) is validated.
+
+4\ LEAR appointment is not a condition for the submission of a proposal/tender in the Funding & Tenders Portal, but its validation must be completed before the the grant, procurement or contribution agreement can be signed.
+

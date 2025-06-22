@@ -1,0 +1,6 @@
+Sign the declarations of honour (DoH)
+
+For each Beneficiary, the PLSIGN must sign a declaration of honour (DoH) directly in the system (grant declaration) .
+
+Affiliated entities also need to sign a DoH. For them, the responsible Beneficiary must download the template from Portal Reference Documents, ask each entity to complete and sign it, then upload the scanned DoHs for their linked third parties.
+

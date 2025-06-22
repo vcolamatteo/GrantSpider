@@ -1,0 +1,9 @@
+#inputs: assets/demo/layout_detection
+inputs: /home/vc/Theory/NLP2/RAG/AgenticRAG/myRAg/output_images_grant_2
+outputs: outputs/layout_detection_grant_lmv3_2
+tasks:
+  layout_detection:
+    model: layout_detection_layoutlmv3
+    model_config:
+      model_path: models/Layout/LayoutLMv3/model_final.pth
+      visualize: True

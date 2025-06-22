@@ -1,0 +1,56 @@
+1_1._Introduction.txt | 1. Introduction
+2_2._Legal_entity_validation.txt | 2. Legal entity validation
+4_2.1.1_Legal_entity_validation.txt | 2.1.2 Exception: Validation of private entities without legal personality
+5_Specific_cases.txt | 2.1.2 Exception: Validation of private entities without legal personality
+6_2.1.2_Exception_Validation_of_private_entities_without_legal_personality.txt | 2.1.2 Exception: Validation of private entities without legal personality
+7_and.txt | 2.1.3 Exception: Validation of ministries, specialised entities of IOs and certain EU bodies
+8_2.1.3_Exception_Validation_of_ministries,_specialised_entities_of_IOs_and_certain_EU_bodies.txt | 2.1.3 Exception: Validation of ministries, specialised entities of IOs and certain EU bodies
+10_Private_entity_or_public_body.txt | 2.1.4 Specific legal statuses
+11_Non-profit.txt | 2.1.4 Specific legal statuses
+12_Specific_cases.txt | 2.1.4 Specific legal statuses
+13_Small_or_medium_sized_enterprise_(SME).txt | 2.1.4 Specific legal statuses
+14_and.txt | 2.1.4 Specific legal statuses
+15_Specific_cases.txt | 2.1.4 Specific legal statuses
+16_Middle-capitalisation_enterprise_(Mid-cap).txt | 2.1.4 Specific legal statuses
+17_Non-governmental_organisation_(NGO).txt | 2.1.4 Specific legal statuses
+18_Civil_society_organisation_(CSO).txt | 2.1.4 Specific legal statuses
+19_International_organisation_(IO).txt | 2.1.4 Specific legal statuses
+20_Specific_cases.txt | 2.1.4 Specific legal statuses
+9_2.1.4_Specific_legal_statuses.txt | 2.1.4 Specific legal statuses
+23_2.2_Documents_and_information_to_provide.txt | 2.2 Documents and information to provide
+21_Research_organisation.txt | 2.2.1 General requirements and principles
+22_Secondary_or_higher_education_establishment.txt | 2.2.1 General requirements and principles
+25_2.2.2_List_of_documents_and_information.txt | 2.2.2 List of documents and information
+26_2.2.3_Incomplete_or_contradictory_information.txt | 2.2.3 Incomplete or contradictory information
+27_2.3_Validation_and_effective_date.txt | 2.3 Validation and effective date
+28_2.4_Modification_of_validations.txt | 2.4 Modification of validations
+29_2.4.1_Validation_updates.txt | 2.4.1 Validation updates
+30_2.4.2_Corrections_of_validations.txt | 2.5 Ex-post verifications carried out by the EU  Irregularities andor false declarations
+31_2.5_Ex-post_verifications_carried_out_by_the_EU_—_Irregularities_andor_false_declarations.txt | 2.5 Ex-post verifications carried out by the EU  Irregularities andor false declarations
+32_3._Validation_of_the_LEAR_appointment.txt | 3. Validation of the LEAR appointment
+34_3.1.1_Role_of_the_LEAR.txt | 3.1.2 Position of the LEAR
+35_3.1.2_Position_of_the_LEAR.txt | 3.1.2 Position of the LEAR
+36_3.1.3_Legal_representative.txt | 3.2 List of documents and information
+37_3.1.4_Timing_of_the_LEAR_appointment.txt | 3.2 List of documents and information
+38_3.2_List_of_documents_and_information.txt | 3.2 List of documents and information
+39_Proof_of_identity.txt | 3.2 List of documents and information
+40_Specific_cases.txt | 3.2 List of documents and information
+41_“_Print-outs_from_the_ID_electronic_chip_—_Cannot_be_accepted_either..txt | 3.2 List of documents and information
+43_Specific_cases.txt | 3.2 List of documents and information
+44_Documents_proving_the_empowerment_of_the_legal_representative.txt | 3.2 List of documents and information
+45_3.3_LEAR_replacement.txt | 3.3 LEAR replacement
+46_3.4_Ex-post_verifications_carried_out_by_the_EU_—_Irregularities_andor_false_declarations.txt | 3.4 Ex-post verifications carried out by the EU  Irregularities andor false declarations
+47_4._Financial_capacity_assessment.txt | 4. Financial capacity assessment
+49_4.2_Documents_and_information_to_provide.txt | 4.2 Documents and information to provide
+51_4.2.2_List_of_documents_and_information.txt | 4.2.2 List of documents and information
+52_and.txt | 4.2.2 List of documents and information
+53_4.2.3_Incomplete_or_contradictory_information.txt | 4.2.3 Incomplete or contradictory information
+54_4.3_Duration_of_validity_and_renewal.txt | 4.3 Duration of validity and renewal
+55_4.4_Modification_of_the_assessment.txt | 4.4 Modification of the assessment
+56_4.5_Ex-post_verifications_carried_out_by_the_EU_—_Irregularities_andor_false_declarations.txt | 4.5 Ex-post verifications carried out by the EU  Irregularities andor false declarations
+57_5._Ownership_control_assessment.txt | 5. Ownership control assessment
+59_5.2_Documents_and_information_to_provide.txt | 5.2 Documents and information to provide
+61_5.2.2_List_of_documents_and_information.txt | 5.2.2 List of documents and information
+63_5.3_Duration_of_validity_and_renewal.txt | 5.3 Duration of validity and renewal
+62_5.2.3_Incomplete_or_contradictory_information.txt | 5.4 Modification of the assessment
+64_5.4_Modification_of_the_assessment.txt | 5.4 Modification of the assessment

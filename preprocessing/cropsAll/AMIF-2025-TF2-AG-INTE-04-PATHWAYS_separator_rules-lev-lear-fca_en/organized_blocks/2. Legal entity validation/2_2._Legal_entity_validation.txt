@@ -1,0 +1,15 @@
+2. Legal entity validation
+
+2.1. Legal entity validation and specific legal statuses: Criteria and conditions
+
+One of the main tasks of the Central Validation Service is the validation of new legal entities applying for EU grants, procurements, prizes and contribution agreements.
+
+Legal entity validation is a requirement under the Financial Regulation. It serves to ensure that only verified entities can enter into financial relations with the EU and to avoid legally invalid contracts.
+
+Legal entity validation is needed only once, to get the legal entity information and
+
+participant identification code (PIC) validated. Once validated, the participants can enter into financial relations with the EU and use the PIC for all EU actions managed through the Funding & Tenders Portal. The PIC will be valid for all ongoing application procedures and signature in the system, but also for any type of EU funding in the future — without having to re-register or be re-validated.
+
+This is why the standards for PIC validation are applied consistently, independently of the specific call/application/tender procedure that triggers the validation. The same criteria and checks are applied for grants, procurements, prizes, contribution agreements, etc, as well as for low and high value contracts.
+
+The validation comprises two distinct actions: (a) the verification that the participant exists as legal entity capable of entering into financial relations with the EU, including correctness of the participant’s legal data (legal form, address, etc) and (b) the verification of certain specific legal statuses that are used in EU funding programmes and recorded centrally in the Participant Register.

@@ -1,0 +1,12 @@
+WY Granting authority signs the amendment
+
+Acceptance: If the Granting Authority accepts the request, they countersign it from their side (Same procedure as for Grant Agreement; see Signing the Grant Agreement).
+
+The Coordinator and Beneficiaries will be informed and the countersigned amendment will be available in their Portal Library (My Projects > Actions > Manage Project > Project Library).
+
+Rejection: If the request is rejected, the consortium will be informed by amendment rejection letter.
+
+Amendment number — Once the amendment is countersigned, it is automatically assigned a sequential anendment number (1, 2, 3, etc). For instance, an amendment request with the reference AMD-345622-6 is assigned number 2 if it is the 2nd signed amendment for the grant. Rejected amendments are assigned a number (R1, R2); but they are saved, so that they can be reused to draw up a new request.
+
+The Coordinator’s PLSIGN can withdraw a submitted request until it is countersigned. Withdrawn requests are saved and can be reused to submit a new request.
+

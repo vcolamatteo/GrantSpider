@@ -1,0 +1,234 @@
+2.1.4 Specific legal statuses
+In addition, the validation covers the following specific legal statuses that are used in
+certain EU funding programmes:
+− private entity or public body
+− non-profit or for profit organisation
+− small or medium sized enterprise (SME)
+− middle-capitalisation enterprise (mid-cap)
+− non-governmental organisation (NGO)
+− civil society organisation (CSO)
+− international organisation (IO)
+− research organisation
+− secondary or higher education establishment.
+An entity may be categorised in more than one of these legal statuses (i.e. non-profit,
+public body, research organisation, international organisation, etc.).
+The practical relevance of these statuses (and what happens if they change) is
+established at the level of the different funding programmes, and sometimes even at
+the level of the call for proposals/call for tender.
+Moreover, not all of these statuses are systematically checked and validated by the
+Central Validation Service. Some of them are self-declarations or self-assessments.
+This means that the participants are solely responsible for the correctness of the
+information they provide (in the self-declaration/self-assessment).
+The Central Validation Service may however — at any time — carry out checks on
+self-declared/self-assessed statuses against supporting documents and ask for
+clarifications.
+In case of false declarations, the EU services may:
+− withdraw and correct the validated status(es)
+− terminate/withdraw on-going grants, procurements, prizes, contribution
+agreements, etc (and recover any undue amounts)
+− impose financial penalties or administrative sanctions, including exclusion from
+future EU funding (grants, procurements, prizes, contribution agreements,
+etc.; see Articles 135 to 145 of the Financial Regulation)
+− inform the European Anti-Fraud Office (OLAF).
+Private entity or public body
+'Private entity' means an entity established under private law.
+‘Public body’ means an entity established as a public body by national law, or an
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+international organisation.
+‘Established as a public body by national law’ means:
+− incorporated as a public body in the act of creation or recognised as a public
+body by national law
+and
+− governed by public law (— both conditions must be fulfilled).
+Criteria such as:
+− mission or activity in the general interest (public service mission)
+− the fact that the shares are owned by a public body (even if ownership reaches
+up to 100% of the share capital)
+− public financing
+− state supervision and control
+do NOT constitute sufficient evidence to qualify an entity as a public body, if the
+above two conditions are not met.
+Public bodies may however act and be subject to private law for some or most of their
+activities, provided that, concerning their existence and their functioning, they are
+subject to public law.
+The two statuses (private entity and public body) are mutually exclusive, meaning
+that you can only be validated as one or the other.
+They are systematically checked against supporting documents and validated by the
+Central Validation Service.
+Specific cases
+❖ Self-employed persons (persons who perform an activity independently and with
+their own means, such as craftsmen and individuals exercising liberal, industrial and
+commercial professions) — Are regarded as ‘natural persons’, not as ‘private entities’;
+the business/profession/activity they perform is not provided with independent legal
+personality different from that of the person.
+❖ Private law bodies with a public service mission3 — A legal entity
+incorporated under private law/private legal form is not considered to be a public
+body even if owned by the State/other public bodies and/or pursuing a public service
+mission.
+Non-profit
+‘Non-profit entity’ means an entity that is non-profit making by its legal form or legal
+purpose (e.g. charitable organisations), or that has a legal or statutory obligation not
+to distribute profits to its shareholders or members.
+All profits have to be reinvested in the same activity of the entity.
+3 Article 62(1)(c)(vi) of Financial Regulation 2018/1046.
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+Decisions on (not) distributing profits made by the managing board, associates,
+stakeholders, members, or representatives and/or practices adopted by the entity to
+not distribute profits and/or the absence of profits achieved are not sufficient proof of
+the non-profit nature. The obligation not to distribute profits and/or the impossibility
+to distribute profits must be based on law and/or the act of establishment/articles of
+association/statutes, etc.
+Whether the owners/founders of the entity are non-profit and whether the profits are
+allocated to non-profit (or for profit) entities is irrelevant.
+This status is systematically checked against supporting documents and validated by
+the Central Validation Service.
+Specific cases
+❖ Public bodies — Are in principle regarded as non-profit by default.
+❖ Non-governmental organisations (NGOs) — The classification as ‘non-
+governmental organisation (NGO)’ is not relevant for the non-profit status, since in
+most countries NGO is not a recognized legal form. By contrast, non-profit status is a
+prerequisite for the self-declaration as NGO (see below).
+Small or medium sized enterprise (SME)
+‘Small or medium sized enterprise (SME)’ means a micro, small or medium-sized
+enterprise as defined in the EU SME Recommendation 2003/361, i.e.:
+− engaged in an economic activity, irrespective of its legal form (including, in
+particular, self-employed persons and family businesses engaged in craft or
+other activities, and partnerships or associations regularly engaged in an
+economic activity)
+and
+− employing fewer than 250 persons (expressed in ‘annual working units’ as
+defined in Article 5 of the SME Recommendation) and which have an annual
+turnover not exceeding EUR 50 million and/or an annual balance sheet total
+not exceeding EUR 43 million.4
+An entity is considered to be engaged in an ‘economic activity’, if it proves to be
+involved in any form of trade or activity done for remuneration or pecuniary interest
+on the market. Thus, in general, any activity consisting in (directly or indirectly)
+offering goods or services on a given market is an economic activity.
+The following will NOT be considered economic activities:
+− activities which do not entail (directly or indirectly) some sort of pecuniary
+offset or
+− activities for which there is no given/direct (or indirect) market or
+− activities for which the income generated is not distinct from the personal
+income of the entity’s members or shareholders.
+4 The SME ceilings must be calculated by including the headcount of staff, the balance sheet total and the
+turnover data of all relevant direct and indirect partner and linked enterprises in accordance with
+Articles 3 to 6 of the Annex to the EU SME Recommendation 2003/361.
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+This status is self-declared. For calls where the SME status has an impact on eligibility
+or funding (higher funding rate, etc), participants must go through a self-assessment
+wizard.
+Two-year rule — In accordance with Article 4.2 of the SME Recommendation, the SME
+status depends on the ceilings for two consecutive accounting periods. Headcount and
+turnover must stay below the ceilings for two accounting periods to obtain the SME
+status; conversely, the status will be lost if they rise above the ceilings for two
+consecutive periods.
+Since the SME self-assessment looks at the information for only one accounting
+period (the last one), the SME self-assessment result may be flawed. Participants that
+were below the ceiling the year before, must contact the Central Validation Service
+via the Participant Register in order to request a formal validation. This validation will
+then take into account the two accounting periods.
+The two-year rule does not apply for changes due to a merger or acquisition.
+Enterprises that are subject to a change in ownership need to be assessed on the
+basis of their shareholder structure at the time of the transaction. If the aggregated
+headcount and financial data of the new structure exceed the SME ceilings, the SME
+status is lost immediately from the date of the transaction5.
+Participants whose SME status changes after registration must update their data in
+the Participant Register. This is important not only for eligibility checks in grant
+applications, but also for statistical purposes.
+Specific cases
+❖ Newly established enterprises (e.g. start-up companies) that do not yet have
+closed accounts or companies without economic activity but expecting to enter
+soon into the market — May also qualify as SMEs, as long as they are able to provide
+a ‘bona fide estimate’ (in the form of a business plan) covering the period necessary
+for the entity to generate turnover.
+❖ Enterprises without turnover whose activity implies a long time-to market
+— Are allowed to demonstrate that they are engaged in an economic activity by
+showing the investments made and the likely expected return.
+Middle-capitalisation enterprise (Mid-cap)
+'Middle-capitalisation enterprise’ means an enterprise that is:
+− not a micro-, small- or medium-sized enterprise (SME) under the EU SME
+Recommendation 2003/361
+and
+− employing up to 3 000 persons6 , where the headcount of staff, including all
+relevant direct and indirect partner and linked enterprises, is calculated in
+accordance with Article 3 to 6 of the Annex to the Recommendation.
+This status is self-declared. For calls where the mid-cap status has an impact on
+eligibility or funding (higher funding rate, etc.), participants must go through the SME
+5 See Recital 9 of Recommendation No, 2003/361/EC and the User Guide to the SME Definition (p. 14).
+6 Expressed in ‘annual working units’ as defined in Article 5 of the Annex of EU recommendation
+2003/361.
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+self-assessment wizard to make sure that they do not fall under the definition of SME,
+and then to self-declare that the number of employees does not exceed 3 000
+persons.
+Non-governmental organisation (NGO)
+‘Non-governmental organisations’ are organisations which are voluntary, independent
+from government and non-profit, and which are not a political party or trade union.
+This status is self-declared. Self-declarations will be accepted only by private entities,
+which have been validated as ‘non-profit’.
+Civil society organisation (CSO)
+‘Civil society organisations’ are organisations from the ‘third sector’ of society, distinct
+from government and business (i.e. private for profit entities).
+This status is self-declared. Self-declarations will normally be accepted only by private
+entities, which have been validated as ‘non-profit’.
+International organisation (IO)
+‘International organisation’ means an intergovernmental organisation (other than the
+EU) established under international public law, including specialised entities — with or
+without legal personality — set up by international organisations.
+This status is systematically checked against supporting documents and validated by
+the Central Validation Service.
+For some EU funding programmes there are moreover specific subtypes of
+international organisations:
+− ‘international organisations of European interest for H2020 (H2020 IOEI)’, i.e.
+international organisations with a majority of members that are EU Member
+States or H2020 associated countries and whose main objective is promoting
+scientific and technological cooperation in Europe
+− ‘international European research organisations for Horizon Europe (HE IERO)’,
+i.e. international organisations with a majority of members that are EU
+Member States or Horizon Europe associated countries and whose main
+objective is promoting scientific and technological cooperation in Europe
+− ‘international organisations of European interest for Digital Europe (DEP IOEI)’,
+i.e. international organisations with a majority of members that are EU
+Member States or whose headquarters are in an EU Member State.
+The H2020 IOEI subtype status is systematically checked against supporting
+documents and validated by the Central Validation Service.
+The HE IERO and DEP IOEI subtype statuses are self-declared. In the future, for calls
+where the HE IERO and DEP IOEI statuses have an impact on eligibility or funding,
+participants will also be asked to go through a self-assessment wizard.
+Specific cases
+❖ Entities set up as distinct bodies by an international organisation with a
+special mission but which do not have explicit legal personality — Can be validated
+as with legal personality, if they meet any of the following criteria:
+− they have treaty-making capacity or
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+− they have capacity to act at international level independently from the
+organisation that set them up (i.e. capacity to undertake legal obligations).
+If such entities do not meet one of the above criteria, they can exceptionally be
+validated as without legal personality (see section 2.1.3 above).
+Research organisation
+‘Research organisation’ means an entity that:
+− is established as non-profit organisation as described above
+and
+− carries out research and/or technological development as its main objective.
+The following are NOT considered research activities:
+− supporting or financing research activities carried out by other entities
+− promoting, managing or coordinating research activities.
+Only entities that have research and/or development as their main objective can
+qualify as research organisations. By contrast, entities that have research and/or
+development as ancillary activities (even if regular and substantial, e.g. in museums
+or hospitals) do not qualify as ‘research organisations’.
+This status is self-declared. Self-declarations will be accepted only by entities, which
+have been validated as ‘non-profit’.
+Secondary or higher education establishment
+‘Secondary or higher education establishment’ means an entity that is recognised as
+such by its national education system and is able to deliver diplomas recognised by
+the State.
+It can be a public body or a private entity (see above). The national accreditation as a
+secondary/higher education establishment is not sufficient to consider the entity as a
+public body.
+This status is self-declared.

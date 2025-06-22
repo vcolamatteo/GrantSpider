@@ -1,0 +1,38 @@
+5.3.4 Reports & payment requests
+
+In order to receive payments, the consortium must submit periodic reports (following the schedule set out in the Grant Agreement). When these are due, they must be submitted directly in the Periodic Reporting Module of the Portal Grant Management System.
+
+Where? Access to the Grant Management System is available through My Projects > Actions > Manage Project > Periodic Reporting > Technical Part contribution/Financial Statement drafting.
+
+Who? The periodic report should be prepared by the consortium participants together and submitted by the Coordinator.
+
+How? You will be prompted by e-mail for all the actions that you need to carry out for the periodic reporting.
+
+What? In the periodic report, you should report on the progress of the work and costs claimed (see below Periodic Report). When the Coordinator submits the periodic report, the IT tool will capture the information from the Continuous Reporting Module in order to generate the Part A of the Technical Report. The system will also consolidate the Individual Financial Statements and it will generate the use of resources report (if required) and the Summary Financial Statements (for the consortium).
+
+Reporting process
+
+Continuous reporting > Preparing your periodic report > Approving Partners' reports > Submitting the report to the Commission > Acceptance or rejection by the Commission > Interim payment
+
+Periodic report: Technical Report (Part A and B) and Financial Report
+
+The periodic report consists of two parts, the Technical Report and Financial Report.
+
+The Technical Report is itself also divided in two parts, Parts A and B:
+
+Part A: contains the structured tables with project information (retrieved from the Grant Management System).
+
+Part B (the narrative part): mirrors the application form and requires the participants to report on differences (delays, work not implemented, new subcontracts, budget overruns etc). It must be uploaded as PDF document.
+
+The Financial Report consists of the structured individual and consolidated Financial Statements (retrieved from the Grant Management System). In addition, most programmes require either a detailed cost reporting table (excel table) or the use of resources report (online wizard) and, for payments above a certain thresholds, a certificate on the financial statements (CFS).
+
+The technical report Part A and the financial report is generated automatically on the basis of the data in the Grant Management System; Part B needs to be prepared outside the tools (using
+
+the template downloaded from the system) and then uploaded as PDF (together with Annexes, if any).
+
+All participants should contribute to the parts, but it is the Coordinator who will have to submit them as a single report.
+
+Tasks of the Coordinator:
+
+ • Check that the Continuous Reporting Module is updated in time (before the Periodic Report is Locked for review).  • Check that all participants have submitted their Financial Statements (and CFS, if needed)  • Quality checks: Check that the Report is coherent and that information in Part A and B is consistent. Make sure that the template has been followed and all sections are completed and no annexes are missing.
+

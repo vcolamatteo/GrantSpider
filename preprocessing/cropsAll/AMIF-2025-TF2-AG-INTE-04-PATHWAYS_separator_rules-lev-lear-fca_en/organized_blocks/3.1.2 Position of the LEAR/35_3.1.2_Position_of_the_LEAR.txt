@@ -1,0 +1,12 @@
+3.1.2 Position of the LEAR
+
+The LEAR is an administrative function that may be held by the participant’s legal representative or another key person within the entity.
+
+The LEAR must be someone employed in the entity (most commonly in the central administrative services of the entity) and should be able to ensure the stability and continuity that is needed to fulfil this role in order to honour the participant’s contractual obligations.
+
+Participants that are natural persons will automatically have the role of LEAR; in this case the role cannot be attributed to a different person (but the LEAR can appoint an account administrator).
+
+Each participant can only appoint one LEAR and must ensure to immediately replace their LEAR in case they are no longer able to exercise the role (e.g. job change, dismissal, death, etc; see section 3.3).
+
+The participant assumes the full responsibility for the choice of the person they appoint as LEAR.
+

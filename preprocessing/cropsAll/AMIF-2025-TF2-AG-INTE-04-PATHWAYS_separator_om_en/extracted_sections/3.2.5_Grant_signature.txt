@@ -1,0 +1,105 @@
+3.2.5 Grant signature
+Signing the Grant Agreement is the last step of the grant preparation phase. It is done directly
+in the Portal Grant Management System (electronic signature) and demonstrates that both
+contracting parties formally approve the agreement and its annexes.
+The Grant Agreement enters into force with the last signature (normally the EU because the
+Coordinator usually signs first).
+Where? Access to the Grant Management System is available through My Projects > Actions
+> Manage Project > Proposal Management & Grant Preparation > Sign.
+Who? The Grant Agreement is signed by the EU and the Coordinator. The other Beneficiaries
+do not sign the Grant Agreement itself, but accede to the Grant Agreement through Accession
+Forms. Affiliated Entities or Associated Partners do not sign and do not become formal parties
+to the Agreement.
+How? You will receive e-mail notifications prompting the tasks needed for grant signature. For
+more detail, see the list of grant-related notifications.
+Signing EU Grant Agreements electronically —
+What's involved?
+The electronic signature in the Portal requires:
+• a chain of trust with Beneficiaries — to guarantee signatories' identity
+• a system of digital signatures protected by multiple security features — to guarantee
+documents' reliability and authenticity
+This type of electronic signature is used for signature of contracts, amendments and cost claims
+(Financial Statements and invoices).
+The chain of trust
+LEAR
+The Legal Entity Appointed Representative (LEAR) appointed by the Beneficiary’s legal
+representative (signed LEAR documents uploaded in the Participant Register) is the
+centrepiece of the chain of trust. More in the section LEAR appointment and validation.
+LEAR appoints all LSIGNs and FSIGNs for the organisation
+The LEAR vouches for the organisation data entered into the system and the nominated
+persons. They appoint the individuals authorised to sign:
+• Grant Agreements and amendments (Legal Signatories, known as LSIGNs)
+• Financial Statements (Financial Signatories, known as FSIGNs).
+The LEAR is responsible for keeping these lists constantly updated.
+PaCO selects LSIGN and FSIGN for project
+Participant Contacts (PaCo) or Coordinator Contacts (CoCos) have to select the Project
+Legal Signatories (PLSIGNs) and Financial Signatories (PFSIGNs) from the LSIGN and
+FSIGN lists nominated by the LEAR. For more information, check the section on Roles and
+access rights.
+Closed system where access rights are strictly controlled.
+The chain of trust is built in a closed electronic exchange system. Each individual must
+identify themselves with their personal EU Login account and access is strictly controlled.
+Signing the Grant Agreement
+Sign the declarations of honour (DoH)
+Before the Grant Agreement can be signed, the PLSIGN of each Beneficiary must sign a
+declaration of honour (grant declaration). For more details, see Enter legal administrative
+& financial grant data.
+Grant agreement ready for signature
+The system prepares the Grant Agreement for signing (PDF document, digitally sealed to
+guarantee its security, reliability and authenticity).
+Coordinator signs the Grant Agreement
+The Coordinator's PLSIGN logs into the Portal My Projects > Actions > Manage Project >
+Proposal Management & Grant Preparation > Sign.
+During signature, a pop-up explains that this means the signatory is preparing to sign. It
+then asks the PLSIGN to confirm that they wish to sign and a second prompt asks the
+PLSIGN to enter their EU Login password.
+After signature, the system creates a new version of the PDF document (with a digital seal,
+a time stamp, and the signatory's EU Login credentials on the signature placeholder). The
+validity of the signature can be verified by opening it in a compatible PDF reader and clicking
+on the image of the digital signature.
+The Grant Agreement can be previewed, downloaded or printed (before or after signature)
+from the Documents screen if desired.
+The LEAR of the Coordinator and the other Beneficiaries are informed that the Coordinator
+has signed the Grant Agreement.
+Granting authority signs the Grant Agreement
+The EU Authorising Officer is prompted to countersign the Grant Agreement from their side
+(same procedure as under point 3).
+The Participants will be informed and the countersigned Grant Agreement will be available
+in their Portal Library (My Projects > Actions > Manage Project > Document Library).
+Participants sign the Accession forms
+All other Beneficiaries' PLSIGNs are prompted to sign their Accession Forms (same
+procedure as under point 3) — within 30 days after entry into force (signature by EU).
+The CoCos and LEAR of the Coordinator and PaCo and LEAR of the concerned Beneficiary
+are notified when an Accession Form has been signed.
+Grant Agreement is finalised
+Not signed Grant Agreement
+• If the Coordinator does not sign, the Granting Authority may stop preparing the grant
+and reject the proposal.
+• If a Beneficiary does not sign the Accession Form within 30 days of the Grant Agreement
+entering into force, the Granting Authority may terminate the Grant Agreement. In this
+case, in order to continue with the project, the Coordinator must: request an
+amendment, so that any changes needed to ensure that the project is carried out
+properly can be made.
+This request must be made within 30 days after the missed deadline for signing
+o
+the Accession Form.
+The request for an amendment does not affect the Granting Authority's right to
+o
+terminate the Grant Agreement.
+The Accession Form template is available for information on Portal Reference
+Documents.
+Project starting date
+The project starting date is calculated as from the entry into force of the Grant Agreement (last
+signature = signature by the EU).
+Prefinancing
+The entry into force and starting date also determine the baseline date for the prefinancing (i.e.
+the float that we normally pay immediately after grant signature).
+Depending on the programme (see call conditions), prefinancing is either paid 30 days from:
+• Horizon Europe, Digital, SMP, etc: the entry into force or 10 days before the starting
+date or submission of the prefinancing guarantee (if required) — depending on which
+is the latest
+or
+• CEF, LIFE, EMFAF, Erasmus, etc: the entry into force or submission of the prefinancing
+guarantee (if required) — depending on which is the latest.
+Links
+• eSignature of grant documents video

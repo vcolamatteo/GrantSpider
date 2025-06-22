@@ -1,0 +1,6 @@
+Withdrawal of submitted proposals
+
+Before the call deadline, a proposal can be withdrawn at Step 6 of the wizard (My Proposals > View Submitted > Withdraw proposal). After the call deadline, withdrawal has to be requested via the IT Helpdesk.
+
+Once withdrawn, the new status will be shown on the My Proposals page (and you can delete the application with the Delete button).
+

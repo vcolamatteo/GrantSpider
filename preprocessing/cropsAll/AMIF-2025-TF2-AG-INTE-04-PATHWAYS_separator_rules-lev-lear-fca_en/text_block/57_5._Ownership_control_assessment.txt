@@ -1,0 +1,21 @@
+5. Ownership control assessment
+
+5.1 Ownership control assessment: Criteria and conditions
+
+For funding programmes which have restricted calls in which only participants which are directly or indirectly controlled by EU Member States or by nationals of EU Member States (or by entities or nationals of specified eligible countries) are eligible, the Central Validation Service will also handle the ownership control assessment analysis.
+
+The ownership control assessment must in principle be done for each new grant, procurement or contribution agreement (— unless the participant already has a valid ownership control assessment in the system performed by the Central Validation Service that is not older than 18 months).
+
+Moreover, the ownership control may be assessed ad hoc if there are grounds justifying a new assessment, like for example:
+
+— indication of third country control from other sources — indication of ownership control changes after the initial assessment.
+
+The ownership control assessment will usually look into both ownership and control elements, in order to assess whether an entity is EU controlled or non-EU controlled. The focus is however on control (see Guidance on participation in DEP, HE, EDF and CEF-DIG restricted calls*).
+
+In this context, ‘control’ will be defined as the possibility to exercise decisive influence directly or indirectly through one or more intermediate entities, ‘de jure’ or ‘de facto’. The fact that no influence is actually exercised is not relevant, as long as the possibility exists.
+
+Control will be assessed at the level of the ultimate ownership and control line and all intermediate layers (in case of indirect control), taking into consideration decision- making mechanisms, corporate governance, shareholders’/members’ rights, etc.
+
+The assessment is based on the information provided by the participant in the ownership control declaration* (annexed to their application for EU funding or procurement procedure) and supporting documents to be provided by the participant during the ownership control assessment procedure.
+
+“4 The role of the Central Validation Service is limited to identifying instances of possible non-EU-country/entity control (e.g. to collect and to analyse the supporting documents). The final decision will be taken later, and for each proposal/tender separately by the EU service in charge, in accordance with the specific programme rules.If needed, during grant preparation, the EU service in charge may contact participants about the outcome of the ownership control assessment.

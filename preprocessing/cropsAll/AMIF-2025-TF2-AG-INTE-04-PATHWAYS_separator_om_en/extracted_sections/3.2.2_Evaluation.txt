@@ -1,0 +1,116 @@
+3.2.2 Evaluation
+Admissible and eligible proposals are sent on to evaluation by an independent evaluation
+committee.
+For most programmes the evaluation committee (panel) is made up of EU staff from the
+Granting Authority and other services. They are often and assisted by outside experts for
+individual evaluation and consensus group evaluation. For some programmes however (e.g.
+Horizon Europe), the committee is usually composed exclusively of outside experts — for all
+stages of the evaluation process (no internal staff).
+The evaluation committee will also take position on the operational capacity of the consortium
+and individual participants to properly implement the tasks planned. This assessment will be
+based on the competence and experience of the participants, including operational resources
+(human, technical and other) and is, for many programmes, integrated into the award criteria.
+3.2.2.1 Award criteria
+Award criteria, scores thresholds and weighting
+Proposals are evaluated and scored against award criteria set out in the call conditions on the
+Topic page.
+The award criteria, scores, thresholds and weightings depend on each programme and type of
+action.
+Globally speaking most programmes evaluate the following quality parameters: project
+relevance, quality/implementation and impact. But in practice the labels vary and the
+parameters are broken down into different aspects and focal points (see call conditions and, for
+some programmes, the Programme Guides, e.g. Horizon Europe Programme Guide, Erasmus+
+Programme Guide, AGRIP Programme Guide).
+To be considered for funding, your proposal must score above a certain threshold for each
+individual award criterion, and above an overall threshold for all of them together.
+Moreover, in order to receive funding, your proposal must be ranked sufficiently to be above
+the budget-threshold (relative positioning in the list of all proposals, compared to the other
+proposals). For calls which provide for weightings, this ranking will also depend on the
+weighting.
+Your proposals will be evaluated on its own merit, and not its potential should certain
+changes be made. Proposals with an inflated budget are likely to receive a lower score.
+3.2.2.2 Evaluation and evaluation results
+Evaluation process
+Briefing
+Evaluation: Individual evaluation > Consensus group > Panel review
+Briefing of evaluators
+Before starting the evaluation process, the evaluators are briefed on:
+• the evaluation processes and procedures (including award criteria)
+• the content of the topics under consideration
+• the need to evaluate proposals as they were submitted, rather than their potential
+should certain changes be made
+• for outside experts: the terms of their contract (confidentiality, impartiality, conflicts of
+interest, completing tasks and approving reports, penalties for non-compliance, etc).
+For most EU programmes, there is no scope for recommending improvements to proposals
+(including improvements on the budget).
+Individual evaluation
+During the individual evaluation, the evaluators work individually. Each evaluator gives a score
+for each criterion, with explanatory comments, and prepares an individual evaluation report
+(IER).
+Proposals are normally evaluated by at least three individual evaluators (for some programmes
+and types of action, two may suffice; for many it is five).
+The evaluators should also indicate if they consider that the proposal:
+• is out of scope or
+• involves security issues that will need further scrutiny.
+Consensus group
+After the individual evaluation, all evaluators who have evaluated the proposal will get together
+in a consensus group, to agree on a common position on comments and scores.
+For consensus groups made up of outside experts, the group will normally be assisted by a
+member of the Granting Authority staff who will act as moderator to:
+• seek a consensus, impartially and
+• ensure that each proposal is evaluated fairly, according to the award criteria.
+Panel review
+After the consensus phase, the evaluation committee (panel) will take over and discuss the
+proposals to:
+• reach an agreement on the scores and comments for all proposals evaluated together,
+checking consistency across the evaluations
+• if necessary, propose a new set of marks or revise comments, and resolve cases where
+evaluators were unable to agree
+• rank the above-threshold proposals and give a priority order for proposals with the same
+score.
+Proposals with the same score
+The evaluation committee will recommend a priority order for proposals with the same score,
+using the procedure set out in the call conditions.
+Interviews/hearings
+If provided for in the call conditions, the evaluation committee (panel) may arrange
+interviews/hearings.
+In this case, invitations are sent to the coordinators of above-threshold proposals (and,
+sometimes, also to those with scores above individual thresholds but below the overall
+qualifying threshold).
+The interviews/hearings may be held remotely or on site, in Brussels.
+The questions to be asked will be determined by the panel beforehand and sent to all proposals.
+The interviews/hearings will be used to get further information to clarify the proposals and help
+the panel establish its final ranking list and scores. They may not serve to change proposals or
+add missing information.
+Outcome of evaluation
+On the basis of the report and ranked list provided by the evaluation committee (panel), the
+Granting Authority reviews the evaluation result, puts together the final ranking list and
+informs the participants.
+You can find the timing the evaluation and information on evaluation results in the call
+conditions on the Topic page.
+Final ranking — Reserve list — Rejections
+The Granting Authority produces the final ranked list and the list of applications proposed
+for funding.
+The number of proposals in the list depends on the available budget. If the available budget is
+too small to fund all above-threshold proposals (normally the case because EU grants are
+heavily oversubscribed), some proposals may be put on a reserve list. These will then be
+offered funding if a higher-scoring project does not go ahead or additional funds become
+available.
+The below-threshold proposals will be rejected.
+Proposals will NOT be offered funding if the Granting Authority finds that it is already funding
+very similar work elsewhere, or a proposal is in any way manifestly contrary to EU general
+principles or established EU priorities or policies.
+Evaluation result letters — Evaluation summary report
+The participants will be informed (through the coordinating organisation) about their evaluation
+result (together with the evaluation summary report (ESR)) and it will be posted in their Portal
+library (My Proposals > Actions > Follow-up > Proposal Management & Grant Preparation >
+Documents).
+If your proposal was successful, you will get a grant preparation invitation letter. To follow
+the further steps of preparing your grant, you will be prompted for each of the actions that need
+to be carried out. Details are explained in the next section Grant preparation.
+Please note that invitation to grant preparation is NOT a formal commitment for funding. The
+final decision on your project will only be taken at a later stage — this depends on the finalisation
+of grant preparation and further checks which we still need to make (i.e. financial capacity, non-
+exclusion, etc).
+If your proposal was not succesful, you will receive a rejection letter. The means of redress for
+such rejections are described in the section Complaints about proposal rejection.

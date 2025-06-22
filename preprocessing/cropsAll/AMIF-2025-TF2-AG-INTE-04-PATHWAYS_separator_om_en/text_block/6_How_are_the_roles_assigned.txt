@@ -1,0 +1,14 @@
+How are the roles assigned?
+
+Most of these roles can be freely assigned and managed by you or your organisation, according to your needs:
+
+ • you can start creating an application yourself
+
+ee =yOu Call stdft Creating dil dppilCatiOn yOurseit  • you can be invited by other users who have created an application to join their application  • persons in your organisation can give you (and revoke) access to roles of your organisation  • the initiator of an application (or persons in your organisation involved in an on-going application) can give you (and revoke) access to roles in the application  • persons involved in on-going projects/contracts can give you (and revoke) access to roles in their projects/contracts.
+
+ • you can be invited by other users who have created an application to join their application
+
+ • persons in your organisation can give you (and revoke) access to roles of your organisation
+
+All access rights are linked to the user's EU Login account.
+

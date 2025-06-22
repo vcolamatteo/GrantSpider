@@ -1,0 +1,34 @@
+Signing the Grant Agreement
+
+Description of the Action (DoA) (Part A and B)
+
+The description of the action (DoA, Annex 1) is structured like the application form into two parts, Parts A and B:
+
+ • Part A: contains the structured tables with project information (retrieved from the Grant Management System tabs)
+
+ • Part B (the narrative part): is based on Part B of the application form and must be uploaded as a PDF.
+
+Creating Part B of the DoA is straightforward, as it can be derived directly from Part B of the application. The instructions for this are available on Portal Reference Documents.
+
+The system will merge the Parts A and B, generating a single PDF with the full description of the action (DoA).
+
+4 All participants can contribute to the parts, but it is the Coordinator who will have to finalise and submit it.
+
+Tasks of the Coordinator:
+
+ • Workplan tables: Complete the workplan tables in Part A, (work package descriptions, deliverables and milestones)
+
+ • Check that all PICs have been validated by the Central Validation Service
+
+ • = Quality check:
+
+Check that the DoA is coherent and that information in Part A and B is consistent. 44 Some programmes will ask you not to simply attach the application, but to adapt Part B. In this case, try to avoid overlaps between Parts A and B (delete work plan tables from Part B, etc).
+
+Check that DoA and the application match: please check if the content of the DoA differs from the application, as this must be in compliance with your invitation letter to start grant preparation. In addition, you may correct shortcomings identified by the experts in the evaluation summary report. The information presented in the DoA can be made
+
+more consistent if necessary. Any errors should be corrected (data displayed in a table or figure is at odds with the description, etc).
+
+Check that the DoA and the legal and administrative information match: for example, it must describe the role and tasks performed by each Partner (Coordinator, Beneficiary, Affiliated Entity, Third party providing in-kind contributions, etc) defined in the structured part.
+
+Make sure that the template has been followed and all sections are completed and no annexes are missing.
+

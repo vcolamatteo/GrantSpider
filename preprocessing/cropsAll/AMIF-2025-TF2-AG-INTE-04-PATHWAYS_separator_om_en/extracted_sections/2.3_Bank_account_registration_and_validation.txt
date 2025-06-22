@@ -1,0 +1,17 @@
+2.3 Bank account registration and validation
+Registration and validation of the bank account for payments
+In addition to the validation of the participating organisations, we also have to validate the bank
+account that will be used for our payments to you (usually bank account of the Coordinator).
+The Central Validation Service will contact the Coordinator after the PIC is validated, to enter
+the bank account details into the Participant Register and upload the necessary supporting
+documents (My Organisations > Actions > Modify Organisation).
+The documents required will be listed in the notification you receive. In general, you will need
+to provide the bank account details and either a bank statement or financial identification form.
+The Central Validation Service will cross-check this information and validate the account.When
+registering your organisation for the first time, you do not need to declare any bank account
+information. You will be prompted to do this only later on, if your proposal is successful.
+Data updates
+If you need to change an already validated bank account, please declare the new bank account
+details via the Participant Register and upload the required supporting documents.
+Please note that it can happen that not all types of modifications are supported. In case of an
+issue, please contact the IT Helpdesk.

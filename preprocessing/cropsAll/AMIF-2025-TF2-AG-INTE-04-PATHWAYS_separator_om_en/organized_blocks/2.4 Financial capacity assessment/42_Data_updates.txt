@@ -1,0 +1,6 @@
+Data updates
+
+If you need to change an already validated bank account, please declare the new bank account details via the Participant Register and upload the required supporting documents.
+
+Please note that it can happen that not all types of modifications are supported. In case of an issue, please contact the IT Helpdesk.
+

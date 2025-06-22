@@ -1,0 +1,14 @@
+1. Distinguish between milestones and deliverables:
+
+— milestones: control points in the project that help to chart progress (kick- off meetings, steering committes, first-draft of a survey, prototype, etc) — deliverables: outputs to be submitted to the EU (publication, leaflet, progress report, brochure, list, etc)
+
+2. Be as specific as possible, e.g.:
+
+— events — the number of events, title, content, duration, number of participants, etc. — publications — number of pages, language, format (printed/electronic), number of printed copies (in each language), etc.
+
+3. Be realistic about what you can achieve within the project duration. The scope of your project should be large enough to make a difference, but it doesn't need to produce an excessively high number of outputs.
+
+4. Refer only to major outputs. Do NOT include minor sub-items, internal working papers, meeting minutes, etc. Adapt the number of deliverables to the size of your
+
+project and work packages (use as many as necessary, as few as possible). You may be asked to reduce or increase the number during grant preparation.
+

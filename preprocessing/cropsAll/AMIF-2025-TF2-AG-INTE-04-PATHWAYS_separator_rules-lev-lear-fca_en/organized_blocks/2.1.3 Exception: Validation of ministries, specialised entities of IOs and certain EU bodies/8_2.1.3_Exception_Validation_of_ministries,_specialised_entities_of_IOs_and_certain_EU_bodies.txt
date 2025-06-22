@@ -1,0 +1,18 @@
+2.1.3 Exception: Validation of ministries, specialised entities of IOs and certain EU bodies
+
+By way of exception, the Central Validation Service will also accept the following public entities without legal personality to be validated in the Participant Register:
+
+— the EU Joint Research Centre (JRC) (explicitly declared eligible by Articles 176(2) and 197(4) of the Financial Regulation)
+
+— ministries, executive services which are part of the public administration of a (central or federated) State and directly linked to the government and other services which are part of the legislative or judicial administration, in accordance with the official organisation of the State
+
+- assimilated international organisations referred to in Article 156(2) of the Financial Regulation
+
+— specialised entities set up by international organisations, that lack legal personality
+
+—- Common Foreign Security Policy (CFSP) missions and EU special representatives set up by the Council of the European Union.
+
+Departments/directorates/units/offices and other entities set up within a Ministry (or within an executive or other service) without legal personality are considered as part of the same Ministry (or service) and cannot be considered as independent legal
+
+entities (e.g. schools, libraries, etc). They will have to use the PIC of their parent organisation to participate in EU grants, procurements, prizes, etc.
+

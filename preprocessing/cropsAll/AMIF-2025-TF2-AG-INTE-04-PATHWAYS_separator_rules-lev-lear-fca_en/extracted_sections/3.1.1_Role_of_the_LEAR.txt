@@ -1,0 +1,21 @@
+3.1.1 Role of the LEAR
+The LEAR is the person officially appointed by the participant to handle their access
+rights and key data in the Participant Register (legal and other data, certain access
+rights in the electronic exchange system, etc.).
+Once validated, it is the LEAR who is responsible for giving access rights to the Portal
+electronic exchange system and who must ensure that the participant’s legal
+information is always up to date.
+The LEAR must enter and update on the ‘LEAR/Authorised User’ tab screen the names
+of the:
+− legal representatives and signatories for the organisation (so-called ‘LSIGNs’);
+these are people who are able to commit the organisation legally by signing
+contracts and authorising amendments to them and
+− persons that may sign cost statements on behalf of the organisation (so-called
+‘FSIGNs’).
+If needed, the LEARs can delegate their tasks to one or more colleagues, who will act
+as account administrators (so-called ‘AccAds’; delegation also through the
+‘LEAR/Authorised User’ tab screen).
+In case of changes, the LEAR must encode the change in the Participant Register and,
+if needed, request validation and provide supporting documents.
+For a detailed description of the LEAR rights and responsibilities, see the LEAR
+appointment letter*.

@@ -1,0 +1,14 @@
+Deadline models
+
+Single-stage
+
+For most topics, you must submit a full proposal by the call deadline.
+
+Two-stage
+
+Some topics have a 2-stage submission procedure, which means that you have to submit a short outline proposal for stage 1 and then a full proposal only if you are invited to stage 2 (meaning that your project looks promising).
+
+Multiple cut-off
+
+Some topics are continuously open, where you can submit a proposal at any time, and cut- off dates mean that all proposals received by a given cut-off date will be evaluated after that deadline.
+

@@ -1,0 +1,7 @@
+2.4 Modification of validations
+Modifications in the validation can be made in the following cases:
+− following a request submitted by the participant to update the validation (e.g.
+in case of changes in the participant’s legal situation such as change of
+identity/legal form, name, address, status) or
+− after checks, reviews, audits or investigations carried out by the EU services
+which necessitate a correction.

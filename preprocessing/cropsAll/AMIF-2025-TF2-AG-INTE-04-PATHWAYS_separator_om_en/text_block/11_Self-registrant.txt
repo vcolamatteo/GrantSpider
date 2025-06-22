@@ -1,0 +1,8 @@
+Self-registrant
+
+The Self-registrant is the person who first registers an organisation in the Portal Participant Register.
+
+Before the LEAR is validated, Self-registrants can provide the EU with requested information and documents about their organisation.
+
+Once the LEAR has been formally validated (normally after the organisation has been validated by the Central Validation Service), the role of Self-registrant is revoked and replaced by the LEAR.
+

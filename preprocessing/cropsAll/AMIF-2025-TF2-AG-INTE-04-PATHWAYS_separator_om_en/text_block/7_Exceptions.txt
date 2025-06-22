@@ -1,0 +1,24 @@
+Exceptions
+
+The EU services intervene in the assignment of the following 2 key roles:
+
+LEAR (Legal Entity Appointed Representative) — organisation role
+
+The LEAR is the person that is officially nominated by an organisation to manage rights and obligations related to the use of the Portal and to act as main administrative and legal contact in case of issues. Usually, LEARs are staff members in the central administration of the organisation. The LEAR handles all the organisation-related data on the Portal and appoints the persons within their organisation that are allowed to electronically sign grants/contracts and cost claims.
+
+There can only be one LEAR per organisation.
+
+LEARs are validated by the Central Validation Service as part of the registration in the Participant Register. Learn more about the detailed procedure for appointing the LEAR.
+
+Primary Coordinator Contact — project role
+
+The Main Contact/Contact Point of the Coordinator/Group Leader in the application will become the PCoCo (Primary Coordinator Contact). This person is by default the one creating the application in the Portal and thereby becomes the main person responsible for the application. As such, they can submit requests, reports and notifications to the EU on behalf of the consortium.
+
+There can only be one PCoCo per project/contract.
+
+During the application phase and before call deadline, the PCoCo may transfer this role to someone else in the application.
+
+Afterwards (i.e. after call submission is closed), a new PCoCo can be assigned only by the EU Project/Procurement Officer. If such a replacement becomes necessary, the Coordinator should send a request to the Officer via the Portal Messaging Service (My Projects/My Contracts > Actions > Manage Project/Contract).
+
+Exceptionally — and only until a LEAR has been appointed — self-registrants have certain roles (that were not assigned to any of the other users listed above).
+

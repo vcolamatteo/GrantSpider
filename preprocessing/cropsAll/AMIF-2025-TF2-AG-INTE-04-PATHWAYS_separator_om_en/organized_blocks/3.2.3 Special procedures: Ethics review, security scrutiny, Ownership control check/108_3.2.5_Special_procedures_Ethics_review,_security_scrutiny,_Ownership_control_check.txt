@@ -1,0 +1,13 @@
+3.2.5 Special procedures: Ethics review, security scrutiny, Ownership control check
+
+Ethics review
+
+In order to avoid funding of ethically problematic activities, some funding programmes require an ethics review procedure to clear the projects (e.g. Horizon Europe, Digital Europe, EU4H, AMIF).
+
+The details and the scope of the ethics review depend on each programme. Most programmes simply check whether projects raise ethics issues and, if so, whether these are adequately addressed. Some programmes, such as Horizon Europe, have a more elaborated review procedure which includes several steps depending on the complexity of the issues (see Horizon Europe Programme Guide).
+
+The participants will be informed (through the coordinating organisation) of the ethics review result and it will be posted in their Portal library (My Projects > Actions > Manage Project > Document Library).
+
+If the ethics review leads to requirements to be implemented before grant signature, you will need to take immediate action to comply (and may also have to adapt the description of the action (DOA Part B) to reflect this). If the review leads to additional requirements to be fulfilled during the project, they are automatically added as ethics deliverables into the system and DoA Part A and will be placed in an automatically generated work package called ethics requirements. If the review shows that there are serious ethics issues that cannot be solved, funding may have to be refused.
+
+=) You may be asked to provide additional information if this is needed to complete the ethics review (e.g. in case of serious or complex ethics issues or missing information).

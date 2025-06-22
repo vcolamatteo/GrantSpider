@@ -1,0 +1,10 @@
+© LInload Part B of the technical renort @p ow to
+
+Upload Part B of the technical report SFr
+
+Upload Part B on the Technical Report Part B screen (as a single PDF). Use the template available inside the system. This can be done by any Beneficiary (not only the Coordinator).
+
+If any changes to Part B are needed, you must delete the pdf file and upload a new one.
+
+When both Parts A and B are ready to submit, the Technical Report can be finalised by the Coordinator (My Projects > Actions > Manage Project > Periodic Reporting > Accept & Include).
+

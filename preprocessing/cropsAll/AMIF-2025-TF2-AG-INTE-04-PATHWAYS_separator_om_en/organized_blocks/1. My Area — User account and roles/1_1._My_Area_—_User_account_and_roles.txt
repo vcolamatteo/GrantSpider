@@ -1,0 +1,25 @@
+1. My Area — User account and roles
+
+Getting access to My Area
+
+The EU Funding & Tenders Portal (‘Portal’) is the central electronic portal for all EU funding and tenders.
+
+It is managed by the European Commission and used by itself and other EU services (together ‘EU’) for their grants, prizes and procurements.
+
+The Portal has two parts: A public section with general information (Funding Opportunities, Reference Documents, etc) and My Area, which is a secured, personalised section (Portal electronic exchange system) used by the participants for managing their proposals and grants/contracts.
+
+For security reasons, access to My Area is based on:
+
+ • EU Login account — unique identifier for individuals. All you need to open an EU Login account is your work e-mail address.  • Roles & access rights (Identity and Access Management System — IAM)  • PIC number — unique identifier for organisations. This 9-digit number is received after you register in the Portal Participant Register.
+
+In My Area you can:
+
+ • get access to non-public information on your proposals, projects/contracts, organisations, etc  • register in the Participant Register and update your organisation/natural person data  • sign contracts, submit reports, cost claims, invoices and receive payments  • communicate with the EU services about your ongoing projects/contracts  • for experts working with the EU services: register, sign contracts, manage tasks, submit cost claims and receive payments  • for external audit firms working with the EU services: register and manage tasks
+
+Individual users:
+
+ • have to register as a user only once  • will be asked to agree to the Portal Terms and Conditions on their first login  • will have specific access rights, depending on _ their roles’ in the organisation/projects/contracts
+
+Organisations:
+
+ • will be asked to agree to the Portal Terms and Conditions when they appoint their LEAR.

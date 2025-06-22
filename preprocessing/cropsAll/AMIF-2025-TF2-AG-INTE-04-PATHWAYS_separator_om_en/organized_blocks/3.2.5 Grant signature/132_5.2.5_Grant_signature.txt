@@ -1,0 +1,26 @@
+5.2.5 Grant signature
+
+Signing the Grant Agreement is the last step of the grant preparation phase. It is done directly in the Portal Grant Management System (electronic signature) and demonstrates that both contracting parties formally approve the agreement and its annexes.
+
+The Grant Agreement enters into force with the last signature (normally the EU because the Coordinator usually signs first).
+
+Where? Access to the Grant Management System is available through My Projects > Actions > Manage Project > Proposal Management & Grant Preparation > Sign.
+
+Who? The Grant Agreement is signed by the EU and the Coordinator. The other Beneficiaries do not sign the Grant Agreement itself, but accede to the Grant Agreement through Accession Forms. Affiliated Entities or Associated Partners do not sign and do not become formal parties to the Agreement.
+
+How? You will receive e-mail notifications prompting the tasks needed for grant signature. For more detail, see the list of grant-related notifications.
+
+
+
+Table content:
+Signing EU Grant Agreements electronically - What's involved?
+The electronic signature in the Portal requires:
+
+ • achain of trust with Beneficiaries — to guarantee signatories' identity
+
+ • asystem of digital signatures protected by multiple security features — to guarantee documents’ reliability and authenticity
+
+This type of electronic signature is used for signature of contracts, amendments and cost claims (Financial Statements and invoices).
+
+The chain of trust
+

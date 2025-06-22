@@ -1,0 +1,4 @@
+7 Submit the report to the Granting Authority
+
+The Coordinator must submit all parts of the periodc report together (all the individual Financial Statements and Part B of the Technical Report): My Projects > Actions > Manage Project > Periodic Reporting > Submit to EU. The system will automatically generate the report with explanations of the use of resources and the periodic Summary Financial Statements, which includes the request for payment.
+

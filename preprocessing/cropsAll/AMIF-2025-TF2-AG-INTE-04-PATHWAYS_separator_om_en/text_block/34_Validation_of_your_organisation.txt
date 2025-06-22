@@ -1,0 +1,30 @@
+Validation of your organisation
+
+If your proposal is successful, you will be contacted for the validation of your PIC registration data.
+
+Validation is needed only for certain types of participants (grants: Beneficiaries and Affiliated Entities; procurement: Contractors). It is not needed for Associated Partners, Subcontractors or other participants.
+
+It will be done by the Central Validation Service which carries out the validation for all EU services using the Portal.
+
+The Central Validation Service will contact the person who registered the organisation (Self- registrant) and ask them to:
+
+ • upload official supporting documents (via the My Organisations page)
+
+ • clarify any details.
+
+The documents that are required will be listed in the notification you receive. You will need to fill out a legal entity identification form and provide us with an official VAT document, registration extract, statutes or act of establishment, etc. The detailed list of documents is also
+
+explained in the Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment.
+
+The Central Validation Service will check that your organisation is legally recognised (has legal personality). If this is not the case (exceptionally this is allowed), you will have to prove that the representatives have the capacity to undertake legal obligations on the organisation's behalf and that the organisation has financial and operational capacity equivalent to that of legal persons.
+
+The Central Validation Service will also check whether your organisation qualifies for some of the special legal statuses that are required for some funding programmes (private or public body, non-profit, international organisation).
+
+The outcome of this process is the validation of your organisation (validated PIC). The Central Validation Service will send a confirmation message once the process is completed and the PIC is validated.
+
+4\ Please don’t forget that all communications with the Central Validation Service must take place through the Participant Register (My Organisations page). Emails and other communications will NOT be accepted.
+
+Please also note that if you apply for a call with specific eligibility criteria that are not validated by the Central Validation Service, these will be checked by the responsible EU service managing the call — in addition to the validation, which means that they may come back to you with additional questions.
+
+Validation of the organisation is a prerequisite for the LEAR appointment.
+

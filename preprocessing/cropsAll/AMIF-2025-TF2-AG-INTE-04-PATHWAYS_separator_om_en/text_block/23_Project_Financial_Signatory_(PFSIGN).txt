@@ -1,0 +1,12 @@
+Project Financial Signatory (PFSIGN)
+
+The PFSIGN has the right to sign cost claims/invoices on behalf of the organisation.
+
+The LEAR (or Account Administrators) must first appoint FSIGNs; the Coordinator and each participant (PCoCo/CoCos/PaCos) can then assign PFSIGNs for a given project to act as legal signatory for the participant in the project.
+
+An organisation can have an unlimited number of PFSIGNs per project.
+
+They have the same rights as CoCos/PaCos for project/contract information. Cannot assign/revoke any roles.
+
+Summary project/contract roles
+

@@ -1,0 +1,28 @@
+2.5 Data updates
+Who can update the online information about your organisation?
+• Initially, only the person who first registered the organisation or any other appointed
+Self-registrant
+• once appointed, only the appointed representative (LEAR) and appointed Account
+Administrators.
+To change the information on your organisation, go to My Organisations > Actions > Modify
+Organisation.
+Please upload legal/financial supporting documents for any updates you submit so that the
+Central Validation Service can validate them. Maximum size for uploads: 6MB per file
+Changes of legal status
+If your organisation changes status or address, your LEAR should immediately update the
+information in the Participant Register (My Organisations > Actions > Modify Organisation) and,
+if possible, directly inform (via your Coordinator) your EU Project Officers in ongoing grants
+(Coordinator uses the Portal Messaging Facility: My Projects > Actions > Manage Project >
+Process communications > New message).
+Some changes like, for instance, partial or universal transfers of rights will moreover require
+amendments in case you have ongoing Grant Agreements/Procurement Contracts.
+Managing roles in the organisation
+If organisation roles need to be changed, your LEAR should immediately update them in the
+system (My Organisations > Actions > Edit Organisation Roles)
+If project/contract roles need to be changed, your CoCo/PaCo should immediately update them
+in the system (My Projects > Actions > Project Consortium).
+If grants/contracts or cost claims/invoices are signed in the system by persons whose access
+rights should have been revoked, this will be your responsibility and you will have to bear the
+consequences. Their signatures and other actions will be considered valid by the EU services.
+Links
+• Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment

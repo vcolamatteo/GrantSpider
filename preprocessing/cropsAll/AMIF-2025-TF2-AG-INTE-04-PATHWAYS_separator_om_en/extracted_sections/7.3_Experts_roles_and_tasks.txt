@@ -1,0 +1,134 @@
+7.3 Experts roles and tasks
+If you have registered as an expert and have the required profile, the EU service will contact
+you in due course to let you know whether you have been selected. This depends on whether
+there are any proposals to be evaluated or projects to be monitored requiring your
+particular expertise.
+Roles and tasks assigned to experts
+As an expert, you can perform a variety of roles and tasks:
+1. Evaluators are responsible for evaluating proposals submitted in response to a call for
+proposals.
+Evaluators may also act as a rapporteur, chair, or vice-chair at consensus discussions
+or meetings of panels of evaluators. Rapporteurs are responsible for drafting the
+consensus report (CR) of a consensus meeting.
+2. Observers provide the EU services with independent advice on the conduct and fairness
+of all phases of the evaluation process, on how evaluators apply award criteria, and on
+how to improve the procedure.
+The observer may attend any meeting held during the proposal evaluation process and
+drafts a report on the evaluation session observed.
+3. Monitors assist EU services in monitoring the implementation of projects that have
+received funding, taking into account work descriptions, reports and deliverables.
+All experts' tasks are laid down in their contract and its annexes. See the Model Contract for
+Experts for further details.
+Proposal-evaluation process
+The underlying principles to bear in mind during evaluation are:
+• Excellence - projects must demonstrate a high level of quality in relation to the topics
+and criteria set out in the calls
+• Transparency - funding decisions must be based on clearly defined rules and
+procedures, and applicants should receive adequate feedback on the outcome of the
+evaluation
+• Fairness and impartiality - all proposals must be treated equally and evaluated
+impartially on their merits, irrespective of their origin or the identity of the applicants
+• Confidentiality - all proposals and related data, knowledge and documents must be
+treated in confidence
+• Speed and efficiency - proposals should be evaluated and grants awarded and
+administered as swiftly as possible, without compromising quality or breaking the rules
+Award criteria
+The award criteria to be applied by the evaluators are set for each programme in the call
+conditions .
+Thresholds may vary according to the work programme. For two-stage submission schemes,
+thresholds and the maximum overall score may vary between the first and the second stage.
+Steps in the Process
+The diagram below depicts the main steps of the evaluation process and highlights at which
+stages the experts intervene
+There are three main phases in the experts' involvement in the evaluation process.
+Before starting their work, experts are briefed on evaluation procedures (including remote
+evaluation), the topics of the relevant calls for proposals and the terms of their contracts. This
+briefing can be done in Brussels or remotely (e.g. web-streaming).
+For each proposal, experts presents their evaluation results in an individual evaluation
+report (IER), explaining the evaluation scores. Expert evaluators also pre-screen each
+proposal (on the basis of the applicant's ethics self-assessment) to see if it raises ethical
+issues. All evaluation forms are completed online. This report can be completed and
+signed remotely or in Brussels.
+In principle, proposals will be evaluated initially by at least three experts (in a number of
+cases, five or more). However, for the first stage in two-stage submission schemes and
+for low-value grants, only two experts may be involved.
+A consensus group is convened in order for all the experts who assessed the proposals
+in question to discuss the individual evaluation reports and agree on comments and
+scores.
+The consensus group discussion is led by a moderator (normally an official from the
+concerned EU service), who seeks a consensus and ensures that proposals are evaluated
+in a fair manner and in line with the established criteria.
+The consensus group discussion results in a consensus report (CR) including
+justifications of scores and dissenting views, if any. The moderator is responsible for
+ensuring that the consensus report reflects the consensus reached. The report is signed
+by the rapporteur and the experts evaluating the proposal discussed.
+The discussion usually takes place in Brussels and includes experts who participated in
+the individual evaluation. It is also possible to convene a remote consensus group.
+Panel review consists of reviewing all the proposals within a call, or part of a call, to:
+• ensure that the consensus groups have been consistent in their evaluations;
+• if necessary, propose a new set of marks or comments; and
+• resolve cases where a consensus could not be reached and a minority view was
+recorded in the consensus report.
+Exceptionally, in some cases, justified by the specific call circumstances, the outcome of
+the consensus group will constitute the final result of the evaluation, and there will be no
+panel review. These cases will be signalled in the guidance documents.
+The panel review is led by a panel chairperson (normally an official from the concerned
+EU service) who ensures fair and equal treatment of the proposals.
+The panel review should result in a panel report which includes the evaluation
+summary report (ESR) for each proposal, a list of proposals passing all thresholds,
+along with a final score, (panel ranked list) and, where necessary, the panel's
+recommendations for priority order in the event of equal scores, using the procedure set
+out in the work programme. A rapporteur may be appointed to draft the panel report.
+Monitoring projects (Technical review)
+Projects are monitored to assess the work carried out over a given period and make
+recommendations to the EU services. Monitoring may cover scientific, technological and other
+aspects of the implementation of the project and Grant Agreement.
+The monitoring expert's task is to advise the EU services on how the project has progressed
+with regard to:
+• the initial work plan
+• deliverables
+• planned and used resources
+• relevance of the objectives
+• scientific and industrial quality
+• management procedures and methods
+• Beneficiaries' contributions, and
+• the expected potential impact in scientific, technological, economic, competitive and
+social terms, and the plans for the use and dissemination of results.
+Depending on the project's complexity and progress, the review may include remote work
+entailing reading and analysis of the Grant Agreement, grant decision and other background
+information and deliverables and finally drafting the report. The expert may also be required to
+attend project meetings at the EU services offices or at the premises of the Beneficiary.
+The EU services may require the expert to carry out on-site technical audits to verify whether
+critical milestones are being met, or to assist in carrying out research integrity (scientific
+misconduct) analysis during implementation.
+Types of project monitoring
+• Periodic monitoring provided for in the Grant Agreement (generally linked to payment)
+• Ad-hoc monitoring, which the EU services can request at any time, where necessary,
+and which may involve reviewing financial and technical aspects, or only technical
+aspects.
+Monitoring process
+• Review meeting and assessment - experts read all relevant documents before and
+attends the review meeting. They then assess the project on the basis of the written
+material and information provided at the meeting. In the event of remote monitoring,
+the assessment is based on written documents only.
+• Monitoring report - the expert draws up the monitoring report on a project, and the
+EU service sends it to the consortium via the Coordinator, but it is not made public. If
+more than one expert is involved in project monitoring, they issue a single consolidated
+report written by a rapporteur.
+• Recommendations - the monitor will also assist the EU services by recommending any
+changes that may be required. However, the final decision on recommendations and
+changes is taken by the EU services alone.
+• Observations - Beneficiaries may comment on the monitoring report within one month
+of receiving it.
+• Project assessment by the EU services? - taking the experts' formal
+recommendations into account, the EU services informs the Coordinator of its decision,
+which, however, may depart from the recommendations. It may entail
+accepting or rejecting the deliverables
+o
+allowing the project to continue in its existing form
+o
+suggesting modifications, or
+o
+taking steps to terminate the Grant Agreement or to exclude a Beneficiary from
+o
+taking part.

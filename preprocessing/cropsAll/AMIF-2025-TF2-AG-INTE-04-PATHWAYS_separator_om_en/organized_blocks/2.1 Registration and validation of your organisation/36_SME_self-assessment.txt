@@ -1,0 +1,10 @@
+SME self-assessment
+
+In addition to the standard validation, a SME self-assessment is needed if you apply for a call where SME status is an eligibility criterion (or allows for a higher funding rate or other advantages).
+
+If there is no recent (not older than 2 years) SME self-assessment information available in the Participant Register, the Portal Submission System will automatically prompt you to go through the SME self-assessment wizard to establish your SME status. You will need to enter the financial figures of the last approved accounting period of your organisation and of any other organisation that might be directly or indirectly related to you. If the result confirms your SME status, you will be able to proceed with the application process.
+
+4\ Please note that the SME self-assessment is only needed if the SME-status is an eligibility criterion (or gives special advantages); otherwise, you will simply self-declare your SME status in the Legal Information tab and proceed with the registration.Detailed rules are explained in the Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment.
+
+ • Rules on Legal Entity Validation, LEAR appointment and Financial Capacity Assessment  • Participant Register: User Guide
+

@@ -1,0 +1,11 @@
+3. Validation of the LEAR appointment
+
+3.1 Validation of the LEAR appointment: General requirements and principles
+In parallel with the legal entity validation, the Central Validation Service will contact
+the participants to appoint their Legal Entity Appointed Representative (LEAR), i.e.
+the single point of contact needed for the Participant Register and Funding & Tenders
+Portal electronic exchange system.
+The appointment of the LEAR in the Participant Register is mandatory for all
+validated participants. Without LEAR it will NOT be possible to update the legal entity
+data in the Participant Register, nor sign contracts electronically in the Funding &
+Tenders Portal.

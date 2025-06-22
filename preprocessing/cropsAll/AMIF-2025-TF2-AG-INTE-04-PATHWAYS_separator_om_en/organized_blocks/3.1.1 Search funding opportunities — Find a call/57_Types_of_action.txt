@@ -1,0 +1,18 @@
+Types of action
+
+Types of action designate funding schemes, i.e. calls with the same characteristics: policy domain (scope of funded activities), award criteria, reimbursement rate and in some cases form of funding (budget-based grant, lump sum grant, unit grant, prize, procurement, debt and equity facility, etc).
+
+The types of action depend on each EU programme.
+
+There are two main types: action grants (for projects) and operating grants (to support organisations and their running costs).
+
+In addition, most programmes distinguish the following:
+
+ • Project Grants  • Lump Sum Grants  • Unit Grants and  • Framework Partnerships.
+
+However, especially larger programmes have developed their own specific set of types of action, for instance:
+
+ • Horizon Europe: Research and Innovation Actions, Innovation Actions, Coordination and Support Actions, Pre-commercial Procurements, Public Procurement of Innovative Solutions, etc  • Digital Europe: Simple Grants, Coordination and Support Actions, SME Support Actions, Grants for Financial Support, Grants for Procurement, PAC Grants for Procurement, Lump Sum Grants, Framework Partnerships  • CEF: Project Grants, Infrastructure Projects, Lump Sum Grants, Unit Grants, Framework Partnerships  • Single Market Programme: Project Grants, Lump Sum Grants, Grants for Financial Support, PPI Grants for Procurement, Framework Partnerships, European Statistics, etc.
+
+Within the types of actions, EU grants fund all kinds of activities (collaborative actions, coordination and networking actions, coordination and support actions, support to organisations, technical assistance and capacity building actions, mobility actions, cofund actions to existing grant schemes/procurements of the beneficiaries, infrastructure actions, etc).
+

@@ -1,0 +1,16 @@
+Detailed budget table (if required)
+
+Many programmes require the submission of a detailed budget table (templates are usually in format .xlsx or .xlxm).
+
+Simple .xlsx files can simply be filled-in, merged and uploaded. For .xlsm files, you can usually — after the table has been filled-in and completed using the macro-support — save a copy as .xlsx and use that copy for merging and uploading the file.
+
+If you are asked to merge and upload a table as PDF (usually for needed for GAP), please proceed as follows:
+
+Sheets per participant must be filled in for each Beneficiary/Affiliated Entity; sheets for the entire project must be filled in by the Coordinator — after having received all the information by the other participants.
+
+Combine into a single PDF:
+
+1. Save participant sheets into one PDF per Beneficiary/Affiliated Entity (choose sheets via ‘Options’ when saving as PDF) 2. Save participant sheets and project sheets into a PDF for the Coordinator. 3. Combine into a single PDF for upload (using Adobe Acrobat or the Preview App on Apple Macs). 4. Upload in the system.
+
+1. Save participant sheets into one PDF per Beneficiary/Affiliated Entity (choose sheets via ‘Options’ when saving as PDF)
+

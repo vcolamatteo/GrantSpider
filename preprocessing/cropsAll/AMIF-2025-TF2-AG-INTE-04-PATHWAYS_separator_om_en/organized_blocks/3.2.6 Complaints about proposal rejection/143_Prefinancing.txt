@@ -1,0 +1,10 @@
+Prefinancing
+
+The entry into force and starting date also determine the baseline date for the prefinancing (i.e. the float that we normally pay immediately after grant signature).
+
+Depending on the programme (see cal/ conditions), prefinancing is either paid 30 days from:
+
+ • Horizon Europe, Digital, SMP, etc: the entry into force or 10 days before the starting date or submission of the prefinancing guarantee (if required) — depending on which is the latest or  • CEF, LIFE, EMFAF, Erasmus, etc: the entry into force or submission of the prefinancing guarantee (if required) — depending on which is the latest.
+
+ • eSignature of grant documents video
+

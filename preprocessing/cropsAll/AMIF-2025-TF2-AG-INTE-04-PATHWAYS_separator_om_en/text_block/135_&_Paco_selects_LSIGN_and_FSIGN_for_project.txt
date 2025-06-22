@@ -1,0 +1,8 @@
+& Paco selects LSIGN and FSIGN for project
+
+Participant Contacts (PaCo) or Coordinator Contacts (CoCos) have to select the Project Legal Signatories (PLSIGNs) and Financial Signatories (PFSIGNs) from the LSIGN and FSIGN lists nominated by the LEAR. For more information, check the section on Roles and access rights.
+
+® Closed system where access rights are strictly controlled.
+
+The chain of trust is built in a closed electronic exchange system. Each individual must identify themselves with their personal EU Login account and access is strictly controlled.
+

@@ -1,0 +1,18 @@
+3.1.5 Complaints about failed submission
+If you think that submission of your proposal failed and this was due to a technical error on the
+Portal side, you may lodge a complaint through the IT Helpdesk.
+The complaint must be filed within 4 calendar days after call closure. You will receive an
+acknowledgement of receipt the same or next working day.
+What else to do? You should secure a PDF version of the part B and annexes of your application
+holding a time stamp before the call deadline (file attributes listing the date and time of creation
+and last modification), as well as proof of the alleged failure (screenshots). You may be
+requested by the IT Helpdesk to provide these items.
+EC services will check the IT logs (application log files and access log files of the Commission
+IT systems involved) and see if they show a technical problem on the Portal side which
+prevented you from submitting (or resubmitting) the proposal.
+You will be notified about the outcome as soon as possible.
+If your complaint is justified, the files you provided to the IT Helpdesk will be used as your
+proposal and sent for evaluation. If you didn’t provide any files, the last version recorded in the
+IT system will be used.
+Links
+• Proposal Submission System: User Manual

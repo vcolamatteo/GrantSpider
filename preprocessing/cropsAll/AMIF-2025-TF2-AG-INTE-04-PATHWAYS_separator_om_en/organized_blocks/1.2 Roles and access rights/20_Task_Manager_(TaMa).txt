@@ -1,0 +1,8 @@
+Task Manager (TaMa)
+
+TaMas can perform some restricted actions: creating, updating and uploading documents about their organisation's participation and completing, modifying or deleting project/contract information.
+
+An organisation can have an unlimited number of TaMas per project. They cannot nominate or revoke anybody, nor submit information to the Coordinator or EU.
+
+This role is not used during the application phase.
+

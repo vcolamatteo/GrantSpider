@@ -1,0 +1,10 @@
+For tenders:
+
+The tender will contain the following types of participating organisations:
+
+ • Group Leader. A submission can have only one, and you may submit a tender with just one Group Leader and no more participating organisations.  • Group Member. A submission can have none, one or more (often none).
+
+In a call for tenders, you need to provide one single contact: Contact Point. One per application. This Contact is always linked to the Group Leader.
+
+During the submission phase, this is the only role which will be defined. The Contact Point will then become the Primary Coordinator Contact (PCoCo).
+

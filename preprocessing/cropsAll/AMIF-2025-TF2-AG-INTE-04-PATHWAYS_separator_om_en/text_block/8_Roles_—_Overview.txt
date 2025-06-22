@@ -1,0 +1,6 @@
+Roles — Overview
+
+The picture below shows all the roles involved in managing organisations and projects/contracts in the Portal.
+
+For some funding programmes (e.g. Horizon Europe ERC and MSCA grants), additional roles @row TO . are used. See the for more details.
+

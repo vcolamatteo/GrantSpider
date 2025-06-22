@@ -1,0 +1,30 @@
+1.1 EU Login
+EU Login provides a single sign-on to a large number of services and tools available on the
+Portal.
+To access to the functions available on My Area, you must have an EU Login account.
+• To create an EU Login account, you click on the Register button on the Portal homepage;
+all you need is your name and work e-mail address.
+• If you already have an EU Login account, you must use that one.
+EU Login is the new name for the previously used ECAS account (European Commission
+Authentication System); old accounts continue to work, there is no need to create new ones.
+Creating an EU Login account
+Go to the Portal Register page and enter:
+• your first name, last name and e-mail address
+• the displayed security code.
+Select Create an account
+You will receive an e-mail to the address that you specified, containing a link you should
+use to complete the registration process.
+Click the link you will be asked to choose and confirm a password.
+Go back to the Portal homepage.
+Click on Login and log in with your registered e-mail (user name) address and
+password.
+Your EU Login password and user name is personal — do NOT share it with colleagues or
+anyone else. All transactions made with your account (user name, password) will be considered
+as having been made by yourself. Keep your password secure and change it regularly.
+Logging in to the Portal with your EU Login account
+After logging in, you can use the personalised services and tools available on the Portal.
+Your EU Login account gives you only general access to My Area, but it will NOT yet give you
+access to project/contract data of your organisation. This access depends on your roles and
+access rights.
+FAQ
+• FAQ on EU Login help page

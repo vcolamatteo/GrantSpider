@@ -1,0 +1,29 @@
+2.4.2 Corrections of validations
+If a validation turns out to beincorrect (through an audit, ex-post check, investigation
+or other means), it will be corrected by the Central Validation Service. The correction
+will be registered with effect back to the effective date of the initial validation.
+If the error is attributable to the Central Validation Service and its correction implies
+disadvantages for the participant, the retroactive effect may exceptionally be waived,
+if duly justified and in line with the principles of sound financial management and
+proportionality.
+If the error was the fault of the participant (intentional or unintentional), its
+participation in on-going grants, procurements, prizes, contribution agreements, etc
+may be terminated and undue amounts paid may be recovered. Moreover, the
+participant may be fined and excluded from future EU funding (grants, procurements,
+prizes, contribution agreements, etc; see Articles 135 to 145 of the Financial
+Regulation). In addition, the European Anti-Fraud Office (OLAF) may be informed.
+2.5 Ex-post verifications carried out by the EU — Irregularities and/or false
+declarations
+The EU services reserve the right to carry out — at any moment — checks, reviews,
+audits or investigations.
+If they find out that a participant did not meet the criteria for being validated or for
+being validated with a specific legal status (e.g. due to false declarations), the
+modification of the validation will be registered with retroactive effect back to the
+effective date of the validation.
+If in the meantime the participant already received EU grants, procurements, prizes,
+contribution agreements, etc, their participation may be terminated/withdrawn and
+undue amounts paid will be recovered.
+In case of irregularities or false declarations, participants may moreover be fined and
+excluded from future EU funding (grants, procurements, prizes, contribution
+agreements, etc; see Articles 135 to 146 of the Financial Regulation).
+In addition, the European Anti-Fraud Office (OLAF) may be informed.

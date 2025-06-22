@@ -1,0 +1,154 @@
+3.3.2 Amendments
+Amendments requested by the consortium
+If there are any changes to the Grant Agreement (e.g. data or options specific to that
+agreement) or its annexes, they must be done through a formal amendment directly in the
+Portal (electronic signature).
+Where? Access to the Grant Management System is available through My Projects > Actions
+> Manage Project > Launch new interaction with the EU > Request for Amendment.
+Who? Amendments can be prepared by the consortium participants together, but only the
+Coordinator can launch, sign and submit them.
+The EU Granting Authority can also propose amendments, but for practical reasons we will often
+as you to initiate the procedure.
+When? Amendments must normally be done before the end of the project, but some
+amendment clauses are also open afterwards (addition of Beneficiary/Affiliated
+Entity/Associated Partner, change of Coordinator, change of Annex 1, change of Annex 2,
+change of bank account, error amendments, etc).
+What? Cases requiring a formal amendment are listed in the AGA — Annotated Grant
+Agreement, art 39. See also How to prepare an amendment in the .
+Amendments are normally NOT necessary for:
+• budget transfers covered by the budget flexibility
+• name or address changes of a participant — done directly in the Participant Register
+• universal takeovers (merger/acquisition) of a participant — done directly in the
+Participant Register
+• changes of the banking details — done directly in the Participant Register.
+The signed amendment is the legal document containing the changes to the Grant
+Agreement. It is legally binding and will be incorporated into the Agreement. The consolidated
+version is only for information.
+Amendment process
+Get ready > Launch amendment > Amendment preparation > Consult Commission >
+Sign&Submit > Assessment > Countersign
+Amendment request
+The amendment request consists of:
+• updated structured information on the Grant Management System screens
+• amendment request letter: the letter with the request and reasons for the amendment
+• amendment core (including new version of GA Annexes 1 and 2, if needed): the legal
+document with the list of amendment clauses
+• supporting documents: documents uploaded by the consortium, consolidated Grant
+Agreement, etc
+All participants can contribute to the amendment, but it is the Coordinator who will have to
+launch, finalise, submit and sign the request.
+Tasks of the Coordinator:
+• Check that the updated information Grant Management System screens is correct.
+• Quality check: Check that the Amendment documents are correct and all supporting
+documents attached.
+Actions to be completed before amendment
+Make sure new participants are registered and validated (PIC)
+New Beneficiaries and Affiliated Entities must be registered and validated in the Participant
+Register before the amendment can be requested (see section on Registration and
+validation of your organisation).
+Associated Partners need to be only registered (have a PIC); no validation is needed,
+because they will not receive any grant money from us.
+Make sure that new bank accounts are registered and validated
+New banking information must be registered and validated in the Participant Register
+before an amendment can be requested (see section on Bank account registration and
+validation).
+Submitting an amendment
+Amendments must be prepared in the Portal Grant Management System.
+Details are explained in the .
+Get ready
+Before launching your amendment request, prepare the supporting documents and, if
+needed, discuss the request beforehand with the EU Project Officer (— recommended for
+more complicated cases).
+Launch the amendment
+Go to My Projects > Actions > Manage Project > Launch new interaction with the EU >
+Request for Amendment
+Amendment reference number (ID) — Once you have launched the request, the
+amendment is automatically assigned a reference number. Please use this unique identifier
+in all contacts with the Granting Authority during the amendment process.
+Change the grant data in the system
+Go to My Projects > Actions > Manage Project > Amendment > Amendment preparation.
+Once the amendment is been launched, you can amend the grant data in the same way as
+as you did when preparing the Grant Agreement.
+Enter the amendment information into the system
+a) Justification
+Fill out the field to justify the request on the Amendment Information screen.
+b) Amendment clauses
+On the basis of the changes to the grant data, the system will automatically select the
+relevant amendment types (automatic clauses) on the Amendment Information screen.
+Other types of amendment have to be selected manually by the EU Project Officer,
+(change of Annex 1, change in the maximum grant amount, resuming the action after
+suspension, etc). Contact the Project Officer to activate the clause.
+In case a change triggers the need for another change, a prompt will appear.
+Upload annexes and supporting documents
+You will be prompted to upload mandatory supporting documents. These depend on the
+type of amendment and the specific case (e.g. a new Beneficiary must provide the DoH
+and the Accession Form).
+Consult Granting Authority
+Once ready, the amendment request must be submitted to the Granting Authority for
+informal assessment.
+Informal assessment by the Granting Authority
+The Project Officer will check that the amendment request is correct and admissible. If
+needed, they will send it back to the consortium for changes/additional information (ping-
+pong).
+Coordinator signs & submits the amendment request
+Once the request for an amendment is complete and ready to be submitted, the system
+generates the 2 documents (amendment request letter and amendment core) for signature
+(PDF document, digitally signed to guarantee its security, reliability and authenticity).
+The Coordinator’s PLSIGN logs into My Projects > Actions > Manage Project > Amendment
+> Sign & Submit (same procedure as for Grant Agreement; see Signing the Grant
+Agreement).
+The amendment can be previewed, downloaded or printed (before or after signature) from
+the Documents screen if desired.
+As Coordinator, you cannot alter a request for an amendment once it has been signed
+and submitted. There are 2 options:
+• You withdraw it.
+• The Granting Authority rejects it (amendment rejection letter).
+Formal assessment by the Granting Authority
+The Granting Authority has 45 days to accept or reject the request.
+This deadline will be extended if needed (e.g. if the amendment are complex, specific
+compliance checks are needed for a new participant, or if the project has to be reviewed to
+assess the changes).
+Granting authority signs the amendment
+Acceptance: If the Granting Authority accepts the request, they countersign it from their
+side (same procedure as for Grant Agreement; see Signing the Grant Agreement).
+The Coordinator and Beneficiaries will be informed and the countersigned amendment will
+be available in their Portal Library (My Projects > Actions > Manage Project > Project
+Library).
+Rejection: If the request is rejected, the consortium will be informed by amendment
+rejection letter.
+Amendment number — Once the amendment is countersigned, it is automatically assigned
+a sequential amendment number (1, 2, 3, etc). For instance, an amendment request with
+the reference AMD-345622-6 is assigned number 2 if it is the 2nd signed amendment for
+the grant. Rejected amendments are assigned a number (R1, R2); but they are saved, so
+that they can be reused to draw up a new request.
+The Coordinator’s PLSIGN can withdraw a submitted request until it is countersigned.
+Withdrawn requests are saved and can be reused to submit a new request.
+Entry into force & taking effect
+An amendment proposed by a consortium enters into force on the day the Granting Authority
+signs it.
+It takes effect (i.e. the changes to the Grant Agreement start to apply) either:
+• on a specific date specified in the amendment or
+• on the date of entry into force (last signature = signature by the EU).
+Depending on the nature of the amendment, the date on which it takes effect may affect
+the eligibility of costs (e.g. if a Beneficiary is added, costs are eligible from the accession date
+specified in the Accession Form).
+Coordinator change without their agreement
+If the Coordinator is to be replaced without their agreement, another Beneficiary (acting on
+behalf of the other Beneficiaries in the consortium) must submit the amendment request.
+To do this, you will need to contact the EU Project Officer, so that they can give you
+(exceptional) PCoCo access rights in the system.
+Please note you will have to provide proof both of the consortium decision to change the
+Coordinator, to nominate you to act on their behalf AND the opinion of the changed Coordinator
+(or at least proof that the opinion was requested) — otherwise the termination will be considered
+improper.
+Amendments initiated by the Granting Authority
+If the Granting Authority requests an amendment, the request is also prepared and signed
+electronically in the Portal Grant Management System.
+You will receive an e-mail notification prompting you to accept the request.
+To do so, the Coordinator's PLSIGN must countersign the amendment on the consortium's
+behalf.
+Links
+• Amendment Guide
+• AGA — Annotated Grant Agreement, art 39
+• Horizon Europe Coordinators' Day 2022 event page (including recording of the event
+and presentations)

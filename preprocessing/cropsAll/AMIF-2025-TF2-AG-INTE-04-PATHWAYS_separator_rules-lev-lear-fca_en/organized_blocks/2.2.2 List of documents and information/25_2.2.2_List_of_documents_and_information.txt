@@ -1,0 +1,88 @@
+2.2.2 List of documents and information
+
+The participants will be asked to submit the following documents and information:
+
+1. Signed legal entity identification form’:
+
+— Natural Person Form: in English — Private Legal Entity Form: in English — Public Legal Entity Form: in English.
+
+2. Official VAT document or — if the entity is not registered for VAT — the proof of VAT exemption, not older than one (1) year.
+
+For the specific legal statuses, participants will be asked to submit the following additional documents:
+
+
+
+Table content:
++---------------------------------------+---------------------------------------+
+|                  Status               |     Documents to be submitted         |
++---------------------------------------+---------------------------------------+
+| Private entity                         | A valid registration extract not older|
+| (including SME and mid-cap)            | than one (1) year. Documents older   |
+|                                        | than one year may be accepted if     |
+|                                        | valid for a certain period of time   |
+|                                        | expressly indicated in the same       |
+|                                        | document (e.g. valid for two years)  |
+|                                        | and if submitted via the Participant  |
+|                                        | Register within this period of time.  |
++---------------------------------------+---------------------------------------+
+| Public body                           | Copy of the act, law, decree or       |
+|                                        | decision that established the entity  |
+|                                        | as a public body (or, if this does not|
+|                                        | exist, any other official legal      |
+|                                        | document that proves this).           |
++---------------------------------------+---------------------------------------+
+| Natural person                        | Integral copy (legible) of valid     |
+|                                        | identity card or passport (e.g. in    |
+|                                        | case of identity card, both sides must|
+|                                        | be provided).                         |
++---------------------------------------+---------------------------------------+
+
+
+Table content:
++-------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Entities without legal personality  | Copy of an official document attesting that the representatives of the entity have the capacity to undertake legal obligations on its behalf.                                                                                                                                                                                                   |
+|                                     | Copy of an official document attesting that the entity has the same operational and financial viability as that of a legal entity:                                                                                                                                                                                                               |
+|                                     | 1. a document showing patrimony/assets/capital that are separated and different from those of the members/owners of the entity, and                                                                                                                                                                                                              |
+|                                     | 2. a copy of the rules providing that creditors can rely on this patrimony/assets/capital and - in case of liquidation/insolvency - are reimbursed before the patrimony/assets/capital are divided between the owners/members.                                                                                                               |
++-------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Non-profit                          | Copy of an official document attesting that the entity is non-profit by its legal form or by its legal purpose, or that it has a legal or statutory obligation not to distribute profits to shareholders or individual members.                                                                                                                |
+|                                     | The certificate of tax exemption is only an indication of the non-profit status and will therefore be assessed together with other elements.                                                                                                                                                                                                      |
++-------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Small or medium sized enterprise    | The following documents must be provided for the participant and for its linked and partner entities (in accordance with Articles 3 to 6 of the Annex to the EU SME Recommendation 2003/361):                                                                                                                                                   |
+| (— if expressly requested by the    | 1. graph showing the complete ownership structure, including all direct and indirect shareholders                                                                                                                                                                                                                                                 |
+| Central Validation Service)         | 2. proof of the direct and indirect shareholders/owners and their respective percentage of interest and voting rights                                                                                                                                                                                                                              |
+|                                     | 3. approved financial statements for the most recent closed accounting period, including:                                                                                                                                                                                                                                                        |
+|                                     |     - balance sheet statement                                                                                                                                                                                                                                                                                                                     |
+|                                     |     - profit and loss account, clearly indicating the amount of annual turnover from sales of goods and services                                                                                                                                                                                                                                  |
+|                                     |     - annexes to these documents and/or accompanying notes, indicating (i) staff headcount and (ii) any equity participations in other companies/downstream organisations with exact percentage of the shares and voting rights held. If the annexes/notes to the financial statements do not contain the requested information, other documents can be   |
+|                                     |       provided that contain equivalent data (such as headcount reports for social security purposes, extracts from HR records certifying headcount, etc.); in exceptional cases, self-declarations can be accepted                                                                                                                               |
+|                                     | 4. documents explaining the mechanisms of ownership and control, corporate governance and decision-making rules (e.g. statutes/articles of association and shareholders' agreements; memorandum of                                                                                                                                                 |
++-------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+Table content:
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                   | understanding among shareholders, internal corporate governance rules, etc)                                                                                                                                        |
+|                                   |                                                                                                                                                                                                                   |
+|                                   | ! Sworn or solemn statements before a judicial or administrative authority, notary or public officer cannot replace the above listed documents as proof of the SME or mid-cap status.                                                                                    |
+|                                   |                                                                                                                                                                                                                   |
+|                                   | The following documents must be submitted in the below specific cases:                                                                                                                                          |
+|                                   |                                                                                                                                                                                                                   |
+|                                   | ✱ Newly established enterprises (e.g. start-up companies) that do not yet have closed accounts — Instead of approved financial statements, a self-declaration must be provided,                            |
+|                                   | including a bona fide estimate (in the form of a business plan) for the entire period (financial years) necessary for the entity to generate turnover.                                                        |
+|                                   | ⚫ Enterprises without turnover whose activity implies a long time-to market — In addition to the approved financial statements, a self-declaration must be provided,                                            |
+|                                   | including a bona fide estimate (in the form of a business plan) for the entire period (financial years) necessary to generate turnover, including a declaration of the investment made and the likely           |
+|                                   | expected return (to demonstrate that, despite the lack of turnover, the enterprise is engaged in an economic activity).                                                                                         |
+|                                   | ⚫ Entities owned directly or indirectly by natural persons — Self-declaration on the natural person(s) engagement in economic activity and possible participations in other entities must be provided.          |
+|                                   | The template for the self-declaration will be provided to participants during the validation process if specific cases of ownership by natural persons are identified.                                          |
+| International organisation        | Copy of the international treaty creating the organisation under international public law.                                                                                                                        |
+| Research organisation             | Copy of an official document attesting research or technological development as the main objective of the entity.                                                                                               |
+| (— if expressly requested by the   |                                                                                                                                                                                                                   |
+| Central Validation Service)       |                                                                                                                                                                                                                   |
+| Secondary or higher education     | Copy of an official document attesting that the entity is recognised as ‘secondary or higher education establishment’ by the national education system and is entitled to deliver diplomas recognized by the State. |
+| establishment                     |                                                                                                                                                                                                                   |
+| (— if expressly requested by the   |                                                                                                                                                                                                                   |
+| Central Validation Service)       |                                                                                                                                                                                                                   |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+For other categories such as NGO, Civil Society Organisation, etc no supporting documents are needed (unless exceptionally requested by the Central Validation Service).
+

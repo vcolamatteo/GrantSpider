@@ -1,0 +1,4 @@
+Final report
+
+The Periodic Reporting Module (and periodic reports) are also used for the final report (report for the last reporting period, to close the grant). The system behaviour, screens and documents used are the same.
+

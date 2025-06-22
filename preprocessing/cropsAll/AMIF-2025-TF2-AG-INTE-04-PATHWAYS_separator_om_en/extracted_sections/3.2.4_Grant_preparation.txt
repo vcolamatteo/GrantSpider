@@ -1,0 +1,258 @@
+3.2.4 Grant preparation
+Grant preparation
+The Grant Agreement must be prepared directly in the Portal Grant Management System.
+Where? Access to the Grant Management System is available through My Projects > Actions
+> Manage Project > Proposal Management & Grant Preparation > Grant agreement data
+preparation.
+Who? The Grant Agreement data should be prepared by the consortium participants together
+and submitted by the Coordinator.
+How? You will be prompted by e-mail for all the actions that you need to carry out for the grant
+preparation. For more details, see the list of grant-related notifications.
+What? The grant preparation process consists of:
+• setting up the Portal Grant Management System with the:
+participants’ legal, administrative and financial information
+o
+description of the action (DoA, Annex 1 GA)
+o
+estimated budget (Annex 2 and 2a GA)
+o
+project variables (when the project starts, reporting periods, amount of
+o
+prefinancing, GA options, etc)
+legal documents needed for grant signature (declarations of honour)
+o
+• so that the system can generate the Grant Agreement
+and
+• trigger signature directly inside the system (Grant Agreement and Accession Forms).
+In parallel, the Granting Authority will perform the remaining legal checks to ensure that all the
+successful proposals can receive EU funding (legal entity validation, financial capacity check,
+non-exclusion check, etc).
+Our Grant Agreement clauses are common to all EU programmes and mandatory for all
+beneficiaries. They are explained in more detail in the AGA — Annotated Grant Agreement.
+Grant preparation process
+Enter & submit grant data: Entering legal, administrative & financial data > Preparing the
+Description of the Action (DoA)
+Signing the Grant Agreement
+Description of the Action (DoA) (Part A and B)
+The description of the action (DoA, Annex 1) is structured like the application form into
+two parts, Parts A and B:
+• Part A: contains the structured tables with project information (retrieved from the Grant
+Management System tabs)
+• Part B (the narrative part): is based on Part B of the application form and must be
+uploaded as a PDF.
+Creating Part B of the DoA is straightforward, as it can be derived directly from Part B of the
+application. The instructions for this are available on Portal Reference Documents.
+The system will merge the Parts A and B, generating a single PDF with the full description of
+the action (DoA).
+All participants can contribute to the parts, but it is the Coordinator who will have to finalise
+and submit it.
+Tasks of the Coordinator:
+• Workplan tables: Complete the workplan tables in Part A, (work package descriptions,
+deliverables and milestones)
+• Check that all PICs have been validated by the Central Validation Service
+• Quality check:
+Check that the DoA is coherent and that information in Part A and B is consistent.
+Some programmes will ask you not to simply attach the application, but to adapt Part
+B. In this case, try to avoid overlaps between Parts A and B (delete work plan tables
+from Part B, etc).
+Check that DoA and the application match: please check if the content of the DoA differs
+from the application, as this must be in compliance with your invitation letter to start
+grant preparation. In addition, you may correct shortcomings identified by the experts
+in the evaluation summary report. The information presented in the DoA can be made
+more consistent if necessary. Any errors should be corrected (data displayed in a table
+or figure is at odds with the description, etc).
+Check that the DoA and the legal and administrative information match: for example, it
+must describe the role and tasks performed by each Partner (Coordinator, Beneficiary,
+Affiliated Entity, Third party providing in-kind contributions, etc) defined in the
+structured part.
+Make sure that the template has been followed and all sections are completed and no
+annexes are missing.
+Termination of grant preparation
+If the consortium decides against the grant during grant preparation, they can launch the
+termination process directly in the Portal. See the detailed screens and descriptions in the
+on grant preparation termination.
+This type of termination works only during grant preparation. Afterwards (after grant
+signature), the grant must be formally terminated by amending the GA (early termination
+amendment).
+Links
+• Horizon Europe Coordinators' Day 2022 event page (including recording of the event
+and presentations)
+• How to successfully manage a Horizon 2020-funded project — 10 practical tips on
+research project management
+• Communication to Horizon 2020 beneficiaries: How to avoid errors when claiming costs
+in H2020 grants
+FAQ
+• FAQ on grant preparation
+3.2.4.1 Enter & submit grant data
+Actions to be completed before grant preparation
+Organise access rights and roles
+All Beneficiaries need access rights in order to prepare their grant data in the system and
+sign the legal documents (declarations of honour, Grant Agreements and Accession Forms).
+The contact persons of each organisation indicated in the proposal will automatically receive
+access rights during grant preparation:
+Proposal Grant preparation
+Person who created the application ou PCoCo
+submit the proposal?
+Contact persons with full access rights CoCos (for Coordinator) + PaCos (for
+other Beneficiaries)
+Contact persons with read-only rights Team Members (TeMes)
+In addition, if your organisation has already been validated, the LEAR will normally also
+already have been appointed.
+Other persons and roles (especially LSIGNs and FSIGNs) will have to be appointed first by
+the LEAR (My Organisations > Actions > Edit Organisation Roles > Add Roles) and then
+assigned to the project by the CoCos and PaCos (My Projects > Actions > Project
+Consortium > Edit Roles).
+The minimum setup of roles that you need to prepare and conclude the Grant Agreement
+are the following:
+• for the Coordinator:
+Primary Coordinator Contact (PCoCo) — already appointed
+o
+Legal Entity Appointed Representative (LEAR)
+o
+Project Legal Signatory (PLSIGN)
+o
+• for other Beneficiaries:
+Participant Contact (PaCo)
+o
+Legal Entity Appointed Representative (LEAR)
+o
+Project Legal Signatory (PLSIGN).
+o
+The same person can fulfil several or all of the above roles.
+Our system allows for only one signature on your side. If your internal rules require
+several signatories, you must give an internal mandate to one of them and ensure that the
+electronic signature in our system is executed only after all the necessary internal
+authorisations were given. These authorisations must be collected, stored and kept by you
+in line with your usual management practices (usually paper-based) so that they can be
+provided to us in case of EU controls, checks or audits.
+More details about nomination are in the Roles and access rights section.
+Make sure all participants are registered and validated (PIC)
+All Beneficiaries and Affiliated Entities must be registered and validated in time for grant
+signature (see section on Registration and validation of your organisation).
+Associated Partners need to be only registered (have a PIC); no validation is needed,
+because they will not receive any grant money.
+Prepare and sign a consortium agreement (always recommended; in many
+cases mandatory)
+Consortium agreements are mandatory for many EU programmes. But even if they are not,
+it is highly recommended to have arrangements in place to cover consortium-internal issues
+that may arise during the project (e.g. decision-making procedures, resolve conflicts,
+safeguard intellectual property rights, etc). The consortium agreement should be signed
+before the Grant Agreement. For details, see AGA — Annotated Grant Agreement, art 7
+and the How to establish your H2020 consortium agreement.
+Enter legal, administrative & financial data
+You need to prepare the Grant Agreement in the Portal Grant Management System.
+Details are explained in the .
+Enter the structured information into the system (Part A of the DoA)
+Go to My Projects > Actions > Manage Project > Proposal Management & Grant Preparation
+> Grant agreement data preparation and transfer the information from your application
+form (Part B) to the Work Packages, Deliverables, Milestones and Critical Risks screens.
+You can move work packages up and down by drag & drop to position them in the order of
+your preference. When a work package is moved to a new position, the numbering of WPs
+(and also the relative numbering of deliverables) is automatically adapted.
+Enter the other grant data into the system
+a) Set the project starting date
+Set the date on which the project is to start (starting date of the action) on the Project
+Summary screen.
+The options may vary depending on programme and type of action (see call conditions),
+but generally there are 2 options:
+• the first day of the month after entry into force (signature by EU) — default
+option
+• if needed, a fixed starting date may be agreed — this should be the first day of
+a month and normally after grant signature (unless authorised otherwise by the
+Granting Authority).
+If you enter a fixed starting date, you will be asked to justify your choice. If you
+chose a starting date before grant signature, you must explain why your project requires
+this. Please note that the starting date can normally NOT be before the date on which
+your application was submitted (unless explicitly allowed in the call conditions). Please
+also note that any project activities taking place before grant signature bear the risk
+that the grant may finally not be signed.
+b) Check the project reporting periods
+The reporting periods will be pre-filled for each call on the Reporting Periods screen.
+To minimise administrative burden for you, we will choose the smallest possible number
+of reporting periods. On average, most programmes tend to have reporting periods
+between 12 and 18 months.
+c) Check the prefinancing for the project
+The standard prefinancing percentage will be pre-filled for each call on the Project
+Financial Information screen.
+The final prefinancing amount for each project will however be fixed only later, once the
+budgetary information is completed from your side and the Granting Authority has
+examined the results from the financial capacity assessment (see section Financial
+capacity assessment). The prefinancing may be lowered in case of low financial capacity.
+d) Complete the legal and administrative information for the participants
+Fill in the missing information for each participant on the Partner Summary screen and
+complete the Affiliated Entities and Associated Partner screens.
+e) Define the budgets for the participants
+Fill in the budget for each participant on the Partner Financial Information screens.
+Make sure the budget details match the proposal and the GAP invitation letter (and the
+detailed budget table, if required).
+f) Provide the banking details for the Coordinator
+Select the bank account to be used for payments from the dropdown menu on the
+Coordinator’s Bank Account screen.
+If your preferred bank account is not listed, you must ask your LEAR to add the bank
+account in the Participant Register (My Organisations > Actions > Modify Organisation).
+Once the new bank account has been validated (this may take a few days), it will appear
+in the dropdown menu and you will be able to select it.
+f) Enter other information as prompted
+Upload Part B of the description of the action (DoA)
+Upload Part B on the Documents screen. Follow the instructions from Portal Reference
+Documents.
+Sign the declarations of honour (DoH)
+For each Beneficiary, the PLSIGN must sign a declaration of honour (DoH) directly in the
+system (grant declaration) .
+Affiliated entities also need to sign a DoH. For them, the responsible Beneficiary must
+download the template from Portal Reference Documents, ask each entity to complete and
+sign it, then upload the scanned DoHs for their linked third parties.
+Joint and several liability of Affiliated Entities (if required)
+If the Granting Authority requires joint and several liability of an Affiliated Entity, the
+declaration on joint and several liability must be submitted together with the Accession
+Form.
+The Beneficiary must download the form prepared by the system, ask the Affiliated Entity
+to sign it and upload the scanned declaration when signing the Accession Form.
+For more details, see AGA — Annotated Grant Agreement, art 22.
+Prefinancing guarantee (if required)
+If the Granting Authority requires a prefinancing guarantee, you need to obtain this from
+a bank or approved financial institution (using the template available on Portal Reference
+Documents), send a scanned copy through Portal Formal Notifications (My Projects >
+Actions > Manage Project > Launch new interaction with the EU > Formal Notification) and
+the original by registered post with proof of delivery to the mail address of the service
+responsible for your grant.
+For more details, see AGA — Annotated Grant Agreement, art 23.
+Submit grant preparation to the Granting Authority
+Assessment by the Granting Authority and finalisation of GA data
+The Project Officer will enter the EU grant preparation data (GA options, etc) and check the
+data submitted by the consortium. If needed, they will send back the session to the
+consortium for changes/addition information (ping-pong).
+Tips
+Changes to consortium composition/project during grant preparation
+Please note that consortia/projects can be altered ONLY under exceptional circumstances,
+and ONLY if duly justified.
+Nonetheless, there may be circumstances where you may need to change/adjust the consortium
+composition/project before grant signature (bankruptcy, merger/acquisition, loss of a key
+member of staff that is needed to carry out the project, etc).
+In this case, your Coordinator should contact the EU Project Officer explain why and propose a
+solution (reassign tasks and budget within the consortium or to a new participant, adjustments
+to the project, etc).
+If accepted, you may need to update the Grant Management System screens and upload a new
+Part B.
+Please note that the proposals may NOT be substantially changed and that all changed
+elements must comply with the call conditions for the call. Redistribution of tasks must be in
+line with the competences of the participants concerned and the quality of the
+project/consortium must be guaranteed.
+If no acceptable solution is presented, we will request you to withdraw the proposal and
+terminate grant preparation.
+Deadlines
+In the interest of all sides, we will try to handle grant preparation as swiftly as possible (ideally
+3 months after you receive the GAP invitation letter).
+To make this happen, we will ask you to comply with relatively strict deadlines during grant
+preparation:
+• Preparation grant data & annexes (first version): 3 weeks after GAP invitation letter
+• Finalisation grant data & annexes: up to 2 weeks after reply by Project Officer
+• Sign declaration of honour (DoH): at the latest 6 weeks after GAP invitation letter.
+• Grant signature: 3 months from GAP invitation letter
+Deadlines can be extended under exceptional circumstances by the EU Project Officer.
+Please note that if you have not been granted an extension, and fail to meet the established
+deadlines, preparation of your Grant Agreement may be terminated and your proposal rejected.
+3.2.4.2 Final legal checks
+During grant preparation, we will also finalise the mandatory legal checks (legal entity
+validation, operational and financial capacity, exclusion and double funding).
+In case of issues, we may need to contact you.

@@ -1,0 +1,8 @@
+YW Payment
+
+When the Granting Authority approves the payment, the amount due will be paid out to the Coordinator (within 90 days of receiving the report)
+
+If the amount due is above the interim payment ceiling (90% of the maximum grant amount), the amount due will be lowered.
+
+The Granting Authority will send a letter to inform about the payment. After receiving the letter, the Coordinator has 30 days to submit observations, if needed. In case of observations, the Granting Authority will send a confirmation letter to state its final position.
+

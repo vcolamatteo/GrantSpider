@@ -1,0 +1,18 @@
+2. Legal entity validation
+2.1. Legal entity validation and specific legal statuses: Criteria and
+conditions
+One of the main tasks of the Central Validation Service is the validation of new legal
+entities applying for EU grants, procurements, prizes and contribution agreements.
+Legal entity validation is a requirement under the Financial Regulation. It serves to
+ensure that only verified entities can enter into financial relations with the EU and to
+avoid legally invalid contracts.
+Legal entity validation is needed only once, to get the legal entity information and
+1 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the Union, amending Regulations (EU) No
+1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No
+1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing
+Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+2 Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the
+protection of natural persons with regard to the processing of personal data by the Union institutions,
+bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No
+45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).

@@ -1,0 +1,6 @@
+Account Administrator
+
+The LEAR may delegate tasks to one or more Account Administrators. Though the LEAR keeps the full responsibility, Account Administrators can fulfil tasks for their LEAR. An organisation can have an unlimited number of Account Administrators.
+
+If the organisation nominates a new person as their LEAR, the existing Account Administrators remain, but can be revoked by the new LEAR.
+

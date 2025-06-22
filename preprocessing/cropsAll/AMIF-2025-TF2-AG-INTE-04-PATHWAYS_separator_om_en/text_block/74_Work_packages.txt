@@ -1,0 +1,22 @@
+Work packages
+
+All project activities should be grouped in a logical, consistent and structured way into separate work packages. All work packages must present a clear, logical link to the project objectives and to the other work packages. Ideally, each work package should constitute a sub-part of the project, a step leading to the achievement of the project’s overall goals.
+
+Projects should normally have at least 2 work packages:
+
+— work package 1 — management and coordination activities — work package 2 — outputs related to the project goals.
+
+Beyond that, create only as many as you need (as many as necessary, as few as possible).
+
+Work package 1 should normally cover all activities related to the general management and coordination of the project and any activities that do not relate to any of the work packages leading to a specific result, but which are directly linked to the project as a whole.
+
+For the other work packages, describe the:
+
+ • objective(s)  • activities to be implemented — in specific terms  • (tangible and intangible) outputs to be produced.
+
+ • objective(s)
+
+Milestones & deliverables (if required)
+
+Concerning the outputs:
+

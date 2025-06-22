@@ -1,0 +1,20 @@
+3.3.8 Communicating with the Granting Authority
+Formal notification
+The formal notification channel (My Projects > Actions > Manage Project > Launch new
+interaction with the EU > Formal Notification) can be used ONLY for correspondence requiring
+acknowledgement of receipt, i.e.
+• to dispatch replies to formal notifications received from the Granting Authority
+and
+• for communications under Article 19 of the Grant Agreement
+information requests
+o
+information about events and circumstances which impact the action and
+o
+• whenever it is clearly stipulated in the Grant Agreement (e.g. declare conflict of interest,
+force majeure).
+Portal Messaging Facility
+The two Portal Messaging Facilities should be used for all other communications:
+• Participant Register: My Organisations > Actions > Modify Organisation
+• Grant Management System: My Projects > Actions > Manage Project > Process
+Communications)
+The Grant Management System Messaging Facility can be used only by the Coordinator.

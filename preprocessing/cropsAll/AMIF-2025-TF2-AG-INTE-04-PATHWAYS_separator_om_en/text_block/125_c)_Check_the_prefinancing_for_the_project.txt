@@ -1,0 +1,24 @@
+c) Check the prefinancing for the project
+
+The standard prefinancing percentage will be pre-filled for each call on the Project Financial Information screen.
+
+The final prefinancing amount for each project will however be fixed only later, once the budgetary information is completed from your side and the Granting Authority has examined the results from the financial capacity assessment (see section Financial capacity assessment). The prefinancing may be lowered in case of low financial capacity.
+
+d) Complete the legal and administrative information for the participants
+
+Fill in the missing information for each participant on the Partner Summary screen and complete the Affiliated Entities and Associated Partner screens.
+
+e) Define the budgets for the participants
+
+Fill in the budget for each participant on the Partner Financial Information screens.
+
+Make sure the budget details match the proposal and the GAP invitation letter (and the detailed budget table, if required).
+
+f) Provide the banking details for the Coordinator
+
+Select the bank account to be used for payments from the dropdown menu on the Coordinator’s Bank Account screen.
+
+a if your preferred bank account is not listed, you must ask your LEAR to add the bank account in the Participant Register (My Organisations > Actions > Modify Organisation). Once the new bank account has been validated (this may take a few days), it will appear in the dropdown menu and you will be able to select it.
+
+f) Enter other information as prompted
+

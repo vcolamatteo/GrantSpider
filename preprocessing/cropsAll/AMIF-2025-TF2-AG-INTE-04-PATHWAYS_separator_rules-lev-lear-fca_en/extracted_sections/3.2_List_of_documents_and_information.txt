@@ -1,0 +1,161 @@
+3.2 List of documents and information
+For the validation of the LEAR appointment, the scanned version of the following
+documents must be uploaded by the participant in the Participant Register:
+1. LEAR appointment letter* (specifying the LEAR roles & duties and including the
+declaration of consent to the Funding & Tenders Portal Terms and
+Conditions*), completed, dated and signed by the legal representative and the
+LEAR
+2. Integral copy of an official, valid proof of identity (ID-card, passport, with
+photo and signature) of:
+− the legal representative and
+− the appointed representative (LEAR)
+3. Document(s) proving that the legal representative(s) appointing the LEAR is
+empowered as such, which must:
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+− clearly indicate the role/function within the organisation as legal
+representative
+− identify and appoint this person (by indicating their personal data) for
+that role.
+The originals must be kept on file for checks, reviews, audits or investigations (which
+can be required by the EU services at any time). They must not be sent to the Central
+Validation Service.
+After receiving the above-listed documents (and after the PIC has been validated),
+the LEAR appointment will be validated in the Participant Register.
+For a detailed description of the LEAR appointment process, see the Online Manual*
+and the Funding & Tenders Portal Terms and Conditions*.
+Proof of identity
+‘Identity documents’ are those issued by national authorities and recognized by
+national law as valid proof of identity. Identity documents can not be replaced by any
+other means of proof. The EU services cannot waive this requirement under any
+circumstances.
+Examples of identity documents accepted are ID cards and passports. Driving licenses
+are also accepted, as long as they are considered as valid proof of identity under the
+applicable national law of the entity concerned.
+Identity documents must be valid (not expired) at the time of the LEAR appointment.
+An integral copy of the document must be provided (e.g. in most countries both sides
+of the identity card must be provided).
+Identity documents in which some parts/elements, including the photo, have been
+deleted/erased/covered (e.g. with black marker) cannot be accepted.
+Specific cases
+❖ Service cards and badges issued by the participant — Cannot replace identity
+documents (even if the participant is a public body) and therefore cannot be accepted
+as proof of identity.
+❖ Print-outs from the ID electronic chip — Cannot be accepted either.
+Signatures
+The LEAR documents must be signed by persons who are legal representatives of the
+participant.
+The names of both legal representative and LEAR in the LEAR documents must
+correspond to those indicated in their official identity documents. LEAR documents
+signed with acronyms/nick names/etc that do not correspond to the names indicated
+in the identity documents will not be accepted.
+Signatures can be either handwritten signatures or qualified electronic signatures
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+within the meaning of Article 3(12) of Regulation 910/20148. For the latter, the
+Central Validation Service will verify that the signature is based on a valid qualified
+certificate and was created by a secure creation device. See here for the list of
+accepted trust service providers: eIDAS Dashboard (europa.eu).
+Specific cases
+❖ Internal requirements (e.g. joint signature of more than one person required to
+legally engage the entity, foreseen by law, act of establishment, statutes, internal
+rules, etc) — In case of internal requirements, the participant is fully responsible for
+ensuring compliance (e.g. through an internal process ensuring that the single
+signature on the LEAR documents is made only after all the internal requirements on
+joint signature are fulfilled).
+❖ Limitations — The Central Validation Service will take into account limitations to
+represent the entity only if these limitations are explicitly mentioned in the
+documents submitted to prove the empowerment of the legal representative (e.g.
+limitation in the excerpts of the company registry).
+Documents proving the empowerment of the legal representative
+The document(s) proving the empowerment must identify:
+− the role/function of legal representative within the entity
+− the name and appointment of the person (by indicating their personal data) for
+that role.
+This can be found in a single document (in case the official appointment also specifies
+the powers/tasks related to the appointment) or in several documents combined (e.g.
+the official act of appointment and the organisational document, such as act of
+establishment, statutes, articles of association, etc, in which the powers/tasks related
+to the role are identified).
+The documents must be valid (not expired) at the time when the LEAR is appointed.
+The documents proving the appointment of the legal representative are those
+required/accepted under the applicable national law of the entity concerned. They
+may vary depending on the country, the legal form and status:
+− law/decree/official act/official gazette in case of public entities
+− copy of the treaty in case of international organisations
+− decision of assembly, official documents from the council of administration,
+executive committee or directors board, excerpts of the company registry in
+case of private entities.
+A declaration of honour can be accepted only in exceptional, duly justified cases
+where none of the above exists.
+Concerning the language of such documents and participant's responsibilities
+concerning translations, see section 2.2.1.
+8 Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on
+electronic identification and trust services for electronic transactions in the internal market (OJ L 257,
+28.8.2014, p. 73).
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+Specific cases
+❖ Participants who are natural persons — Do not need to prove their
+empowerment, but still need to send the supporting documents listed above. The
+documents should be signed by the natural person alone. A copy of the ID documents
+of the natural person must also be included.
+❖ Deputising persons — In case of temporary absence of the legal
+representative(s) or their impossibility to sign, other persons empowered to act as
+legal representatives (i.e. deputising persons) are accepted as legal representatives
+by default. The reason for the temporary absence/impossibility and the legitimation of
+the deputy will not be checked by the Central Validation Service and therefore
+remains under the full responsibility of the participant (see also above under ‘internal
+requirements’).
+❖ Ministries — For ministries, Ministers are considered legal representatives by
+default and there is no need to provide the legal documents proving their
+empowerment.
+In addition to the Minister's role, the following roles/functions are considered as legal
+representatives by default, without any further verification of the legal documents
+proving their empowerment:
+− Deputy Minister
+− State/General Secretary and their deputies
+− Directors of certain specific horizontal sectors/departments/directions, namely
+'legal', 'financial','European or international relationships'.
+If the official act of appointment is not provided by the ministry, the evidence may be
+taken from other appropriate sources (e.g. Official Gazette, the organisational chart
+published on the official website of the ministry).
+Except if otherwise provided in the applicable rules (law/decree/act governing the
+organisation of the ministry), other roles such as ‘Director’/‘Had of Department’/‘Head
+of Unit’, etc will be considered as having limited tasks and powers (relating only to
+the directorate/department/unit’s policies) and, therefore, not entitled to represent
+and engage the ministry as a whole.
+For Ministers, the ID document can be exceptionally replaced by a badge or service
+card (issued by the ministry). This exception applies only to the person of the
+‘Minister’ and cannot be extended to other representatives (such as State Secretaries,
+Deputy Ministers or Directors/Head of Departments); these persons are not exempted
+from the obligation to provide an ID document.
+❖ Public bodies and governmental entities — For public bodies and other
+state/governmental entities, including executive services at central/regional/local
+level, the highest-ranked person (e.g. Director-General, President, Mayor, etc) will be
+recognized as legal representative by default.
+If the official act of appointment is not provided by the entity, the evidence may be
+taken from other appropriate sources (e.g. Official Gazette, the organisational chart
+published on the official website).
+❖ International organisations — For international organisations, the highest-
+ranked person (e.g. Secretary, Secretary-General) will be recognised as legal
+representative by default.
+EU Funding & Tenders: Rules for LEV, LEAR Appointment and FCA: V5.0 – 01.02.2024
+BG CS DA DE EL EN ES ET FI FR GA HR HU IT LT LV MT NL PL PT RO SK SL SV
+If the official act of appointment is not provided by the international organisation, the
+evidence may also be taken from other appropriate sources (e.g. Official Gazette, the
+organisational chart published on the official website of the international
+organisation).
+❖ Universities and higher education establishments — For universities and
+other higher education establishments (e.g. colleges, institutes, etc), the following
+roles/functions are recognised as legal representative by default, without any further
+verification of their powers:
+− Rector and Vice-Rector
+− President and Vice-President
+− Chancellor and Vice Chancellor.
+In case of faculties with their own legal personality (and thus independently
+validated), the Dean and Vice-Dean can also act as legal representatives by default.
+If the official act of appointment is not provided by the university/higher education
+establishment/faculty, the evidence may also be taken from other appropriate
+sources (e.g. the organisational chart published on the official internet-site of the
+university/faculty).

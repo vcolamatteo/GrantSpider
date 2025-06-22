@@ -1,0 +1,20 @@
+Submitting the periodic reports
+
+You should start preparing the periodic report in the Grant Management System right after the periodic reporting is opened at the end of each reporting period (— deadline for submission is normally 60 days).
+
+Details on how to submit are available inthe SZ
+
+W Make sure that the information in the Continuous Reporting Module is updated
+
+\ This must be done before the Technical Report (both parts) is first Locked for review by the Coordinator. Any entries into the Continuous Reporting Module made afterwards will NOT be included in this periodic report.
+
+Go to My Projects > Actions > Manage Project > Periodic Reporting > Financial Statement drafting and complete the Financial Statements for each participant on their Financial Statement screen.
+
+Make sure the cost details match the use of resources or detailed budget table (if required).
+
+To sign and submit to the Coordinator, the Beneficiary’s PFSIGN must log into My Projects > Actions > Manage Project > Periodic Reporting > Sign & Submit (same procedure as for Grant Agreement; see Signing the Grant Agreement).
+
+Affiliated Entities must supply their Beneficiary with a signed paper Financial Statement; the Beneficiary must then fill in the information in the system and sign and submit.
+
+as If you fail to submit a Financial Statement, your costs will be considered zero for this reporting period (but you can declare them in the next reporting period).
+

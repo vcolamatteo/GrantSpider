@@ -1,0 +1,32 @@
+3.2.4 Grant preparation
+
+Grant preparation
+
+The Grant Agreement must be prepared directly in the Portal Grant Management System.
+
+Where? Access to the Grant Management System is available through My Projects > Actions > Manage Project > Proposal Management & Grant Preparation > Grant agreement data preparation.
+
+Who? The Grant Agreement data should be prepared by the consortium participants together and submitted by the Coordinator.
+
+How? You will be prompted by e-mail for all the actions that you need to carry out for the grant preparation. For more details, see the /ist of grant-related notifications.
+
+What? The grant preparation process consists of:
+
+ • setting up the Portal Grant Management System with the: o participants’ legal, administrative and financial information o description of the action (DoA, Annex 1 GA) o estimated budget (Annex 2 and 2a GA) o project variables (when the project starts, reporting periods, amount of prefinancing, GA options, etc)
+
+ • setting up the Portal Grant Management System with the:
+
+o project variables (when the project starts, reporting periods, amount of prefinancing, GA options, etc)
+
+o legal documents needed for grant signature (declarations of honour)
+
+ • so that the system can generate the Grant Agreement
+
+and
+
+ • trigger signature directly inside the system (Grant Agreement and Accession Forms).
+
+In parallel, the Granting Authority will perform the remaining legal checks to ensure that all the successful proposals can receive EU funding (legal entity validation, financial capacity check, non-exclusion check, etc).
+
+4S Our Grant Agreement clauses are common to all EU programmes and mandatory for all beneficiaries. They are explained in more detail in the AGA — Annotated Grant Agreement.
+

@@ -1,0 +1,22 @@
+Proposal roles
+
+When preparing your proposal, you will need to define the participating organisations and the organisation/proposal contact(s). Both are set in the application online form.
+
+For grants and prizes: The proposal will contain the following types of participating organisations:
+
+ • Coordinator. A proposal can have only one, and you may submit an application with just one Coordinator and no other participating organisations. You need to name a
+
+Coordinator immediately to launch your application, but you can change it later on, before submission.
+
+ • Partner. A proposal can have none, one or more. The number of Partners in an application (and other aspects such as the country where they are registered, etc) are subject to the call conditions (i.e. the specific requirements for each call for proposals).  • Partners can also have Affiliated Entities linked to them (through a permanent legal or capital link or as members of an association; former Linked Third Parties). Affiliated Entities are allowed to fully participate in the grant and claim costs. They must comply with all eligibility conditions (Same as a Partner).  • Associated Partners. This kind of participating organisation contributes to the project but cannot claim costs. They are normally not linked to any Partner and do not need to comply with the eligibility conditions.
+
+Then, you will need to define the contact persons for each participating organisation. There are two possible types of contacts:
+
+ • Main Contact. You need to define one per participating organisation.
+
+ • Main Contact. You need to define one per participating organisation.  • Contact Person. You may define one or more Contact Persons for each Partner. You may further define their kind of access as Coordinator/Participant Contact (full access) or Team Member (read-only access).
+
+The roles in your proposal will afterwards become project roles:
+
+ • The Main Contact of the Coordinator will become the Primary Coordinator Contact (PCoCo). This role is automatically assigned to the initiator of the application who submits the proposal to the EU.  • The Main Contacts of the Partners will become Participant Contacts (PaCo).  • The Contact Persons of the Coordinator/Partners will become Team Members (TeMe) if they had read-only access in the application form or Participating Contacts (PaCo) if they had full access.
+

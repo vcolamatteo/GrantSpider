@@ -1,0 +1,8 @@
+How are access rights managed?
+
+Roles are divided into 2 main sections:
+
+ • Organisation roles are linked to the whole organisation and its data (but without any access to the projects/contracts)  • Project/contract roles are defined first in the proposal, and then transferred to the project/contract when you have been invited to sign with the EU. They are managed application by application and project by project, covering all types of access (read/write/submit).
+
+One user can have several roles at the same time.
+
