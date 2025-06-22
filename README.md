@@ -44,6 +44,18 @@ This repository is divided into two key modules:
 
 ---
 
+## 📋 Project Documentation
+
+📄 **Detailed project documentation is available in [`assignment.pdf`](assignment.pdf)** - This comprehensive document includes:
+- Complete system architecture and design decisions
+- Layout document analysis methodology
+- Multi-agent RAG system implementation details
+- Command-line examples and Gradio web UI screenshots
+- Performance analysis and future improvements
+
+---
+
+
 ## 🚀 Getting Started
 
 Clone the repository and install dependencies:
