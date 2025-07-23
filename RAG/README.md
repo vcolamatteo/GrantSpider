@@ -27,7 +27,7 @@
 
 🎨 **Web UI** - Gradio interface
 
-🔧 **Easy Setup** - UV pacage
+🔧 **Easy Setup** - UV package
 
 
 ---
