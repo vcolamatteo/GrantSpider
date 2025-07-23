@@ -5,7 +5,7 @@
 <h2 align="center">🕷️ Conversational Multi-Agent Chatbot</h2>
 
 <p align="center">
-  <em>A tech interview challenge for exploring an agentic retrieval solution for Grant QA</em>
+  <em>An agentic retrieval solution for Grant QA</em>
 </p>
 
 <p align="center">
